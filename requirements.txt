@@ -9,3 +9,4 @@ langchain_chroma
 torch
 streamlit
 dotenv
+sentence-transformers.
