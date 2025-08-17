@@ -1,0 +1,110 @@
+S.No,Emp.No,Name of the Faculty,Cabin No
+1,70003,Dr. Hari Seetha,CB;222
+2,70023,Dr. Soubhagya Sankar Barpai,CB;427-C
+3,70029,Dr. Ajith Jubilson E,AB-2;G-05 (SDC)
+4,70032,Dr. Hussain Syed,AB-1;167
+5,70034,Dr. Deepasiktha Mishra,AB-1;170
+6,70051,Dr. Saroj Kumar Panigrany,AB-1;329-B
+7,70054,Dr. Asish Kumar Dalai,AB-1;329-C
+8,70066,Dr. Ravi Sankar Borgaanda,AB-2;G-02 (SDC)
+9,70071,Dr. Hari Kishan Kondaveeti,CB;G05-B
+10,70079,Dr. Nandha Kumar R,CB;415-C(CTS-421)
+11,70084,Dr. Sibi Chakkaravarthy S,CB;222
+12,70087,Dr. Sudhakar Ilango S,CB;415-G
+13,70103,Dr. Aravapalli Rama Satish,AB-2;G-02 (SDC)
+14,70104,Dr. Devarakonda Nagaraju,CB;G05-G
+15,70107,Dr. Gopikrishnan S,CB;418-D
+16,70110,Dr. Ananda Venkiran,AB-1;166
+17,70122,Dr. D Sumathi,AB-2;G-02 (SDC)
+18,70123,Dr. Prabha Selvaraj,AB-1;326-F
+19,70125,Dr. Sandipan Maiti,AB-2;G-02 (SDC)CB;407-B
+20,70135,Dr. Sunil Kumar Singh,CB;223
+21,70140,Dr. Ganesh Reddy Karri,CB;221
+22,70151,Dr. Kumar Debasis,CB;407-A
+23,70167,Dr. Somya Ranjan Sahoo,CB;407-H
+24,70202,Dr. Vikash Kumar Singh,AB-1;G36
+25,70217,Dr. Sanket Mishra,CB;426-D
+26,70275,Dr. Senthil Murugan,
+27,70277,Dr. P Lalitha Kumari,CB;407-J
+28,70278,Dr. Chittipireddi Koteswara,AB-1;148
+29,70294,Dr. Monali Bordoloi,CB;407-F
+30,70280,Dr. karthika Natarajan,CB;426-A
+31,70281,Dr. Sheela Jayachandran,CB;407-I
+32,70282,Dr. Udit Narayana Kar,CB;426-E
+33,70290,Dr. P Kuppusamy,CB;103-A
+34,70291,Dr. Divya Meena Sundaram,CB;407-E
+35,70294,Dr. Rohit Kumar Das,CB;418-H
+36,70296,Dr. Manomita Chakraborty,CB;407-G
+37,70306,Dr. Reeja S R,AB-1;132
+38,70307,Dr. G. Muneeswari,CB;205-E
+39,70308,Dr. Dasari Venkata Lakshmi,CB;415-H
+40,70310,Dr. Afzal Hussain Shahid,CB;427-E
+41,70351,Dr. Gouranga Mandal,CB;427-A
+42,70369,Dr. Arindam Dey,CB;G07-F
+43,70371,Dr. Bolem Sai Chandana,CB;G04-B
+44,70388,Dr. Rajesh Duvvuru,CB;427-D
+45,70390,Dr. Beebi Naseeba,CB;415-I
+46,70391,Dr. Eswarajah Rayachoti,AB-1;127
+47,70397,Dr. Nagendra Panini Challa,CB;415-L
+48,70399,Dr. Siddique Ibrahim Peer Mohamed,CB;115-D
+49,70401,Dr. Selva Kumar S,AB2;G05 (SDC)
+50,70403,Dr. JAGADEESH M S,CB;115-E
+51,70436,Dr. Naga Jagadeesh Bommagani,CB;201-F
+52,70438,Dr. Prashanth Rajam,CB;201-E
+53,70448,Dr. Azees Maria John Francis,CB;204-F
+54,70455,Dr. Sachi Nandan Mohanty,CB;205-G
+55,70457,Dr. Khasim Syed,AB-1;164
+56,70459,Dr. Chirra Venkata Rami Reddy,CB;407-A
+57,70462,Dr. D. Khasim Vali,CB;415-D
+58,70465,Dr. Y. Narasimha Rao,CB;415-A
+59,70466,Dr. Y.C Bharathi,CB;415-B
+60,70469,Dr. M M Venkata Chalapatih Rao,CB;415-J
+61,70473,Dr. Ramesh Vatambeti,CB;128-I
+62,70474,Dr. Kareemulla Shaik,AB-1;328-B
+63,70475,Dr. Radha Mohan Pattanayak,CB;203-E
+64,70476,Dr. Kolluri Rajesh,CB;227-B
+65,70479,Dr. Bommareddy Lokesh,CB;327-E
+66,70482,Dr. Surendra Reddy Vinta,CB;229-A
+67,70487,Dr. Anil Vithal Turukmane,CB;229-E
+68,70488,Dr. Ramkumar. D,CB;229-F
+69,70493,Dr. Hemant Kumar Reddy K,CB;427-B
+70,70503,Dr. Arunkumar Balakrishnan,CB;327-A
+71,70504,Dr. Nihar Ranjan Pradhan,CB;327-B
+72,70505,Dr. Deepthi Godavarthi,CB;327-C
+73,70517,Dr. Srinivasa Reddy Konda,CB;312 (CDC)
+74,70522,Dr. Tauseef Khan,AB-1;162
+75,70539,Dr. Misha Chandar,CB;128-H
+76,70545,Dr. Anupriya Elumalai,CB;312 (CDC)
+77,70548,Dr. Lella Kranthi Kumar,CB;G05-C
+78,70557,Dr. Anurag De,CB;418-A
+79,70568,Dr. Visalakshi Annepu,CB;415-K
+80,70576,Dr. Suma Kamalesh Gandhimi,CB;203-G
+81,70585,Dr. B V Gokulnath,CB;327-F
+82,70591,Dr. Chintakindi Balaram Murthy,CB;128-E
+83,70592,Dr. Naresh Sammeta,AB-1;157
+84,70597,Dr. D. Santhadeevi,CB;407-D
+85,70607,Dr. Helen Sharmila A,CB;408-D
+86,70608,Dr. Deepanramkumar P,CB;408-E
+87,70619,Dr. Venkata Bhikshapatih Ch,CB;101-E
+88,70628,Dr. Suresh Dara,CB;418-L
+89,70630,Dr. Mohan Allam,CB;418-G
+90,70633,Dr. Jeethu V Devasia,CB;426-B
+91,70634,Mr. Gokul Yenduri,CB;426-C
+92,70639,Dr. Srinivas Arukonda,CB;229-G
+93,70640,Dr. Srinivasarao Pokuri,CB;227-A
+94,70641,Dr. Durgapalli Sudheer,CB;205-C
+95,70642,Dr. Koduru Hajarathaiah,CB;418-E
+96,70643,Dr. V. Srilakshmi,CB;229-B
+97,70645,Dr. Chilukamari Rajesh,CB;204-E
+98,70646,Dr. Sukara Kalyani,CB;408-H
+99,70647,Dr. Kothandapani D,CB;418-K
+100,70648,Dr. Kailash Chandra Mishra,CB;326-E
+101,70649,Dr. Priyanka Singh,CB;407-B
+102,70651,Dr. Premkumar Chithaluru,CB;418-I
+103,70652,Dr. Thatiparthy Bharath Kumar,CB;426-D
+104,70655,Dr. S. Bharath Bhushan,CB;415-F
+105,70667,Ms. Posham Uppamma,CB;116-C
+106,40007,Dr. Rammohan Mallipeddi,AB-1;329-F
+107,40008,Dr. Gundimeda Venugopal,AB-1;165
+108,70680,Mrs. I. Ramathulasi,AB-1;328-H
+109,70681,Dr. Loganthan Pavithra,CB;415-C

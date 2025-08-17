@@ -1,0 +1,59 @@
+=== ABOUT LIBRARY ===
+The VIT-AP University Library is a technology-driven, user-centric, innovative platform for the academic community with the motto “Apply Knowledge and Improve Life®.” 
+It maintains a balance between traditional and modern concepts of library service. 
+The library is equipped with modern facilities and resources including CD-ROMs, DVD-ROMs, online databases, micro-documents, video cassettes, books, journals, and a fully developed digital library.
+It provides a rich collection of reference books, textbooks, and research journals in both electronic and print formats in the fields of engineering, basic sciences, humanities, management, law, and allied subjects.
+
+=== LIBRARY RESOURCES ===
+Available resources to support your studies:
+- Books (Text and Reference)
+- EBooks
+- Print Journals
+- E Journals
+- CDs & DVDs
+- Magazines
+- Newspapers
+- Back Volumes
+
+=== LIBRARY INFRASTRUCTURE ===
+- Area: 1470 sq.mt, centrally air-conditioned, Wi-Fi enabled
+- CCTV surveillance for security
+- Total seating capacity: 430
+- Facilities:
+  1. Three reading halls
+  2. One reference cum periodical section
+  3. Three discussion rooms
+  4. One digital library with 15 computers
+
+=== LIBRARY HOURS ===
+- Regular Days: 9 a.m. to 7 p.m.
+- Examination Days: 9 a.m. to 9 p.m.
+- Closed on university holidays
+
+=== LIBRARY SERVICES ===
+- Lending Services
+- Digital Resource Services
+- OPAC / Web OPAC
+- Library Orientation
+- CAS / SDI (Current Awareness Services / Selective Dissemination of Information)
+- Institutional Repository
+- Reference Services
+- Printing / Scanning
+- Inter Library Loan (through DELNET)
+- New Arrival Information
+- NPTEL Access
+
+=== LIBRARY MEMBERSHIP ===
+- DELNET (Development of Library Networks)
+- Web OPAC Access
+
+=== E-RESOURCES ===
+Library provides subject-specific e-resources to users through institutional subscriptions or consortia.
+
+| S.No | Title                       | URL                                                        | Type                 |
+| ---- | --------------------------- | ---------------------------------------------------------- | -------------------- |
+| 1    | McGraw Hill                 | http://www.eurekaselect.com                                | E-Books              |
+| 2    | Pearson eBook               | http://www.eurekaselect.com                                | E-Books              |
+| 3    | Springer Link               | http://www.eurekaselect.com                                | E-Journals & E-Books |
+| 4    | World Scientific Publishers | http://www.eurekaselect.com                                | E-Books              |
+| 5    | Web of Science              | http://www.eurekaselect.com                                | Citation Database    |

@@ -1,0 +1,86 @@
+=== APPLICATION PROCESS - VIT-AP UNIVERSITY ===
+
+VIT-AP has a transparent Application Process. The details of the application process for various programmes are given below.
+
+---
+
+### B.TECH ADMISSION
+
+Eligibility Criteria
+
+Nationality:
+- Applicant can be: Resident Indian / Non-Resident Indian (NRI) / OCI / PIO Holder.
+- NRI applicants can apply directly under 'NRI Category' through NRI application form (available soon)  
+  Link: https://vit.ac.in/admissions/international/overview
+- Foreign applicants who studied/studying abroad can apply through International application form.  
+  Link: https://admissions.vit.ac.in/ugirapplication/
+
+Age Limit:
+- Candidates born on or after 1st July 2003 are eligible to apply for VITEEE-2025.
+- Must produce original proof of date of birth at counselling; otherwise, disqualified.
+
+Qualifying Examination:
+- Applicants should have passed +2 / Intermediate with:
+  - Minimum 60% aggregate in Physics, Chemistry, Mathematics/Biology (PCM/PCB).
+  - Minimum 50% aggregate for:
+    - SC/ST
+    - Candidates from J&K, Ladakh, and North Eastern states (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura).
+
+Subject Eligibility:
+- PCMB/PCM applicants (Maths, Physics, Chemistry, English & Aptitude - MPCEA) → Eligible for all B.Tech programmes.
+- PCMB/PCB applicants (Biology, Physics, Chemistry, English & Aptitude - BPCEA) → Eligible only for:
+  - B.Tech. Biotechnology (VIT Vellore)
+  - B.Tech. CSE (Bioinformatics), VIT Vellore
+  - B.Tech. ECE (Biomedical Engineering), VIT Vellore
+  - B.Tech. Health Sciences and Technology, VIT Vellore
+  - B.Tech. Bioengineering, VIT Bhopal
+  - B.Tech. CSE (Health Informatics), VIT Bhopal
+
+Application:
+- Apply online: https://viteee.vit.ac.in/
+
+Admission Process:
+1. Selection based on rank in VITEEE Computer Based Test (CBT).
+2. Shortlisted candidates called for online counselling.
+3. Candidate selects campus and programme.
+4. After fee payment, classes start (online or in-person).
+5. Candidate must verify original documents at joining.
+
+---
+
+### INTEGRATED M.TECH (5 YEARS)
+
+Eligibility Criteria
+
+Nationality:
+- Applicants must be Resident Indian Nationals and have studied full-time formal education in India in the last 2 years (10+2).
+- NRI/Foreigners must apply via: https://vit.ac.in/admissions/international/integrated  
+  Fees: USD 5600/year
+
+Age Limit:
+- Candidates born on or after 1st July 2005 are eligible.
+
+How to Apply:
+1. Apply online only on the VIT website.
+2. Valid email ID & active mobile number required.
+3. OTP verification → Password sent to registered email.
+4. Application number generated after primary details.
+5. Pay ₹600 non-refundable via NetBanking / Card / Paytm.
+6. Upload documents:
+   - Birth Certificate
+   - 10th Marksheet
+   - 12th Marksheet / Statement
+   - 12th Exam Hall Ticket / Admit Card
+7. Download filled application for reference.
+8. Do not send hard copy to VIT.
+
+Admission Process:
+- Merit based on aggregate of Physics, Chemistry, Mathematics in 12th (rounded to 2 decimals).
+- Tie-breaker: Best score order → Mathematics → Physics → Chemistry → Total marks.
+- Shortlisted list published: 04.06.2025 (tentative).
+- Campus & programme preference selection: 04.06.2025 – 06.06.2025.
+- Seat allotment: 10.06.2025 (fixed; cannot change).
+- Provisional Admission Letter issued → Fee payment deadline: 20.06.2025.
+- Orientation & commencement: Notified via email.
+
+---

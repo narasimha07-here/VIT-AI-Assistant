@@ -1,0 +1,17 @@
+=== Courses offered for BTech CSE(core) ===
+
+# B.Tech CSE Batch 2021 - Course Data
+
+## Programme Core
+
+| Sl.No. | Basket Title | Course Code | Course Title | Course Type | Credits | Compulsory Course |
+|--------|--------------|-------------|--------------|-------------|---------|-------------------|
+| 1 | Programme Core Basket of B.Tech. CSE Batch 2021 | CSE1005 | Software Engineering | ETL | 4.0 | Compulsory |
+| 2 | Programme Core Basket of B.Tech. CSE Batch 2021 | CSE1008 | Theory of Computation | TH | 4.0 | Compulsory |
+| 3 | Programme Core Basket of B.Tech. CSE Batch 2021 | CSE2007 | Database Management Systems | ETL | 4.0 | Compulsory |
+| 4 | Programme Core Basket of B.Tech. CSE Batch 2021 | CSE2008 | Operating Systems | ETL | 4.0 | Compulsory |
+| 5 | Programme Core Basket of B.Tech. CSE Batch 2021 | CSE3003 | Computer Networks | ETL | 4.0 | Compulsory |
+| 6 | Programme Core Basket of B.Tech. CSE Batch 2021 | CSE3004 | Design and Analysis of Algorithms | ETL | 4.0 | Compulsory |
+| 7 | Programme Core Basket of B.Tech. CSE Batch 2021 | ECE1003 | Digital Logic Design | ETL | 4.0 | Compulsory |
+| 8 | Programme Core Basket of B.Tech. CSE Batch 2021 | ECE2002 | Computer Organization and Architecture | TH | 4.0 | Compulsory |
+| 9 | Programme Core Basket of B.Tech. CSE Batch 2021 | MAT1003 | Discrete Mathematical Structures | TH | 4.0 | Compulsory |

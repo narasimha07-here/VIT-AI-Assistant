@@ -1,0 +1,47 @@
+=== VALUE ADDED COURSES (VAC) ===
+
+VIT-AP University introduces **Value-Added Courses** designed exclusively for **freshmen students**.  
+These courses aim to **empower students** with:  
+- **Knowledge and technical skills**  
+- **Moral and ethical values**  
+- **Self-improvement opportunities**  
+
+Students gain exposure to **cutting-edge technologies and tools**, learn to **navigate challenges in a rapidly evolving world**, and **build a strong moral compass**.
+
+---
+
+### **Objectives of VAC**
+- Introduce students to **emerging technologies**  
+- Develop **critical thinking and problem-solving skills**  
+- Enhance **communication and personal development**  
+- Impart **ethical and environmental awareness**  
+- Prepare students for **future academic and career challenges**  
+
+---
+
+### **Sample Value-Added Courses**
+- **Fundamentals of Cosmology**  
+- **3D Printing**  
+- **ADR Mechanism**  
+- **Arduino Programming**  
+- **ANSYS**  
+- **AutoCAD**  
+- **C Programming**  
+- **Consumer Protection Law**  
+- **Database Migration**  
+- **Environmental Chemistry and Pollution Control**  
+- **DevOps using AWS**  
+- **Hands-on Wireless Network Security**  
+- **How to Haiku (Creative Writing)**  
+- **RTI Awareness**  
+- **Professional Spring Framework**  
+- **Spoken English Master Class**  
+- **Journal Paper & Report Writing**  
+- **Sustainable Planning and Governance**  
+- **Text Analytics**  
+- **Advanced Data Analytics Tools**  
+- **Data Science & Advanced Analytics**  
+
+---
+
+These courses provide **practical, industry-oriented skills** and **encourage self-paced learning**, helping students **stay ahead in academics, industry readiness, and personal growth**.

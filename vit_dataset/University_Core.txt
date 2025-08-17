@@ -1,0 +1,341 @@
+=== Courses offered for BTech CSE(core) ===
+
+# University Core Courses - BTech CSE 2021
+
+| Sl.No. | Basket Title | Course Code | Course Title | Course Type | Credits | Compulsory Course |
+|--------|--------------|-------------|--------------|-------------|---------|-------------------|
+| 1 | Clubs Basket for B.Tech 2021 | EXC1001 | Toast Masters Club | ECA | 2.0 | |
+| 2 | Clubs Basket for B.Tech 2021 | EXC1002 | Dhwani - Theatre and Fine Arts Club | NCC | 2.0 | |
+| 3 | Clubs Basket for B.Tech 2021 | EXC1003 | LIVIT - Health and Wellness Club | ECA | 2.0 | |
+| 4 | Clubs Basket for B.Tech 2021 | EXC1004 | Music Club | ECA | 2.0 | |
+| 5 | Clubs Basket for B.Tech 2021 | EXC1005 | Sports Club | ECA | 2.0 | |
+| 6 | Clubs Basket for B.Tech 2021 | EXC1006 | Uddeshya VIT-AP | NCC | 2.0 | |
+| 7 | Clubs Basket for B.Tech 2021 | EXC1007 | Quiz Club | NCC | 2.0 | |
+| 8 | Clubs Basket for B.Tech 2021 | EXC1008 | The Gardening Club | ECA | 2.0 | |
+| 9 | Clubs Basket for B.Tech 2021 | EXC1009 | MTT IEEE chapter | ECA | 2.0 | |
+| 10 | Clubs Basket for B.Tech 2021 | EXC1010 | Comedy Club | NCC | 2.0 | |
+| 11 | Clubs Basket for B.Tech 2021 | EXC1011 | Kannada Association | NCC | 2.0 | |
+| 12 | Clubs Basket for B.Tech 2021 | EXC1012 | Do It Yourself (DIY) Club | NCC | 2.0 | |
+| 13 | Clubs Basket for B.Tech 2021 | EXC1013 | IET Club | NCC | 2.0 | |
+| 14 | Clubs Basket for B.Tech 2021 | EXC1014 | BIOSCOPE - Movie Making and Screening Club | NCC | 2.0 | |
+| 15 | Clubs Basket for B.Tech 2021 | EXC1015 | Social Entrepreneurship Empowerment and Development Club | ECA | 2.0 | |
+| 16 | Clubs Basket for B.Tech 2021 | EXC1016 | Beat the Heat - Dance Club | NCC | 2.0 | |
+| 17 | Clubs Basket for B.Tech 2021 | EXC1017 | Run 4 a Cause Club | ECA | 2.0 | |
+| 18 | Clubs Basket for B.Tech 2021 | EXC1018 | Adventure Club | ECA | 2.0 | |
+| 19 | Clubs Basket for B.Tech 2021 | EXC1019 | Click n Flick Photography Club | NCC | 2.0 | |
+| 20 | Clubs Basket for B.Tech 2021 | EXC1020 | Culinary Club | ECA | 2.0 | |
+| 21 | Clubs Basket for B.Tech 2021 | EXC1021 | National Service Scheme (NSS) VIT-AP | NCC | 2.0 | |
+| 22 | Clubs Basket for B.Tech 2021 | EXC1022 | Indian Classical Music Club | NCC | 2.0 | |
+| 23 | Clubs Basket for B.Tech 2021 | EXC1023 | Western Music Club | NCC | 2.0 | |
+| 24 | Clubs Basket for B.Tech 2021 | EXC1024 | News Paper club | NCC | 2.0 | |
+| 25 | Clubs Basket for B.Tech 2021 | EXC1025 | Sanskriti Club | NCC | 2.0 | |
+| 26 | Clubs Basket for B.Tech 2021 | EXC1026 | YouTuber Club | ECA | 2.0 | |
+| 27 | Clubs Basket for B.Tech 2021 | EXC1027 | Open Community RUDRA | ECA | 2.0 | |
+| 28 | Clubs Basket for B.Tech 2021 | EXC1028 | Clean Campus Club - Swacch VIT-AP | ECA | 2.0 | |
+| 29 | Clubs Basket for B.Tech 2021 | EXC1029 | KNIT Club | NCC | 2.0 | |
+| 30 | Clubs Basket for B.Tech 2021 | EXC1030 | SPIC MACAY Heritage Club | ECA | 2.0 | |
+| 31 | Clubs Basket for B.Tech 2021 | EXC1031 | Telugu Association | NCC | 2.0 | |
+| 32 | Clubs Basket for B.Tech 2021 | EXC1032 | Tamil Association | NCC | 2.0 | |
+| 33 | Clubs Basket for B.Tech 2021 | EXC1033 | Hindi Association | NCC | 2.0 | |
+| 34 | Clubs Basket for B.Tech 2021 | EXC1034 | Malayalam Association | NCC | 2.0 | |
+| 35 | Clubs Basket for B.Tech 2021 | EXC1035 | Odia Association | NCC | 2.0 | |
+| 36 | Clubs Basket for B.Tech 2021 | EXC1036 | Bengali Association | NCC | 2.0 | |
+| 37 | Clubs Basket for B.Tech 2021 | EXC1037 | English Literary Association | NCC | 2.0 | |
+| 38 | Clubs Basket for B.Tech 2021 | EXC1038 | Book Club - Inculcate Art of Reading | NCC | 2.0 | |
+| 39 | Clubs Basket for B.Tech 2021 | EXC1039 | Innovators Quest Club | NCC | 2.0 | |
+| 40 | Clubs Basket for B.Tech 2021 | EXC1040 | Kalki - Personal Development Club | NCC | 2.0 | |
+| 41 | Clubs Basket for B.Tech 2021 | EXC1041 | Mélange - Inspire, Attract and Trend Club | ECA | 2.0 | |
+| 42 | Clubs Basket for B.Tech 2021 | EXC1042 | MUN Club | NCC | 2.0 | |
+| 43 | Clubs Basket for B.Tech 2021 | EXC1043 | Nutrition Club | NCC | 2.0 | |
+| 44 | Clubs Basket for B.Tech 2021 | EXC1044 | Youth Empowerment and Skills Slub - (YES+!) | ECA | 2.0 | |
+| 45 | Clubs Basket for B.Tech 2021 | EXC1045 | Think and Thrive Club | ECA | 2.0 | |
+| 46 | Clubs Basket for B.Tech 2021 | EXC1046 | VITonomics Club | ECA | 2.0 | |
+| 47 | Clubs Basket for B.Tech 2021 | EXC1047 | Around the World Club | ECA | 2.0 | |
+| 48 | Clubs Basket for B.Tech 2021 | EXC1048 | Intelligent and Intuitive AI Club | NCC | 2.0 | |
+| 49 | Clubs Basket for B.Tech 2021 | EXC1049 | Torque | NCC | 2.0 | |
+| 50 | Clubs Basket for B.Tech 2021 | EXC1050 | Leo Club VITAP | NCC | 2.0 | |
+| 51 | Clubs Basket for B.Tech 2021 | EXC1051 | Madhya Bharat Association | NCC | 2.0 | |
+| 52 | Clubs Basket for B.Tech 2021 | EXC1052 | MANSI: The Voice of Heart | NCC | 2.0 | |
+| 53 | Clubs Basket for B.Tech 2021 | EXC1053 | Dragon Fist Martial Arts Club | NCC | 2.0 | |
+| 54 | Clubs Basket for B.Tech 2021 | EXC1054 | American Chemical Society Students Chapter | NCC | 2.0 | |
+| 55 | Clubs Basket for B.Tech 2021 | EXC1055 | Data Science Club | NCC | 2.0 | |
+| 56 | Clubs Basket for B.Tech 2021 | EXC1056 | Uniquest | NCC | 2.0 | |
+| 57 | Clubs Basket for B.Tech 2021 | EXC1057 | Nrityam | NCC | 2.0 | |
+| 58 | Clubs Basket for B.Tech 2021 | EXC1058 | Women Innovators Network | NCC | 2.0 | |
+| 59 | Clubs Basket for B.Tech 2021 | EXC1059 | Entrepreneurship Club | NCC | 2.0 | |
+| 60 | Clubs Basket for B.Tech 2021 | EXC2002 | CSI - Computer Society of India | NCC | 2.0 | |
+| 61 | Clubs Basket for B.Tech 2021 | EXC2003 | IEEE Student Branch VIT-AP | NCC | 2.0 | |
+| 62 | Clubs Basket for B.Tech 2021 | EXC2004 | Developer Student Clubs by Google | NCC | 2.0 | |
+| 63 | Clubs Basket for B.Tech 2021 | EXC2005 | Open Source Community | NCC | 2.0 | |
+| 64 | Clubs Basket for B.Tech 2021 | EXC2006 | Android Club | ECA | 2.0 | |
+| 65 | Clubs Basket for B.Tech 2021 | EXC2007 | Academic and Industrial Nano Society | ECA | 2.0 | |
+| 66 | Clubs Basket for B.Tech 2021 | EXC2008 | Robotics club | ECA | 2.0 | |
+| 67 | Clubs Basket for B.Tech 2021 | EXC2009 | Null Chapter - Security and Hacking | NCC | 2.0 | |
+| 68 | Clubs Basket for B.Tech 2021 | EXC2010 | Drushya - Animation and Gaming Club | ECA | 2.0 | |
+| 69 | Clubs Basket for B.Tech 2021 | EXC2011 | Bulls and Bears | NCC | 2.0 | |
+| 70 | Clubs Basket for B.Tech 2021 | EXC2012 | Be a Nerd - BaN Club | NCC | 2.0 | |
+| 71 | Clubs Basket for B.Tech 2021 | EXC2013 | Math Club | NCC | 2.0 | |
+| 72 | Clubs Basket for B.Tech 2021 | EXC2014 | Nextgen Cloud Club | NCC | 2.0 | |
+| 73 | Clubs Basket for B.Tech 2021 | EXC2015 | Marathi Association | NCC | 2.0 | |
+| 74 | Clubs Basket for B.Tech 2021 | EXC2016 | Electronics Hobby Club | ECA | 2.0 | |
+| 75 | Clubs Basket for B.Tech 2021 | EXC2017 | Spirit of R-Energy Club | ECA | 2.0 | |
+| 76 | Clubs Basket for B.Tech 2021 | EXC2018 | ACM Chapter | NCC | 2.0 | |
+| 77 | Clubs Basket for B.Tech 2021 | EXC2019 | Students for the Exploration and Development of Space (SEDS) | NCC | 2.0 | |
+| 78 | Clubs Basket for B.Tech 2021 | EXC2020 | Live Innovate and Transform - Data Analytics Club | NCC | 2.0 | |
+| 79 | Clubs Basket for B.Tech 2021 | EXC2021 | Teach Your Machine Club - Machine Learning ( TYMC) | NCC | 2.0 | |
+| 80 | Clubs Basket for B.Tech 2021 | EXC2022 | Fly Your Ideas (FYI) - Drone Club | ECA | 2.0 | |
+| 81 | Clubs Basket for B.Tech 2021 | EXC2023 | The Node: A Blockchain Club | NCC | 2.0 | |
+| 82 | Clubs Basket for B.Tech 2021 | EXC2024 | SPARK - The Electric Vehicle Club | ECA | 2.0 | |
+| 83 | Clubs Basket for B.Tech 2021 | EXC2025 | Creation Club | ECA | 2.0 | |
+| 84 | Clubs Basket for B.Tech 2021 | EXC2026 | Photon Club | NCC | 2.0 | |
+| 85 | Clubs Basket for B.Tech 2021 | EXC2027 | IoT Revolution Club | ECA | 2.0 | |
+| 86 | Clubs Basket for B.Tech 2021 | EXC2028 | Graphics Processing Unit Users Group (GPUG) | NCC | 2.0 | |
+| 87 | Clubs Basket for B.Tech 2021 | EXC2029 | CodeChef Club | NCC | 2.0 | |
+| 88 | Clubs Basket for B.Tech 2021 | EXC2030 | Microsoft Student Chapter | NCC | 2.0 | |
+| 89 | Clubs Basket for B.Tech 2021 | EXC2031 | OASIS VFX and CGI Club | ECA | 2.0 | |
+| 90 | Clubs Basket for B.Tech 2021 | EXC2032 | Harmony OS Students Fan Club | ECA | 2.0 | |
+| 91 | Clubs Basket for B.Tech 2021 | EXC2033 | SPICMACAY | ECA | 2.0 | |
+| 92 | Clubs Basket for B.Tech 2021 | EXC2034 | Renewable Energy Club | NCC | 2.0 | |
+| 93 | Clubs Basket for B.Tech 2021 | EXC2035 | Kuge Gamu Clan Club | ECA | 2.0 | |
+| 94 | Clubs Basket for B.Tech 2021 | EXC2036 | WiOS-Women in Open Source | NCC | 2.0 | |
+| 95 | Clubs Basket for B.Tech 2021 | EXC2037 | Pennify VIT-AP Chapter | ECA | 2.0 | |
+| 96 | Clubs Basket for B.Tech 2021 | EXC2038 | Otaku Haven Club | NCC | 2.0 | |
+| 97 | Clubs Basket for B.Tech 2021 | EXC2039 | Climate Change Club | NCC | 2.0 | |
+| 98 | Clubs Basket for B.Tech 2021 | EXC2040 | MATLAB Chapter | ECA | 2.0 | |
+| 99 | Clubs Basket for B.Tech 2021 | EXC2041 | Rotaract Club | NCC | 2.0 | |
+| 100 | Clubs Basket for B.Tech 2021 | EXC2042 | BizzDom Club | ECA | 2.0 | |
+| 101 | Clubs Basket for B.Tech 2021 | EXC2043 | AI-Based Productivity Tools club | NCC | 2.0 | |
+| 102 | Clubs Basket for B.Tech 2021 | EXC2044 | IETE club | NCC | 2.0 | |
+| 103 | Clubs Basket for B.Tech 2021 | EXC2047 | The Constitution Club | ECA | 2.0 | |
+| 104 | Clubs Basket for B.Tech 2021 | EXC2048 | Technopreneur | ECA | 2.0 | |
+| 105 | Clubs Basket for B.Tech 2021 | EXC2049 | Geeks for Geeks VITAP Student Chapter | NCC | 2.0 | |
+| 106 | Clubs Basket for B.Tech 2021 | EXC2050 | Reverse Class room | ECA | 2.0 | |
+| 107 | Clubs Basket for B.Tech 2021 | EXC2051 | Electoral club | NCC | 2.0 | |
+| 108 | Clubs Basket for B.Tech 2021 | EXC2052 | Haryana Association | NCC | 2.0 | |
+| 109 | Clubs Basket for B.Tech 2021 | EXC2053 | American Chemical Society Student Chapter | ECA | 2.0 | |
+| 110 | Clubs Basket for B.Tech 2021 | EXC2054 | The Gamers Crib (TGC) | NCC | 2.0 | |
+| 111 | Clubs Basket for B.Tech 2021 | EXC2055 | Chhattisgarh Association | NCC | 2.0 | |
+| 112 | Clubs Basket for B.Tech 2021 | EXC2056 | Dhruva club | NCC | 2.0 | |
+| 113 | Clubs Basket for B.Tech 2021 | EXC2057 | Sheradil | NCC | 2.0 | |
+| 114 | Clubs Basket for B.Tech 2021 | EXC2058 | Team Next Nexus | NCC | 2.0 | |
+| 115 | Clubs Basket for B.Tech 2021 | EXC2059 | Hult Prize VIT-AP Chapter | NCC | 2.0 | |
+| 116 | Clubs Basket for B.Tech 2021 | EXC2060 | MAD - MAke A Difference Club | NCC | 2.0 | |
+| 117 | Clubs Basket for B.Tech 2021 | EXC2062 | Hallyu Club (Korean Wave Club) | NCC | 2.0 | |
+| 118 | Clubs Basket for B.Tech 2021 | EXC2063 | Laetitia - Living Joyful | NCC | 2.0 | |
+| 119 | Clubs Basket for B.Tech 2021 | EXC2064 | Bihar Association | NCC | 2.0 | |
+| 120 | Clubs Basket for B.Tech 2021 | EXC2065 | Society of Automobile Engg ( SAE) Club | NCC | 2.0 | |
+| 121 | Engineering Foundation Basket of BTech CSE & MEC 2021 | CSE1012 | Problem Solving using Python | ETL | 4.0 | Compulsory |
+| 122 | Engineering Foundation Basket of BTech CSE & MEC 2021 | CSE2001 | Data Structures and Algorithms | ETL | 4.0 | Compulsory |
+| 123 | Engineering Foundation Basket of BTech CSE & MEC 2021 | CSE2005 | Object Oriented Programming | ETL | 4.0 | Compulsory |
+| 124 | Engineering Foundation Basket of BTech CSE & MEC 2021 | ECE1001 | Fundamentals of Electrical Engineering | ETL | 4.0 | |
+| 125 | Engineering Foundation Basket of BTech CSE & MEC 2021 | ECE1002 | Fundamentals of Electrical and Electronics Engineering | ETL | 4.0 | Compulsory |
+| 126 | Engineering Foundation Basket of BTech CSE & MEC 2021 | MEC1002 | Engineering Graphics | LO | 2.0 | |
+| 127 | Humanities and Management Basket of BTech 2021 | ENG1001 | English for Essential Communication | ETL | 3.0 | |
+| 128 | Humanities and Management Basket of BTech 2021 | ENG1002 | English for Effective Communication | ETL | 3.0 | Compulsory |
+| 129 | Humanities and Management Basket of BTech 2021 | ENG2001 | English for Professional Communication | ETL | 3.0 | |
+| 130 | Humanities and Management Basket of BTech 2021 | FRL1001 | Basic French | TH | 2.0 | |
+| 131 | Humanities and Management Basket of BTech 2021 | FRL1002 | French for Beginners | TH | 2.0 | |
+| 132 | Humanities and Management Basket of BTech 2021 | FRL1004 | Basic Spanish | TH | 2.0 | |
+| 133 | Humanities and Management Basket of BTech 2021 | FRL1005 | German for Beginners | TH | 2.0 | |
+| 134 | Humanities and Management Basket of BTech 2021 | FRL1006 | Japanese for Beginners | TH | 2.0 | |
+| 135 | Humanities and Management Basket of BTech 2021 | FRL2004 | Korean for Beginners | TH | 2.0 | |
+| 136 | Humanities and Management Basket of BTech 2021 | FRL2005 | German for Advanced Learners | TH | 3.0 | |
+| 137 | Humanities and Management Basket of BTech 2021 | INL1001 | Functional Hindi for non-Hindi Speakers | TH | 2.0 | |
+| 138 | Humanities and Management Basket of BTech 2021 | INL1002 | Introduction to Hindi Language and Literature | TH | 2.0 | |
+| 139 | Humanities and Management Basket of BTech 2021 | MGT1001 | Ethics and Values | LO | 2.0 | Compulsory |
+| 140 | Humanities and Management Basket of BTech 2021 | MGT1040 | Entrepreneurship | TH | 2.0 | Compulsory |
+| 141 | Humanities and Management Basket of BTech 2021 | STS1002 | Fundamentals of Aptitude | TH | 3.0 | |
+| 142 | Humanities and Management Basket of BTech 2021 | STS1004 | Introduction to Problem Solving | TH | 3.0 | |
+| 143 | Humanities and Management Basket of BTech 2021 | STS1007 | Arithmetic problem solving | TH | 3.0 | |
+| 144 | Humanities and Management Basket of BTech 2021 | STS1009 | Introduction to Quantitative, Logical and Verbal Ability | TH | 3.0 | |
+| 145 | Humanities and Management Basket of BTech 2021 | STS2006 | Getting Started to Skill Enhancement | TH | 3.0 | |
+| 146 | Humanities and Management Basket of BTech 2021 | STS2007 | Enhancing Problem Solving Skills | TH | 3.0 | |
+| 147 | Humanities and Management Basket of BTech 2021 | STS2008 | Numerical Ability and Cognitive Intelligence | TH | 3.0 | |
+| 148 | Humanities and Management Basket of BTech 2021 | STS2009 | Arithmetic Problem Solving Skills | TH | 3.0 | |
+| 149 | Humanities and Management Basket of BTech 2021 | TEC3001 | Design Thinking | TH | 3.0 | Compulsory |
+| 150 | Basic Science Basket of Btech CSE 2021 | CHY1009 | Chemistry and Environmental Studies | ETL | 4.0 | Compulsory |
+| 151 | Basic Science Basket of Btech CSE 2021 | MAT1001 | Calculus for Engineers | ETL | 4.0 | Compulsory |
+| 152 | Basic Science Basket of Btech CSE 2021 | MAT1002 | Applications of Differential and Difference Equations | ETL | 4.0 | Compulsory |
+| 153 | Basic Science Basket of Btech CSE 2021 | MAT1011 | Applied Statistics | ETL | 4.0 | Compulsory |
+| 154 | Basic Science Basket of Btech CSE 2021 | PHY1006 | Physics of Materials | ETL | 4.0 | |
+| 155 | Basic Science Basket of Btech CSE 2021 | PHY1007 | Principles of Electronics | ETL | 4.0 | |
+| 156 | Basic Science Basket of Btech CSE 2021 | PHY1008 | Modern Physics | ETL | 4.0 | Compulsory |
+| 157 | Projects and Internships Basket | BIC4002 | Internship/ Senior Design Project | PJT | 12.0 | Compulsory |
+| 158 | Projects and Internships Basket | CAP4001 | Capstone | PJT | 6.0 | Compulsory |
+| 159 | Projects and Internships Basket | ECS1002 | Engineering Clinics - Python and Raspberry Pi | PJT | 2.0 | Compulsory |
+| 160 | Projects and Internships Basket | ECS3001 | Engineering Clinics - II | PJT | 2.0 | |
+| 161 | Projects and Internships Basket | MEC1002 | Engineering Graphics | LO | 2.0 | |
+| 162 | Summer Internship Basket | INC1001 | Juniper Networks - Introduction to the Junos Operating System | PJT | 2.0 | |
+| 163 | Summer Internship Basket | INC1002 | Juniper Networks - Introduction to Juniper Security | PJT | 2.0 | |
+| 164 | Summer Internship Basket | INC1003 | Juniper Networks - Introduction to Junos Platform Automation and DevOps | PJT | 2.0 | |
+| 165 | Summer Internship Basket | INC1004 | Juniper Networks - Juniper Cloud Fundamentals | PJT | 2.0 | |
+| 166 | Summer Internship Basket | INC1005 | Juniper Networks - Juniper Networks Design Fundamentals | PJT | 2.0 | |
+| 167 | Summer Internship Basket | INC1006 | Juniper Networks - Juniper's Mist AI Networks | PJT | 2.0 | |
+| 168 | Summer Internship Basket | INC1007 | Entuple - Synthesis and Static Timing Analysis | PJT | 2.0 | |
+| 169 | Summer Internship Basket | INC1008 | Entuple - Physical Design | PJT | 2.0 | |
+| 170 | Summer Internship Basket | INC1009 | GoDaddy Academy - Web Development | PJT | 2.0 | |
+| 171 | Summer Internship Basket | INC1010 | Smart Bridge - Internet of Things | PJT | 2.0 | |
+| 172 | Summer Internship Basket | INC1011 | Pharma Genie - Life Sciences Sector Skill Development Council | PJT | 2.0 | |
+| 173 | Summer Internship Basket | INC1012 | Smart Bridge - Artificial Intelligence | PJT | 2.0 | |
+| 174 | Summer Internship Basket | INC1013 | Microsoft - Azure Fundamentals | PJT | 2.0 | |
+| 175 | Summer Internship Basket | INC1014 | Smart Bridge - Data Analytics | PJT | 2.0 | |
+| 176 | Summer Internship Basket | INC1015 | Smart Bridge - Applied Data Science | PJT | 2.0 | |
+| 177 | Summer Internship Basket | INC1016 | RH124 Red Hat System Administration | PJT | 2.0 | |
+| 178 | Summer Internship Basket | INC1017 | RH134 Red Hat System Administration II | PJT | 2.0 | |
+| 179 | Summer Internship Basket | INC1018 | RH294 Red Hat Enterprise Linux Automation with Ansible | PJT | 2.0 | |
+| 180 | Summer Internship Basket | INC1019 | AD183 Red Hat Application Development I: Programming in Java EE | PJT | 2.0 | |
+| 181 | Summer Internship Basket | INC1020 | CL110 Red Hat OpenStack Administration I: Core Operations for Domain Operators | PJT | 2.0 | |
+| 182 | Summer Internship Basket | INC1021 | ISRO Space Science and Technology Awareness Training (START) | PJT | 2.0 | |
+| 183 | Summer Internship Basket | INC1022 | AWS Certified Solutions Architect - Associate | PJT | 2.0 | |
+| 184 | Summer Internship Basket | INC1023 | Microsoft Power Platform App Maker (PL-100) | PJT | 2.0 | |
+| 185 | Summer Internship Basket | INC1024 | Microsoft - Azure Administrator (AZ-104) | PJT | 2.0 | |
+| 186 | Summer Internship Basket | INC1025 | Certificated Ethical Hacker (CEH) | PJT | 2.0 | |
+| 187 | Summer Internship Basket | INC1026 | MERN Full StackQ | PJT | 2.0 | |
+| 188 | Summer Internship Basket | INC1027 | Cloud Digital Leader | PJT | 2.0 | |
+| 189 | Summer Internship Basket | INC1028 | Certificate in Mechanical Services Engineering | PJT | 2.0 | |
+| 190 | Summer Internship Basket | INC1029 | VLSI Design Internship | PJT | 2.0 | |
+| 191 | Summer Internship Basket | INC1030 | Java Development on Oracle Cloud (Java SE11) | PJT | 2.0 | |
+| 192 | Summer Internship Basket | INC1031 | Certificate in Concrete Techniques and Practices | PJT | 2.0 | |
+| 193 | Summer Internship Basket | INC1032 | Practitioners Approach to Power System Protection and Switchgear | PJT | 2.0 | |
+| 194 | Summer Internship Basket | INC1033 | Certificate in Microcontroller and Application | PJT | 2.0 | |
+| 195 | Summer Internship Basket | INC1034 | Database Developer on Oracle Cloud | PJT | 2.0 | |
+| 196 | Summer Internship Basket | INC1035 | Application Development on Oracle Cloud | PJT | 2.0 | |
+| 197 | Summer Internship Basket | INC1036 | Life Sciences - Quality Control Chemist | PJT | 2.0 | |
+| 198 | Summer Internship Basket | INC1037 | Introduction to 3D Printing & CAD Modeling | PJT | 2.0 | |
+| 199 | Summer Internship Basket | INC1038 | JAVA Full stack | PJT | 2.0 | |
+| 200 | Summer Internship Basket | INC1039 | Certificate In Mechanized Construction Techniques | PJT | 2.0 | |
+| 201 | Summer Internship Basket | INC1040 | Certificate In Transportation Infrastructure Engineering | PJT | 2.0 | |
+| 202 | Summer Internship Basket | INC1041 | Electrical Design for Modern Building Infrastructure | PJT | 2.0 | |
+| 203 | Summer Internship Basket | INC1042 | Foundation Course- VLSI Design Methodologies | PJT | 2.0 | |
+| 204 | Summer Internship Basket | INC1043 | Oracle Java Foundation Associate | PJT | 2.0 | |
+| 205 | Summer Internship Basket | INC1044 | Android App Development | PJT | 2.0 | |
+| 206 | Summer Internship Basket | INC1045 | Automation Anywhere University Certified Essentials RPA Professional | PJT | 2.0 | |
+| 207 | Summer Internship Basket | INC1046 | Google Cloud Computing Foundations | PJT | 2.0 | |
+| 208 | Summer Internship Basket | INC1047 | Hands-On Training Analytical Drug Testing- Greentree Laboratories | PJT | 2.0 | |
+| 209 | Summer Internship Basket | INC1048 | Salesforce Administrator | PJT | 2.0 | |
+| 210 | Summer Internship Basket | INC1049 | Artificial Intelligence & Machine Learning in collaboration with Google (Applied Data Science) | PJT | 2.0 | |
+| 211 | Summer Internship Basket | INC1050 | Data Analytics with IBM Cognos Analytics | PJT | 2.0 | |
+| 212 | Summer Internship Basket | INC1051 | AI for Cyber Security With IBM Qrador (AI for Web Security) | PJT | 2.0 | |
+| 213 | Summer Internship Basket | INC1052 | IOT - Vision Technologies | PJT | 2.0 | |
+| 214 | Summer Internship Basket | INC1053 | Foundation Course - Embedded System Design | PJT | 2.0 | |
+| 215 | Summer Internship Basket | INC2001 | IDS Inc. - Certified Blockchain Developer | PJT | 2.0 | |
+| 216 | Summer Internship Basket | INC2002 | NASSCOM - Artificial Intelligence Foundation | PJT | 2.0 | |
+| 217 | Summer Internship Basket | INC2003 | NASSCOM - Big Data Foundation | PJT | 2.0 | |
+| 218 | Summer Internship Basket | INC2004 | NASSCOM - Cloud Computing Foundation | PJT | 2.0 | |
+| 219 | Summer Internship Basket | INC2005 | NASSCOM - UX Foundation | PJT | 2.0 | |
+| 220 | Summer Internship Basket | INC2006 | NASSCOM - IOT Foundation | PJT | 2.0 | |
+| 221 | Summer Internship Basket | INC2007 | NASSCOM - Vulnerability Assessment for AppSec | PJT | 2.0 | |
+| 222 | Summer Internship Basket | INC2008 | NASSCOM - Fundamentals of Data Analytics | PJT | 2.0 | |
+| 223 | Summer Internship Basket | INC2009 | NASSCOM - Security Analyst | PJT | 2.0 | |
+| 224 | Summer Internship Basket | INC2010 | NASSCOM - Associate Analytics | PJT | 2.0 | |
+| 225 | Summer Internship Basket | INC2011 | Automation Anywhere - Robotics Process Automation | PJT | 2.0 | |
+| 226 | Summer Internship Basket | INC2012 | Oracle Autonomous Database Cloud Specialist | PJT | 2.0 | |
+| 227 | Summer Internship Basket | INC2013 | Oracle Application Express: Developing Web Applications | PJT | 2.0 | |
+| 228 | Summer Internship Basket | INC2014 | Oracle Cloud Infrastructure Foundations Associate | PJT | 2.0 | |
+| 229 | Summer Internship Basket | INC2015 | Oracle Machine Learning Data Scientist | PJT | 2.0 | |
+| 230 | Summer Internship Basket | INC2016 | Oracle - Java SE Developer | PJT | 2.0 | |
+| 231 | Summer Internship Basket | INC2017 | AWS - Cloud Practitioner - Foundation | PJT | 2.0 | |
+| 232 | Summer Internship Basket | INC2018 | AWS - Solution Architect - Associate | PJT | 2.0 | |
+| 233 | Summer Internship Basket | INC2019 | AWS SysOps Administrator - Associate | PJT | 2.0 | |
+| 234 | Summer Internship Basket | INC2020 | AWS Developer - Associate | PJT | 2.0 | |
+| 235 | Summer Internship Basket | INC2021 | Microsoft - Azure AI Fundamentals | PJT | 2.0 | |
+| 236 | Summer Internship Basket | INC2022 | Microsoft - Azure AI Engineer | PJT | 2.0 | |
+| 237 | Summer Internship Basket | INC2023 | Microsoft - Azure Data Scientist | PJT | 2.0 | |
+| 238 | Summer Internship Basket | INC2024 | Microsoft - Azure Data Engineer - 1 | PJT | 2.0 | |
+| 239 | Summer Internship Basket | INC2025 | Microsoft - Azure Data Engineer - 2 | PJT | 2.0 | |
+| 240 | Summer Internship Basket | INC2026 | Microsoft - Azure Developer - 1 | PJT | 2.0 | |
+| 241 | Summer Internship Basket | INC2027 | Microsoft - Azure Developer - 2 | PJT | 2.0 | |
+| 242 | Summer Internship Basket | INC2028 | Microsoft - Azure DevOps Engineer - 4 | PJT | 2.0 | |
+| 243 | Summer Internship Basket | INC2029 | Microsoft - Azure Security Engineer - 5 | PJT | 2.0 | |
+| 244 | Summer Internship Basket | INC2030 | Microsoft - Azure Solutions Architect | PJT | 2.0 | |
+| 245 | Summer Internship Basket | INC2031 | Maven Silicon - VLSI | PJT | 2.0 | |
+| 246 | Summer Internship Basket | INC2032 | VMWare IT Academy - Java Spring Boot | PJT | 2.0 | |
+| 247 | Summer Internship Basket | INC2033 | IBM Developers Skills Network - IBM Cloud | PJT | 2.0 | |
+| 248 | Summer Internship Basket | INC2034 | AWS - DevOps | PJT | 2.0 | |
+| 249 | Summer Internship Basket | INC2035 | IBM - Artificial Intelligence | PJT | 2.0 | |
+| 250 | Summer Internship Basket | INC2036 | IBM - Applied Data Science | PJT | 2.0 | |
+| 251 | Summer Internship Basket | INC2037 | IBM - Internet of Things | PJT | 2.0 | |
+| 252 | Summer Internship Basket | INC2038 | IBM Developers Skills Network - IBM Cloud | PJT | 2.0 | |
+| 253 | Summer Internship Basket | INC2039 | APSSDC-IES - Data Science | PJT | 2.0 | |
+| 254 | Summer Internship Basket | INC2040 | Boston IT Solutions - Deep Learning | PJT | 2.0 | |
+| 255 | Summer Internship Basket | INC2041 | Boston IT Solutions - Machine Learning | PJT | 2.0 | |
+| 256 | Summer Internship Basket | INC2042 | Boston IT Solutions - Python for Artificial Intelligence | PJT | 2.0 | |
+| 257 | Summer Internship Basket | INC2043 | Boston IT Solutions - Data Analysis with SQL | PJT | 2.0 | |
+| 258 | Summer Internship Basket | INC2044 | Boston IT Solutions - Fundamentals of Computer Vision | PJT | 2.0 | |
+| 259 | Summer Internship Basket | INC2045 | Boston IT Solutions - Fundamentals of Natural Language Processing | PJT | 2.0 | |
+| 260 | Summer Internship Basket | INC2046 | INC2046 | PJT | 2.0 | |
+| 261 | Summer Internship Basket | INC2047 | PAANCA - Cybersecurity Foundation | PJT | 2.0 | |
+| 262 | Summer Internship Basket | INC2048 | PAANCA - Network Security Fundamentals | PJT | 2.0 | |
+| 263 | Summer Internship Basket | INC2049 | PAANCA - Cloud Security Fundamentals | PJT | 2.0 | |
+| 264 | Summer Internship Basket | INC2050 | PAANCA - Security Operations Fundamentals | PJT | 2.0 | |
+| 265 | Summer Internship Basket | INC2051 | PAANCA - Enterprise Security Deployment | PJT | 2.0 | |
+| 266 | Summer Internship Basket | INC2052 | PAANCA - Enterprise Security Management | PJT | 2.0 | |
+| 267 | Summer Internship Basket | INC2053 | PAANCA - Cloud Security Deployment | PJT | 2.0 | |
+| 268 | Summer Internship Basket | INC2054 | PAANCA - Security Operations | PJT | 2.0 | |
+| 269 | Summer Internship Basket | INC2055 | PAANCA - Data Science | PJT | 2.0 | |
+| 270 | Summer Internship Basket | INC2056 | Ethical Hacking Essentials | PJT | 2.0 | |
+| 271 | Summer Internship Basket | INC2057 | Digital Forensics Essentials | PJT | 2.0 | |
+| 272 | Summer Internship Basket | INC2058 | Network Defense Essentials | PJT | 2.0 | |
+| 273 | Summer Internship Basket | INC2059 | Salesforce Developer | PJT | 2.0 | |
+| 274 | Summer Internship Basket | INC2060 | Adobe UX & UI | PJT | 2.0 | |
+| 275 | Summer Internship Basket | INC2061 | MongoDB Associate Database Administrator | PJT | 2.0 | |
+| 276 | Summer Internship Basket | INC2062 | High Performance Coding - Advanced Data Structures & Algorithms using Java | PJT | 2.0 | |
+| 277 | Summer Internship Basket | INC2063 | Design of Process Plant Equipment and Industrial Piping Systems | PJT | 2.0 | |
+| 278 | Summer Internship Basket | INC2064 | Distributed CoughDB - CoughBase | PJT | 2.0 | |
+| 279 | Summer Internship Basket | INC2065 | Embedded System Design Internship | PJT | 2.0 | |
+| 280 | Summer Internship Basket | INC2066 | DP 900 - Microsoft Azure Data Fundamentals Exam | PJT | 2.0 | |
+| 281 | Summer Internship Basket | INC2067 | Oracle Database Foundation | PJT | 2.0 | |
+| 282 | Summer Internship Basket | INC2068 | Selenium Certiﬁcation Training Course in collab with PWC | PJT | 2.0 | |
+| 283 | Summer Internship Basket | INC2069 | Artificial Intelligence using Google TensorFlow in collab with Google | PJT | 2.0 | |
+| 284 | Summer Internship Basket | INC2070 | Generative AI Applications using Vertex AI in Collaboration with Google | PJT | 2.0 | |
+| 285 | Summer Internship Basket | INC2071 | Full Stack Developer (MERN) with MongoDB Associate Developer Certification | PJT | 2.0 | |
+| 286 | Summer Internship Basket | INC2072 | AI 900- Microsoft Azure AI Fundamentals Exam | PJT | 2.0 | |
+| 287 | Summer Internship Basket | INC2073 | NASSCOM - Pragmatic Approach to Cyber Security | PJT | 2.0 | |
+| 288 | Summer Internship Basket | INC2074 | Cyber Security & Ethical Hacking-SmartBridge | PJT | 2.0 | |
+| 289 | Summer Internship Basket | INC3001 | Full stack Development with MERN | PJT | 2.0 | |
+| 290 | Summer Internship Basket | INC3002 | Data Science & Business Analytics | PJT | 2.0 | |
+| 291 | Summer Internship Basket | INC3003 | Embedded Systems and IoT | PJT | 2.0 | |
+| 292 | Summer Internship Basket | INC3004 | Data Analytics & Big Data Fundamentals | PJT | 2.0 | |
+| 293 | Summer Internship Basket | INC3005 | Cyber Security and Ethical Hacking | PJT | 2.0 | |
+| 294 | Summer Internship Basket | INC3006 | UI/UX Developer | PJT | 2.0 | |
+| 295 | Summer Internship Basket | INC3007 | Devops | PJT | 2.0 | |
+| 296 | Summer Internship Basket | INC3008 | Gen AI and Chat GPT | PJT | 2.0 | |
+| 297 | Summer Internship Basket | INC3009 | Blockchain Specialization | PJT | 2.0 | |
+| 298 | Summer Internship Basket | INC3010 | Robotics Process Automation | PJT | 2.0 | |
+| 299 | Summer Internship Basket | INC3011 | Cloud Computing | PJT | 2.0 | |
+| 300 | Summer Internship Basket | INC3012 | Digital Marketing, Performance Optimization & CRM Tools | PJT | 2.0 | |
+| 301 | Summer Internship Basket | INC3013 | AI for Management Graduates: Leveraging Artificial Intelligence in Business | PJT | 2.0 | |
+| 302 | Summer Internship Basket | INC3014 | Project Management and Collaboration | PJT | 2.0 | |
+| 303 | Summer Internship Basket | INC3015 | Product Management | PJT | 2.0 | |
+| 304 | Summer Internship Basket | INC3016 | The Art of Storytelling for Beginners | PJT | 2.0 | |
+| 305 | Summer Internship Basket | INC3017 | Supply Chain Management | PJT | 2.0 | |
+| 306 | Summer Internship Basket | INC3018 | Brand Management | PJT | 2.0 | |
+| 307 | Summer Internship Basket | INC3019 | Business Valuation Techniques | PJT | 2.0 | |
+| 308 | Summer Internship Basket | INC3020 | Investment Banking Operations and Management | PJT | 2.0 | |
+| 309 | Summer Internship Basket | INC3021 | Prompt Engineering | PJT | 2.0 | |
+| 310 | Summer Internship Basket | INC3022 | Generative AI | PJT | 2.0 | |
+| 311 | Summer Internship Basket | INC3023 | Quantum computing | PJT | 2.0 | |
+| 312 | Summer Internship Basket | INC3024 | AutoML | PJT | 2.0 | |
+| 313 | Summer Internship Basket | SIT1001 | Summer Internship | PJT | 2.0 | |
+| 314 | Technology Foundation Basket for B.Tech CSE | CSE1006 | Foundations for Data Analytics | ETL | 3.0 | |
+| 315 | Technology Foundation Basket for B.Tech CSE | CSE1007 | Introduction to Cryptography | ETL | 4.0 | |
+| 316 | Technology Foundation Basket for B.Tech CSE | CSE1016 | Introduction to Edge Computing | TH | 3.0 | |
+| 317 | Technology Foundation Basket for B.Tech CSE | CSE1017 | Introduction to Geographical Information Systems | TH | 3.0 | |
+| 318 | Technology Foundation Basket for B.Tech CSE | CSE2003 | Requirements Engineering Management | ETP | 4.0 | |
+| 319 | Technology Foundation Basket for B.Tech CSE | CSE3002 | Artificial Intelligence | ETL | 4.0 | |
+| 320 | Technology Foundation Basket for B.Tech CSE | ECE1008 | Sensors and Control Systems | ETL | 4.0 | |
+| 321 | Technology Foundation Basket for B.Tech CSE | ECE2001 | Analog Devices and Circuits | ETL | 4.0 | |
+| 322 | Technology Foundation Basket for B.Tech CSE | ECE2005 | Signals and Systems | TH | 4.0 | |
+| 323 | Technology Foundation Basket for B.Tech CSE | HUM1007 | Introduction to Digital Humanities : Doing Digital History | TH | 4.0 | |
+| 324 | Technology Foundation Basket for B.Tech CSE | LIB1015 | Introduction to Communication and Rhetoric | TH | 4.0 | |
+| 325 | Technology Foundation Basket for B.Tech CSE | MEC1008 | Engineering Mechanics | TH | 4.0 | |
+| 326 | Technology Foundation Basket for B.Tech CSE | MEC1009 | Introduction to Digital Manufacturing | TH | 4.0 | |
+| 327 | Technology Foundation Basket for B.Tech CSE | MEC2002 | Thermodynamics | TH | 4.0 | |
+| 328 | Technology Foundation Basket for B.Tech CSE | MEC2021 | Mechatronics | TH | 4.0 | |
+| 329 | Technology Foundation Basket for B.Tech CSE | MGT1007 | Economics for Engineers | TH | 3.0 | |
+| 330 | Technology Foundation Basket for B.Tech CSE | MGT1036 | Introduction to Macroeconomics | TH | 3.0 | |
+| 331 | Technology Foundation Basket for B.Tech CSE | MGT2016 | Essentials of Marketing Management | TH | 4.0 | |
+| 332 | Technology Foundation Basket for B.Tech CSE | MGT2018 | Introduction to Management Accounting | TH | 3.0 | |
+| 333 | Technology Foundation Basket for B.Tech CSE | PHY1002 | Semiconductor Device Physics | TH | 4.0 | |
+| 334 | Technology Foundation Basket for B.Tech CSE | PHY1011 | Material Characterization Techniques | ETL | 4.0 | |
+| 335 | Technology Foundation Basket for B.Tech CSE | SWE2008 | Object Oriented Analysis and Design | ETL | 4.0 | |

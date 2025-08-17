@@ -1,0 +1,105 @@
+=== FEES AND SCHOLARSHIPS ===
+The details of the fee structure of various programmes offered at VIT-AP University are listed below.
+
+=== B.TECH PROGRAMME ===
+Category 1:
+- Tuition Fee: INR 1,95,000* 
+- Caution Deposit (Refundable): INR 3,000
+- Total Fee (1st Year): INR 1,98,000
+*After concession
+
+=== INTEGRATED M.TECH CSE (Collaboration with Virtusa) ===
+| Category | Tuition Fee (INR) | Caution Deposit | Total 1st Year Fee (INR) |
+|---------|------------------|-----------------|-------------------------|
+| 1       | 1,20,000          | 3,000           | 1,23,000                |
+| 2       | 1,90,000          | 3,000           | 1,93,000                |
+| 3       | 2,30,000          | 3,000           | 2,33,000                |
+| 4       | 2,75,000          | 3,000           | 2,78,000                |
+| 5       | 2,95,000          | 3,000           | 2,98,000                |
+
+=== INTEGRATED M.TECH SOFTWARE ENGINEERING ===
+| Category | Tuition Fee (INR) | Caution Deposit | Total 1st Year Fee (INR) |
+|---------|------------------|-----------------|-------------------------|
+| 1       | 1,20,000          | 2,000           | 1,22,000                |
+| 2       | 1,90,000          | 2,000           | 1,92,000                |
+| 3       | 2,30,000          | 2,000           | 2,32,000                |
+| 4       | 2,75,000          | 2,000           | 2,77,000                |
+| 5       | 2,95,000          | 2,000           | 2,97,000                |
+
+=== M.TECH VLSI DESIGN ===
+Category 1:
+- Tuition Fee: INR 1,90,000
+- Caution Deposit: INR 3,000
+- Total Fee (1st Year): INR 1,93,000
+
+Category 2:
+- Tuition Fee: INR 2,99,000
+- Caution Deposit: INR 3,000
+- Total Fee (1st Year): INR 3,02,000
+
+=== M.SC DATA SCIENCE ===
+Category 1:
+- Tuition Fee: INR 80,000
+- Caution Deposit: INR 3,000
+- Total Fee (1st Year): INR 83,000
+
+Category 2:
+- Tuition Fee: INR 98,000
+- Caution Deposit: INR 3,000
+- Total Fee (1st Year): INR 1,01,000
+
+=== DUAL DEGREE PROGRAMME: B.SC-M.SC DATA SCIENCE ===
+- Tuition Fee (1st-3rd Year per annum): INR 55,000
+- Caution Deposit: INR 3,000
+- Total Fee (1st Year): INR 58,000
+
+=== M.SC PHYSICS (Collaboration with NoPo Technologies) ===
+- Tuition Fee: INR 60,000
+- Caution Deposit: INR 3,000
+- Total Fee (1st Year): INR 63,000
+
+=== M.SC CHEMISTRY (Collaboration with MKCI) ===
+- Tuition Fee: INR 60,000
+- Caution Deposit: INR 3,000
+- Total Fee (1st Year): INR 63,000
+
+=== BBA PROGRAMME ===
+| Category | Tuition Fee (INR) | Caution Deposit | Total 1st Year Fee (INR) |
+|---------|------------------|-----------------|-------------------------|
+| 1       | 80,000           | 3,000           | 83,000                  |
+| 2       | 1,00,000         | 3,000           | 1,03,000                |
+| 3       | 1,25,000         | 3,000           | 1,28,000                |
+
+=== BA LL.B (Hons.) / BBA LL.B (Hons.) (5 Year Integrated) ===
+- Tuition Fee: INR 1,62,000
+- Caution Deposit: INR 3,000
+- Total Fee (1st Year): INR 1,64,000
+
+=== B.COM (FINANCE) ===
+- Tuition Fee: INR 55,000
+- Caution Deposit: INR 3,000
+- Total Fee (1st Year): INR 58,000
+
+=== DUAL DEGREE BA-MA ===
+- Tuition Fee: INR 55,000
+- Caution Deposit: INR 3,000
+- Total Fee (1st Year): INR 58,000
+
+=== PH.D PROGRAMME (PER ANNUM) ===
+- Internal Full-Time Tuition Fee: INR 40,000
+- Caution Deposit: INR 3,000
+- Total Fee: INR 43,000
+- Thesis Fee: INR 10,000
+
+=== VIT-AP UNIVERSITY MERIT SCHOLARSHIPS ===
+UG Programmes (B.Com and B.A.):
+- **GV Merit Scholarship:** 100% scholarship for all years for any board topper
+- **Tmt. Rajeswari Ammal Merit Scholarship:** 50% scholarship for any district topper; if a girl, additional 25% (total 75%)
+
+PG Non-Engineering Programmes (M.Sc Physics and M.Sc Chemistry):
+- **GV PG Merit Scholarship:** 100% scholarship for CGPA ≥ 9.0 / 90%
+- **Rajeswari PG Merit Scholarship:** 50% scholarship for CGPA ≥ 8.0 / 80%; girl students get 75% total
+
+Special Note:
+- M.Sc Data Science students with ≥90% in UG are eligible for 50% fee concession.
+- Scholarships apply only to Category-1 admissions.

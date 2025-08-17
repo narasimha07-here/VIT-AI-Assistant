@@ -1,0 +1,2574 @@
+1. Name: Ms. Yarlagadda Siva Reshma
+Designation: Assistant Professor Junior
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: sivareshma.y@vitap.ac.in
+--------------------------------------------------
+2. Name: Ms. Srirupa Poddar
+Designation: Assistant Professor
+School: School of Social Science and Humanities (VISH)
+Specialization: Not Available
+Email: srirupa.p@vitap.ac.in
+--------------------------------------------------
+3. Name: Ms. Riti Naik
+Designation: Assistant Professor Grade 2
+School: School of Law (VSL)
+Specialization: Traditional Knowledge and Intellectual Property Laws
+Email: riti.naik@vitap.ac.in
+--------------------------------------------------
+4. Name: Ms. Pechetti Mounika
+Designation: Assistant Professor Junior
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: mounika.p@vitap.ac.in
+--------------------------------------------------
+5. Name: Ms. Paidipogu Sowjanya
+Designation: Assistant Professor Junior
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: sowjanya.paidipogu@vitap.ac.in
+--------------------------------------------------
+6. Name: Ms. Nidhi Nair
+Designation: Assistant Professor Grade 1
+School: School of Law (VSL)
+Specialization: Insolvency Laws
+Email: nidhi.nair@vitap.ac.in
+--------------------------------------------------
+7. Name: Ms. Monika. A
+Designation: Assistant Professor
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: monika.a@vitap.ac.in
+--------------------------------------------------
+8. Name: Ms. Mannepuli Srujana
+Designation: Assistant Professor Junior
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: srujana.m@vitap.ac.in
+--------------------------------------------------
+9. Name: Ms. Malavika Ganta
+Designation: Assistant Professor Grade 1
+School: School of Law (VSL)
+Specialization: Constitutional law, Administrative law, Jurisprudence, Human Rights and Medical Laws
+Email: malavika.g@vitap.ac.in
+--------------------------------------------------
+10. Name: Ms. Kshama Pandey
+Designation: Assistant Professor
+School: School of Law (VSL)
+Specialization: Criminal Law, Constitutional Law, Property Law, Alternative Dispute Resolution, Administrative law
+Email: kshama.p@vitap.ac.in
+--------------------------------------------------
+11. Name: Ms. Kirtika Sahu
+Designation: Assistant Professor
+School: School of Law (VSL)
+Specialization: Constitutional & Administrative Law, Cyber Law
+Email: kirtika.s@vitap.ac.in
+--------------------------------------------------
+12. Name: Ms. Kanaka Himabindu P
+Designation: Assistant Professor
+School: School of Social Science and Humanities (VISH)
+Specialization: Socio-Cultural Anthropology - Urban Studies, Sustainability, Smart Cities, Medical Anthropology, Tribal Studies
+Email: kanaka.himabindu@vitap.ac.in
+--------------------------------------------------
+13. Name: Ms. CH. Amrita Gulshan
+Designation: Assistant Professor Grade-2
+School: School of Law (VSL)
+Specialization: International Law, Space Law
+Email: amrita.gulshan@vitap.ac.in
+--------------------------------------------------
+14. Name: Mr. Sidhant Gupta
+Designation: Assistant Professor Grade 1
+School: School of Law (VSL)
+Specialization: 1. Animal Welfare Legislations in India and across globe, 2. Arbitration, Conciliation and Mediation Laws, 3. Emerging Technologies and its use case in Legal field, 4. Indian Contract Act, Special Contract Law and Advanced Contracts- Evolving Jurisprudence in Contract Laws, 5. Insolvency and Bankruptcy Code
+Email: sidhant.gupta@vitap.ac.in
+--------------------------------------------------
+15. Name: Mr. Sanal Kumar T S
+Designation: Assistant Professor
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: ML in Education, Personalized Learning Models, Learning Classifier Systems
+Email: Not Available
+--------------------------------------------------
+16. Name: Mr. Ramesh Sahoo
+Designation: Assistant Professor Junior
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: ramesh.sahoo@vitap.ac.in
+--------------------------------------------------
+17. Name: Mr. Rajkumar Yesuraj
+Designation: Assistant Professor
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Adhoc Networks, Deep Learning, Artificial Intelligence, Data Science
+Email: rajkumar.y@vitap.ac.in
+--------------------------------------------------
+18. Name: Mr. Pranav Anand Ojha
+Designation: Assistant Professor
+School: School of Law (VSL)
+Specialization: Not Available
+Email: pranavanand.o@vitap.ac.in
+--------------------------------------------------
+19. Name: Mr. Madugula Kiran Kumar
+Designation: Assistant Professor Junior
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: kirankumar.m@vitap.ac.in
+--------------------------------------------------
+20. Name: Mr. Kandru Lakshmi Sai Praneeth
+Designation: Assistant Professor Junior
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: saipraneeth.kl@vitap.ac.in
+--------------------------------------------------
+21. Name: Mr. Jayanta Pratihar
+Designation: Assistant Professor
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: jayanta.pratihar@vitap.ac.in
+--------------------------------------------------
+22. Name: Mr. Gundimeda Venugopal
+Designation: Professor of Practice
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Natural Language Processing, Computer Vision, Machine Learning, Deep Learning
+Email: venugopal.g@vitap.ac.in
+--------------------------------------------------
+23. Name: Mr. Carlin Pouamou
+Designation: Assistant Professor (Junior)
+School: School of Social Science and Humanities (VISH)
+Specialization: FLE, ELE, Linguistics, Hispanic literature and culture
+Email: carlin.pouamou@vitap.ac.in
+--------------------------------------------------
+24. Name: Mr. Burla Nagaraju
+Designation: Assistant Professor Junior
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: nagaraju.burla@vitap.ac.in
+--------------------------------------------------
+25. Name: Mr. Avin Tiwari
+Designation: Assistant Professor Grade 2
+School: School of Law (VSL)
+Specialization: Corporate Law
+Email: avin.tiwari@vitap.ac.in
+--------------------------------------------------
+26. Name: Dr.Venkatrajam Marka
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: v.marka@vitap.ac.in
+--------------------------------------------------
+27. Name: Dr.Shaiku Shahida Saheb
+Designation: Associate Professor Grade 2
+School: School of Business (VSB)
+Specialization: Financial Accounting, Accounting Information Systems, Financial Management, Cost and Management Accounting, Financial Reporting, Auditing, Corporate Governance and Research Methods
+Email: shahid.sk@vitap.ac.in
+--------------------------------------------------
+28. Name: Dr.Santanu Nandi
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Complex Dynamical System, Fractals
+Email: santanu.nandi@vitap.ac.in
+--------------------------------------------------
+29. Name: Dr.Priyanka Singh
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Computer Security, Artificial Intelligence, Machine learning, Deep Learning, Malware Detection
+Email: priyanka.singh@vitap.ac.in
+--------------------------------------------------
+30. Name: Dr.Piu Kundu
+Designation: Assistant Professor Research
+School: School of Advanced Science (SAS)
+Specialization: Geophysics
+Email: piu.kundu@vitap.ac.in
+--------------------------------------------------
+31. Name: Dr.Peeyush Singh
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Parallel Computing ,Numerical Analysis and Mathematical Modelling
+Email: peeyush.singh@vitap.ac.in
+--------------------------------------------------
+32. Name: Dr.N.Rajasekhar
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: rajashekar.naraveni@vitap.ac.in
+--------------------------------------------------
+33. Name: Dr.N.Prabhakar
+Designation: Assistant Professor Senior Grade 1
+School: School of Business (VSB)
+Specialization: Accounting for Managers, Financial Management, Management Accounting,Security Market Operations, and Security Analysis & Portfolio Management
+Email: prabhakar.n@vitap.ac.in
+--------------------------------------------------
+34. Name: Dr.Misha Chandar
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Deep Learning, Signal Processing, Underwater Acoustics, Audio AI, Underwater Wireless Sensor Networks
+Email: mishachandar.b@vitap.ac.in
+--------------------------------------------------
+35. Name: Dr.M Azees
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Information Security, Blockchain Technology, Security in VANETs, Machine Learning, Body Area Networks
+Email: azees.m@vitap.ac.in
+--------------------------------------------------
+36. Name: Dr.Komandla Mahipal Reddy
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Numerical Methods, Optimization Techniques, Graph theory, Fractals, Fractal Optimization
+Email: mahipal.reddy@vitap.ac.in
+--------------------------------------------------
+37. Name: Dr.Karunakar Perumandla
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Interval and Fuzzy Differential Equations, Interval and Fuzzy Linear System of Equations, and Fractional Differential Equations
+Email: karunakar.perumandla@vitap.ac.in
+--------------------------------------------------
+38. Name: Dr.Kailash Chandra Mishra
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Cyber Security, Network Security, Cloud Computing, IoT, User Authentication
+Email: kailashchandra.mishra@vitap.ac.in
+--------------------------------------------------
+39. Name: Dr.Faizan Danish
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Sampling Theory, Mathematical Programming ,Biostatistics
+Email: faizan.danish@vitap.ac.in
+--------------------------------------------------
+40. Name: Dr.Dibyendu Sekhar Mandal
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Mathematical Biology
+Email: sekharmandal.d@vitap.ac.in
+--------------------------------------------------
+41. Name: Dr.Davala Ravi Kumar
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Number Theory
+Email: ravikumar.davala@vitap.ac.in
+--------------------------------------------------
+42. Name: Dr.Chintakindi Balaram Murthy
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Computer Vision, Embedded Vision, Image & Video Processing, Internet of Things, Reinforcement Learning & Natural Language Processing
+Email: balaram.ch@vitap.ac.in
+--------------------------------------------------
+43. Name: Dr.Arunkumar Sivakumar
+Designation: Dean –In Charge, VSB, Associate Professor Senior
+School: School of Business (VSB)
+Specialization: Digital and Social Media Marketing ,Retail Marketing ,Services Marketing,Consumer Behaviour,Training and Development,Human Resource Management ,Organisation Behaviour, Entrepreneurship and Educational Reasearch
+Email: arunkumar.sivakumar@vitap.ac.in
+--------------------------------------------------
+44. Name: Dr.Anupriya Elumalai
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Data Mining, Machine Learning, Information Retrieval
+Email: anupriya.e@vitap.ac.in
+--------------------------------------------------
+45. Name: Dr.Anil Vitthalrao Turukmane
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Network Security, Cyber Security, Machine Learning, Artificial Intelligence, Security
+Email: anil.turukmane@vitap.ac.in
+--------------------------------------------------
+46. Name: Dr.Anil negi
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Elastodynamics, Theoretical Seismology
+Email: anil.negi@vitap.ac.in
+--------------------------------------------------
+47. Name: Dr. Yepuganti Karuna
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Bio medical Image Processing , Bio medical Signal Processing , Artificial Intelligence , Machine Learning , Deep Learning
+Email: karuna.y@vitap.ac.in
+--------------------------------------------------
+48. Name: Dr. Yallanti Sowjanya Kumari
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: sowjanyakumari.y@vitap.ac.in
+--------------------------------------------------
+49. Name: Dr. Yada Nandukumar
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: nandukumar.y@vitap.ac.in
+--------------------------------------------------
+50. Name: Dr. Y. V. Pavan Kumar
+Designation: Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Microgrids, Smart Grids, Classical & Modern Control, Power Quality, Power Converters, Hybrid Electric Vehicles, Data Analytics, Artificial Intelligence
+Email: pavankumar.yv@vitap.ac.in
+--------------------------------------------------
+51. Name: Dr. Y Narasimha Rao
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: IOT,ML,DL,Security,Communications
+Email: y.narasimharao@vitap.ac.in
+--------------------------------------------------
+52. Name: Dr. Vivek Upadhyaya
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Not Available
+Email: vivek.upadhyaya@vitap.ac.in
+--------------------------------------------------
+53. Name: Dr. Vishnu V
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Film Studies, Cultural Studies, Popular Culture, Genre Studies, Science Fiction
+Email: vishnu.v@vitap.ac.in
+--------------------------------------------------
+54. Name: Dr. Visalakshi Annepu
+Designation: Assistant Professor Senior Grade1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Wireless Networks, Computer Networks, Machine Learning, Artificial Intelligence, Soft Computing Techniques
+Email: visalakshi.a@vitap.ac.in
+--------------------------------------------------
+55. Name: Dr. Virendra Kumar Verma
+Designation: Associate Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Dilute Magnetic Semiconductors, Multiferroic Materials, Magnetic Materials, X-ray Magnetic Circular Dichroism (XMCD), Solar Cells
+Email: virendra.verma@vitap.ac.in
+--------------------------------------------------
+56. Name: Dr. Vinod Kiran K
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Optical Wireless Communication, Free space Optics (FSO), Embedded Systems, Internet-of- Things (IoT), Optical Networking
+Email: vinod.k@vitap.ac.in
+--------------------------------------------------
+57. Name: Dr. Vikash Kumar Singh
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Mechanism Design, Game Theory, Crowdsourcing, Internet of Things, Healthcare
+Email: vikash.singh@vitap.ac.in
+--------------------------------------------------
+58. Name: Dr. Venkata Bhikshapathi Chenam
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Cryptography- Searchable Encryption
+Email: venkatab.chenam@vitap.ac.in
+--------------------------------------------------
+59. Name: Dr. Vemula Ramakrishna Reddy
+Designation: Head, Dept. of Mathematics, Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: ramakrishna.reddy@vitap.ac.in
+--------------------------------------------------
+60. Name: Dr. Vasili B V Nagarjuna
+Designation: Assistant professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Distribution Theory, Statistical Quality Control, Statistical Inference, Operations Research and Applied Statistics
+Email: nagarjuna.vasili@vitap.ac.in
+--------------------------------------------------
+61. Name: Dr. Varunkumar Merugu
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Biofluid Mechanics, CFD, Mass Transfer
+Email: varunkumar.merugu@vitap.ac.in
+--------------------------------------------------
+62. Name: Dr. Varunkumar Anantharaman
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: varunkumar.ka@vitap.ac.in
+--------------------------------------------------
+63. Name: Dr. Vanacharla Pujitha
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Biomechanics, CFD, Lubrication, Mathematical modelling, Newtonian/Non-Newtonian fluids
+Email: pujitha.v@vitap.ac.in
+--------------------------------------------------
+64. Name: Dr. V.Sri Lakshmi
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Image Processing
+Email: srilakshmi.v@vitap.ac.in
+--------------------------------------------------
+65. Name: Dr. V. Raja
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Graph Theory
+Email: raja.v@vitap.ac.in
+--------------------------------------------------
+66. Name: Dr. V V Sreenivasu M
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: sreenivasu.mummidivarapu@vitap.ac.in
+--------------------------------------------------
+67. Name: Dr. V R K Murty
+Designation: professor
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: vrkm@vitap.ac.in
+--------------------------------------------------
+68. Name: Dr. Usha Seshadri
+Designation: Associate Professor Grade 1
+School: School of Business (VSB)
+Specialization: Consumer Behaviour, Services Marketing,Sustainable Marketing, Rural Marketing and Digital Marketing
+Email: usha.seshadri@vitap.ac.in
+--------------------------------------------------
+69. Name: Dr. Umer Mushtaq Lone
+Designation: Assistant Professor Grade 1
+School: School of Business (VSB)
+Specialization: Accounting, Corporate Finance, Investment Management, Financial Markets and Financial Risk Management
+Email: umermushtaq.lone@vitap.ac.in
+--------------------------------------------------
+70. Name: Dr. Umakanta Nanda
+Designation: Dean, SENSE, Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Analog and Digital CMOS VLSI Design, Beyond CMOS Devices, Embedded Systems, IoT, Mixed Signal VLSI Design
+Email: umakanta.n@vitap.ac.in
+--------------------------------------------------
+71. Name: Dr. Udit Narayana Kar
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Computer Networks, Wireless Communication, 5G Cellular Netwoks and Beyond, Wireless Sensor Networks, Internet of Things
+Email: Uditnarayana.k@vitap.ac.in
+--------------------------------------------------
+72. Name: Dr. U M Gopal Krishna
+Designation: Assistant Professor Grade 2
+School: School of Business (VSB)
+Specialization: Financial Accounting, Financial Mangement, Investment Analysis and Portfolio Management, Financial Markets, Business Analytics, Data Analysis using SPSS, Tableau
+Email: gopalkrishna.um@vitap.ac.in
+--------------------------------------------------
+73. Name: Dr. Tufan Ghosh
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Nano- and Material Chemistry, Solar Cells, Ultrafast Spectroscopy
+Email: tufan.ghosh@vitap.ac.in
+--------------------------------------------------
+74. Name: Dr. Triveni Rajashekhar Mandlimath
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Development of nanomaterials for catalysis, photocatalysis, electrocatalysis, sensing and pigment applications
+Email: triveni.mandlimath@vitap.ac.in
+--------------------------------------------------
+75. Name: Dr. Tauseef Khan
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Digital Image Processing, Machine Learning, Deep Learning, Pattern Recognition, Operating System
+Email: tauseef.khan@vitap.ac.in
+--------------------------------------------------
+76. Name: Dr. Tannistha Dasgupta
+Designation: Assistant Professor Senior Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Language Assessment, Second Language Acquisition, Task-based Language Teaching, Technology-mediated Instruction
+Email: dasgupta.tannistha@vitap.ac.in
+--------------------------------------------------
+77. Name: Dr. Tanmoy Das
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: State, Governance and Development; State and Civil Society; Everyday state and Development; Peace and Conflict Studies; Political Anthropology; Political Sociology
+Email: tanmoy.das@vitap.ac.in
+--------------------------------------------------
+78. Name: Dr. T Ramana
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: ramana.t@vitap.ac.in
+--------------------------------------------------
+79. Name: Dr. T Rama Thulasi
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: ramathulasi.t@vitap.ac.in
+--------------------------------------------------
+80. Name: Dr. Swatilekha Sen
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Not Available
+Email: swatilekha.sen@vitap.ac.in
+--------------------------------------------------
+81. Name: Dr. Swati Shukla
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Power System Simulation, Development of EV Simulators,Demand Response Management, Electromagnetic Transient Analysis, Smart Homes
+Email: swati.shukla@vitap.ac.in
+--------------------------------------------------
+82. Name: Dr. Suyog Jhavar
+Designation: Associate Professor Senior
+School: School of Mechanical Engineering (SMEC)
+Specialization: Metal Additive Manufacturing, Welding Engineering, Automation, Industry 4.0, Digital Manufacturing
+Email: suyog.jhavar@vitap.ac.in
+--------------------------------------------------
+83. Name: Dr. Susmita Mahato
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Information Security
+Email: susmita.mahato@vitap.ac.in
+--------------------------------------------------
+84. Name: Dr. Suseela Vappangi
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Wireless Communications, Visible Light Communications, Optical Wireless communications, Signal Processing for communications, Non-orthogonal multiple access, Next generation wireless communication systems
+Email: suseela.v@vitap.ac.in
+--------------------------------------------------
+85. Name: Dr. Suresh Jagannadham
+Designation: Assistant Professor Senior Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Contemporary / Modern Hindi Literature, Documentation of Tribal Oral Traditions, Arts, Language, Literature and Philosophy of Tribes, Socio,Cultural identity of De-notified, Nomadic and Semi -Nomadic Tribes in India
+Email: suresh.jagannadham@vitap.ac.in
+--------------------------------------------------
+86. Name: Dr. Suresh Garimella
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Modern Indian History, Socio-Political History of Law
+Email: suresh.garimella@vitap.ac.in
+--------------------------------------------------
+87. Name: Dr. Suresh Dara
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: AI, ML, Evolutionary Computation, Bioinformatics, Industrial IOT, NLP
+Email: suresh.d@vitap.ac.in
+--------------------------------------------------
+88. Name: Dr. Surendra Reddy Vinta
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, Healthcare, Data Structures
+Email: surendrareddy.vinta@vitap.ac.in
+--------------------------------------------------
+89. Name: Dr. Sunny Dayal Vanambathina
+Designation: Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Speech Enhancement, Machine learning, Blind source separation
+Email: sunny.dayal@vitap.ac.in
+--------------------------------------------------
+90. Name: Dr. Sunkara Kalyani
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Data Analytics, Natural Language Processing, Anomaly Detection, Predictive Analytics. Data Visualization, Cryptography and Network Security
+Email: kalyani.s@vitap.ac.in
+--------------------------------------------------
+91. Name: Dr. Sunil Khosla
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Development Economics, Impact Evaluation, Forest Economics, Public Policy, Soil Health, Sustainable Development
+Email: sunil.khosla@vitap.ac.in
+--------------------------------------------------
+92. Name: Dr. Sumesh E. P
+Designation: Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Artificial Intelligence, Signal Processing, Communication Engineering and Embedded systems
+Email: sumesh.ep@vitap.ac.in
+--------------------------------------------------
+93. Name: Dr. Suma Kamalesh Gandhimathi
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Machine Learning, Soft Computing, Medical Imaging
+Email: sumakamalesh.g@vitap.ac.in
+--------------------------------------------------
+94. Name: Dr. Sukanta Nayak
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: sukanta.nayak@vitap.ac.in
+--------------------------------------------------
+95. Name: Dr. Sudhir Verma
+Designation: Assistant Professor Senior Grade 1
+School: School of Law (VSL)
+Specialization: Public International Law, Critical Legal Studies, Jursiprudence, International Trade Law and International Disaster Laws
+Email: sudhir.verma@vitap.ac.in
+--------------------------------------------------
+96. Name: Dr. Sudharshan Vadnala
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: "CMR manganites, Magnetocaloric effect, Study of material for IR detector Microfabrication using MEMS technology. Nanofibers fabrication using Electrospinning. Zinc based batteries with polymer electrolyte"
+Email: sudharshan.v@vitap.ac.in
+--------------------------------------------------
+97. Name: Dr. Sudhakar M
+Designation: Associate Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Numerics of PDE; finite difference method. Finite leement method, finite point set method, CFD analysis of computing, Electro-magnetic modeling
+Email: sudhakar.matle@vitap.ac.in
+--------------------------------------------------
+98. Name: Dr. Sudhakar Ilango
+Designation: Dean, SCOPE, Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Machine Learning, Deep Learning, Operating Systems, Theory of Computation
+Email: sudhakar.ilango@vitap.ac.in
+--------------------------------------------------
+99. Name: Dr. Sudha Ellison Mathe
+Designation: Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: IoT, PQC, VLSI Architectures, ASIC and FPGA implementations, AI/ML/DL
+Email: ellison.mathe@vitap.ac.in
+--------------------------------------------------
+100. Name: Dr. Sudesh Manger
+Designation: Assistant Professor Senior Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Translation Studies, Nepali Literature, Post Colonial Literature, Dalit Muslim Literature
+Email: sudesh.manger@vitap.ac.in
+--------------------------------------------------
+101. Name: Dr. Subhasish Mahapatra
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Instrumentation & Control, Nonlinear Control, Autonomous Underwater Vehicles, Robotics, Process Control Instrumentation
+Email: subhasish.m@vitap.ac.in
+--------------------------------------------------
+102. Name: Dr. Subhasis Panda
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Algebraic Number Theory
+Email: subhasis.panda@vitap.ac.in
+--------------------------------------------------
+103. Name: Dr. Subhankar Sil
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Symmetry analysis of Differential Equations, Conservation laws, Nonlinear PDEs, Nonlocal symmetry analysis
+Email: subhankar.sil@vitap.ac.in
+--------------------------------------------------
+104. Name: Dr. Srinivasa Reddy Konda
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Data Structures, Design and Analysis of Algorithms, Image Processing & Computer Vision, Machine Learning, Data Analytics
+Email: srinivasareddy.k@vitap.ac.in
+--------------------------------------------------
+105. Name: Dr. Srinivas S
+Designation: Dean, SAS, Professor HAG
+School: School of Advanced Science (SAS)
+Specialization: Differential Equations, PDEs, Non-Newtonian fluid flows, Heat and Mass transfer
+Email: srinivas.s@vitap.ac.in
+--------------------------------------------------
+106. Name: Dr. Soumyakanta Prusty
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Coordination Chemistry, Supramolecular Chemistry
+Email: soumyakanta.p@vitap.ac.in
+--------------------------------------------------
+107. Name: Dr. Soumik Sarkar
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Macroeconomics, Development Economics, Globalization, Political Economy, History of Economic Ideas, International Trade
+Email: soumik.sarkar@vitap.ac.in
+--------------------------------------------------
+108. Name: Dr. Soumen Kundu
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Mathematical Biology, Dynamical Systems, Disease Dynamics, Delay Differential Equation, Stochastic Analysis
+Email: soumen.kundu@vitap.ac.in
+--------------------------------------------------
+109. Name: Dr. Soubhagya Sankar Barpanda
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Image Processing, Artificial Intelligence, Software Engineering
+Email: soubhagya.barpanda@vitap.ac.in
+--------------------------------------------------
+110. Name: Dr. Sonali Kaushik
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Theoretical, numerical, and semi-analytical analysis of partial integro differential equations and infinite system of ODE's
+Email: sonali.k@vitap.ac.in
+--------------------------------------------------
+111. Name: Dr. Somya Ranjan Sahoo
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Cyber Security, IOT Security, Artificial Intelligence, Machine Learning, Drone Application and Security
+Email: somyaranjan.sahoo@vitap.ac.in
+--------------------------------------------------
+112. Name: Dr. SK Ashadul Rahaman
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Summability Theory, Fuzzy Theory
+Email: ashadulrahaman.sk@vitap.ac.in
+--------------------------------------------------
+113. Name: Dr. Siva Ramakrishna P
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Digital VLSI Architectures
+Email: sivaramakrishna.pillutla@vitap.ac.in
+--------------------------------------------------
+114. Name: Dr. Siddique Ibrahim Peer Mohamed
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Data Analytics, Big Data Technologies, Data Mining, Artificial intelligence, Deep learning
+Email: siddique.ibrahim@vitap.ac.in
+--------------------------------------------------
+115. Name: Dr. Sibi Chakkaravarthy S
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Cyber attacks and detection, Cyber Security, Consumer Electronics Security
+Email: chakkaravarthy.sibi@vitap.ac.in
+--------------------------------------------------
+116. Name: Dr. Shubhra Ghoshal
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Theatre Studies, Critical Theories, Indian Literature
+Email: shubhra.ghoshal@vitap.ac.in
+--------------------------------------------------
+117. Name: Dr. Shobhit Kumar Srivastava
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Gas Dynamics
+Email: shobhit.srivastava@vitap.ac.in
+--------------------------------------------------
+118. Name: Dr. Shirin Naresh Patil
+Designation: Assistant Professor Senior Grade 1
+School: School of Mechanical Engineering (SMEC)
+Specialization: Phase Doppler Particle Analyzer, Laser Doppler Velocimetry, Laser Induced Fluorescence Imaging, Particle Imaging Velocimetry, Computational Fluid Dynamics
+Email: shirin.patil@vitap.ac.in
+--------------------------------------------------
+119. Name: Dr. Sheela Jayachandran
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Text mining, NLP, Artificial Intelligence, Machine Learning, Deep Learning
+Email: sheela.j@vitap.ac.in
+--------------------------------------------------
+120. Name: Dr. Shazia Sabir
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Cryptography, Image security, Image processing, Data hiding
+Email: shazia.sabir@vitap.ac.in
+--------------------------------------------------
+121. Name: Dr. Shalini Subramani
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: shalini.subramani@vitap.ac.in
+--------------------------------------------------
+122. Name: Dr. Shalini
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: shalini.ramanathan@vitap.ac.in
+--------------------------------------------------
+123. Name: Dr. Shajan Joseph
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Mobile Adhoc Network (MANET) Security
+Email: shajan.joseph@vitap.ac.in
+--------------------------------------------------
+124. Name: Dr. Shaik Subhani
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Data Mining, Machine Learning, Artificial Intelligence, Data Science
+Email: subhani.shaik@vitap.ac.in
+--------------------------------------------------
+125. Name: Dr. Senthil Murugan
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: senthil.murugan@vitap.ac.in
+--------------------------------------------------
+126. Name: Dr. Selvakumar Karuthapandi
+Designation: Associate Professor Senior
+School: School of Advanced Science (SAS)
+Specialization: Organometallic Chemistry
+Email: selvakumar.k@vitap.ac.in
+--------------------------------------------------
+127. Name: Dr. Selva Kumar S
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Elastic Optical Network (EON), Computer Vision and Image Processing, Optimization Techniques, Data Science and Operating Systems
+Email: selvakumar.s@vitap.ac.in
+--------------------------------------------------
+128. Name: Dr. Sayyed Faizan Ali
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Not Available
+Email: faizan.ali@vitap.ac.in
+--------------------------------------------------
+129. Name: Dr. Satyendra Singh Chauhan
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Fluid Dynamics (Blood Flow, Solute Dispersion Process, Heat and Mass Transfer, Homogenization Process, Environmental Dispersion in Wetland Flow, Creeping Flow, Electrokinetic Transport, Membrane Filtration Process, Dispersion of Gyrotactic Micro-Organisms, Peristaltic Transport, Flow in Anterior Chamber of Eye, Synovial Fluid Analysis, and Artificial Neural Network)
+Email: satyendra.chauhan@vitap.ac.in
+--------------------------------------------------
+130. Name: Dr. Satyanarayana Badeti
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: satyanarayana.b@vitap.ac.in
+--------------------------------------------------
+131. Name: Dr. Satri Veera Kesalu
+Designation: Associate Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Public Policy, Indian government & Politics, Political Parties, Regional Politics, Human Rights, Democracy
+Email: veerakesalu.s@vitap.ac.in
+--------------------------------------------------
+132. Name: Dr. Saroj Kumar Panigrahy
+Designation: Associate-Dean, SCOPE, Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Wireless Body Area Networks, Wireless Sensor Networks, Internet of Vehicles, Cryptography, Network Security
+Email: saroj.panigrahy@vitap.ac.in
+--------------------------------------------------
+133. Name: Dr. Sanziou Boro
+Designation: Assistant Professor Senior Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Translation Studies
+Email: sanziou.b@vitap.ac.in
+--------------------------------------------------
+134. Name: Dr. Santosh Kumar Sahu
+Designation: Associate Professor Grade 1
+School: School of Mechanical Engineering (SMEC)
+Specialization: Machine Design
+Email: santoshkumar.sahu@vitap.ac.in
+--------------------------------------------------
+135. Name: Dr. Sanjit Chakraborty
+Designation: Assistant Professor Senior Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Philosophy of Science, Philosophy of Mathematics, AI and Ethics, Philosophy of Mind and Language
+Email: sanjit.chakraborty@vitap.ac.in
+--------------------------------------------------
+136. Name: Dr. Sane Umesh Reddy
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Spectral Graph Theory
+Email: saneumesh.r@vitap.ac.in
+--------------------------------------------------
+137. Name: Dr. Sandipan Maiti
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: DBMS, Data Warehousing, Data Mining, Pattern Recognition, Big-data Analytics,Software Engineering
+Email: sandipan.maiti@vitap.ac.in
+--------------------------------------------------
+138. Name: Dr. Sandhya Sadanandan
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Organic Chemistry-Peptide chemistry, BioorganicChemistry, Drug design and medicinal Chemistry
+Email: sandhya.sadanandan@vitap.ac.in
+--------------------------------------------------
+139. Name: Dr. Samuka Mohanty
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Machine Learning and Artificial Intelligence
+Email: samuka.mohanty@vitap.ac.in
+--------------------------------------------------
+140. Name: Dr. Samineni Peddakrishna
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: AI for Embedded Systems, Advanced Embedded Controllers, Embedded Linux and Device Drivers, and Antenna Designs
+Email: samineni.peddakrishna@vitap.ac.in
+--------------------------------------------------
+141. Name: Dr. Sameeulla Khan Md
+Designation: Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Image and Video processing, Signal Processing, Information Theory
+Email: sameeulla.k@vitap.ac.in
+--------------------------------------------------
+142. Name: Dr. Sambhudutta Nanda
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Microwave Theory and Techniques, Antenna Design, IoT, AI&ML
+Email: sambhudutta.n@vitap.ac.in
+--------------------------------------------------
+143. Name: Dr. Saladi Saritha
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Medical image processing, Machine learning, Deep learning, Artificial intelligence, Image processing
+Email: saritha.saladi@vitap.ac.in
+--------------------------------------------------
+144. Name: Dr. Sajad Nabi Dar
+Designation: Assistant Professor Senior Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Not Available
+Email: sajad.nabidar@vitap.ac.in
+--------------------------------------------------
+145. Name: Dr. Sachil Sharma
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: sachil.sharma@vitap.ac.in
+--------------------------------------------------
+146. Name: Dr. Sabeel M Basheer
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: sabeel.basheer@vitap.ac.in
+--------------------------------------------------
+147. Name: Dr. S. V. Kota Reddy
+Designation: Not Available
+School: School of Mechanical Engineering (SMEC)
+Specialization: Solar Collectors, Dryers, Desiccant Based Dryers, Vapour Compression Heat Pumps, Energy Conservation in Vapour Compression Cycles, Energy Conservation in Air conditioning, Cold Storages, Waste Heat Recovery and Utilization
+Email: Not Available
+--------------------------------------------------
+148. Name: Dr. S. V. Gomathi
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Operation Research
+Email: gomathi.sv@vitap.ac.in
+--------------------------------------------------
+149. Name: Dr. S. Gopikrishnan
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Routing Protocol design for Wireless Networks, Wireless Sensor Networks, Internet of Things, Cryptography, Cyber Security, Blockchain, Machine Learning for IoT and Cyber-Physical System
+Email: gopikrishnan.s@vitap.ac.in
+--------------------------------------------------
+150. Name: Dr. S. Bharath Bhushan
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Cloud Computing, Virtualization & ITIL process, Networks, Databases and Software Engineering
+Email: bharathbhushan.s@vitap.ac.in
+--------------------------------------------------
+151. Name: Dr. S Satheesh Kumar
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Not Available
+Email: satheeshkumar.s@vitap.ac.in
+--------------------------------------------------
+152. Name: Dr. S Dasaradha Rama Rao
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Transport studies on low-dimensional materials, Electro and Photo-catalysis, Energy Conversion and Storage, Hydrogen generation and Fuel cells
+Email: dasaradharamarao.s@vitap.ac.in
+--------------------------------------------------
+153. Name: Dr. Roopas Kiran Sirugudu
+Designation: Associate Professor Senior
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: roopaskiran.s@vitap.ac.in
+--------------------------------------------------
+154. Name: Dr. Ronali Madhusmita Sahoo
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Multiprocessor Scheduling, ML/DL, Evolutionary Algorithms
+Email: ronali.sahoo@vitap.ac.in
+--------------------------------------------------
+155. Name: Dr. Rohit Lorenzo
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Low Power VLSI Design, CMOS VLSI Design and Memory Design
+Email: rohit.lorenzo@vitap.ac.in
+--------------------------------------------------
+156. Name: Dr. Riya
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Decomposition of an Image into Structure and Texture Components, Image Enhancement, Image Denoising
+Email: riya@vitap.ac.in
+--------------------------------------------------
+157. Name: Dr. Ritu Varghese
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: English Literature, Religion and Theology, Cultural Studies, Hindu Studies, Bhakti Literature, Modern Indian Historiography
+Email: ritu.v@vitap.ac.in
+--------------------------------------------------
+158. Name: Dr. Ritambhara Sharma
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: ritambhara.sharma@vitap.ac.in
+--------------------------------------------------
+159. Name: Dr. Rini Singh
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Systemic Functional Linguistics, Second Language Acquisition, Literacy Studies, Language Assessment, Materials Development
+Email: rini.s@vitap.ac.in
+--------------------------------------------------
+160. Name: Dr. Renuprasad Hemkiran Patki
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Modern German Poetry, Contemporary German Love Poetry, History of German Literature, German as a Foreign Language (DaF)
+Email: renuprasad.patki@vitap.ac.in
+--------------------------------------------------
+161. Name: Dr. Renita R
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Software Engineering, Artificial Intelligence
+Email: renita.r@vitap.ac.in
+--------------------------------------------------
+162. Name: Dr. Reeja S R
+Designation: Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: High Performance Computing, Machine Learning, Artificial Intelligence, Computer Vision, Data Analytics
+Email: reeja.sr@vitap.ac.in
+--------------------------------------------------
+163. Name: Dr. Ravindra Dhuli
+Designation: Professor HAG
+School: School of Electronics Engineering (SENSE)
+Specialization: Signal Processing, Image processing, Communication Systems, Multi rate systems
+Email: ravindra.d@vitap.ac.in
+--------------------------------------------------
+164. Name: Dr. Ravi Sankar Barpanda
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Optical Networks, Optimization, and Evolutionary Computing
+Email: ravi.barpanda@vitap.ac.in
+--------------------------------------------------
+165. Name: Dr. Ravi Kumar Poluru
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Internet of Things, Wireless Sensor Networks, Machine Learning, Deep Learning, Optimization Techniques
+Email: ravikumar.poluru@vitap.ac.in
+--------------------------------------------------
+166. Name: Dr. Ravi Kumar Bandaru
+Designation: Associate Professor Senior
+School: School of Advanced Science (SAS)
+Specialization: Algebra-Lattice Theory, BCK-algebras and Other algebraic Structures
+Email: ravikumar.bandaru@vitap.ac.in
+--------------------------------------------------
+167. Name: Dr. Rasheda Parveen
+Designation: Assistant Professor Senior Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: English in India, Cultural Studies, Religious Studies, Sexuality and Gender
+Email: rasheda.p@vitap.ac.in
+--------------------------------------------------
+168. Name: Dr. Ramkumar D
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Internet of Things, Artificial Intelligence, VANET, Wireless Sensor Networks, Machine Learning
+Email: ramkumar.d@vitap.ac.in
+--------------------------------------------------
+169. Name: Dr. Ramesh Prasad Panda
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Algebraic Graph Theory, Algebraic Combinatorics
+Email: ramesh.panda@vitap.ac.in
+--------------------------------------------------
+170. Name: Dr. Ramesh A
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Mathematical Biology, Theoretical Ecology, Nonlinear Dynamics
+Email: ramesh.a@vitap.ac.in
+--------------------------------------------------
+171. Name: Dr. Rakhi N K
+Designation: Assistant Professor Senior Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Linguistics, Corpus Linguistics, Syntax and Morphology
+Email: rakhi.nk@vitap.ac.in
+--------------------------------------------------
+172. Name: Dr. Rajesh Duvvuru
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Geospatial Intelligence, Deep Learning, IoT, Remote Sensing and Disaster Management
+Email: rajesh.duvvuru@vitap.ac.in
+--------------------------------------------------
+173. Name: Dr. Rajeev Sharma
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Biomedical Signal Analysis,Deep Learning, Signal Processing
+Email: rajeev.sharma@vitap.ac.in
+--------------------------------------------------
+174. Name: Dr. Rajashree Naik
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Environmental Chemistry, Remote Sensing and Geographic Information System, Climate Change, Sustainable Development Goals
+Email: rajashree.naik@vitap.ac.in
+--------------------------------------------------
+175. Name: Dr. Rajasekhar Boddu
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: rajasekhar.boddu@vitap.ac.in
+--------------------------------------------------
+176. Name: Dr. Rajarshi Sarkar
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Organic Materials, Metal Organic Gels, Catalysis, Self-Healing Materials, Dye Sensitized Solar Cells, Green Technology
+Email: rajarshi.sarkar@vitap.ac.in
+--------------------------------------------------
+177. Name: Dr. Rajan Deorao Lanjekar
+Designation: Associate Professor Grade 1
+School: School of Mechanical Engineering (SMEC)
+Specialization: Internal Combustion Engines, Emissions, Fuels, Droplet and Spray
+Email: rajan.lanjekar@vitap.ac.in
+--------------------------------------------------
+178. Name: Dr. Raghavi R. K
+Designation: Assistant Professor Senior Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Graphic Medicine, Health Humanities, Comics Studies, Literature and Medicine and Visual Studies
+Email: raghavi.rk@vitap.ac.in
+--------------------------------------------------
+179. Name: Dr. Raghavendra
+Designation: Associate Dean, VSB, Professor Grade 2
+School: School of Business (VSB)
+Specialization: Security Analysis and Portfolio Management, Financial Derivatives, Capital Market, Fintech Applications
+Email: raghavendra@vitap.ac.in
+--------------------------------------------------
+180. Name: Dr. Rafael Gonzalez Macho
+Designation: Associate Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Not Available
+Email: rafael.gonzalez@vitap.ac.in
+--------------------------------------------------
+181. Name: Dr. Radha Mohan Pattanayak
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Machine Learning
+Email: radhamohan.pattanayak@vitap.ac.in
+--------------------------------------------------
+182. Name: Dr. R. Nandha Kumar
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Mobile Ad Hoc Networks, Wireless Sensor Networks, Next Generation Networks, Internet of Things, Machine Intelligence
+Email: nandha.r@vitap.ac.in
+--------------------------------------------------
+183. Name: Dr. R Sinuvasan
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: sinuvasan.r@vitap.ac.in
+--------------------------------------------------
+184. Name: Dr. Pujari Jeevana Jyothi
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Machine Learning, Deep Learning, Soft Computing
+Email: jeevanajyothi.pujari@vitap.ac.in
+--------------------------------------------------
+185. Name: Dr. Priyanka Ghosh
+Designation: Dean In-Charge, VISH, Assistant Professor Senior Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Environmental Geography, Political Ecology, Biodiversity Conservation, Climate Change Adaptation, Tourism/Ecotourism
+Email: dean.vish@vitap.ac.in
+--------------------------------------------------
+186. Name: Dr. Praveen Maurya
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Microwave, Instrumentation, MEMS, Optical communication and Electronics Communication
+Email: praveen.maurya@vitap.ac.in
+--------------------------------------------------
+187. Name: Dr. Pratik Premadarshi Ray
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: pratik.ray@vitap.ac.in
+--------------------------------------------------
+188. Name: Dr. Pratheep Kumar
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Solid State Chemistry/Materials Chemistry/Ceramics/Thermal Expansion
+Email: pratheep.kumar@vitap.ac.in
+--------------------------------------------------
+189. Name: Dr. Prashanth Rajam
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Internet of Things (IoT), Machine Learning, Embedded Systems, Wireless Sensor Network, Industrial Automation
+Email: prashanth.rajam@vitap.ac.in
+--------------------------------------------------
+190. Name: Dr. Prashanth Maroju
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Numerical Analysis, Differential Equations, Fuzzy System, Functional Analysis, Spectral Methods
+Email: prashanth.m@vitap.ac.in
+--------------------------------------------------
+191. Name: Dr. Prashant Patel
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Functional Analysis, Fixed Point Theory
+Email: prashant.p@vitap.ac.in
+--------------------------------------------------
+192. Name: Dr. Prakash S
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Hydrodynamic Stability
+Email: prakash.s@vitap.ac.in
+--------------------------------------------------
+193. Name: Dr. Pragya Sengupta
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Translation Studies, Comparative Literature
+Email: sengupta.pragya@vitap.ac.in
+--------------------------------------------------
+194. Name: Dr. Pragnya Parimita Chayani
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Energy Humanities, Gender and Anthropocene, Neo-Extractivism, Ecocriticism, Migration and Diaspora Studies
+Email: pragnyaparimita.ch@vitap.ac.in
+--------------------------------------------------
+195. Name: Dr. Pradosh Ranjan Sahoo
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Decentralised control, time-delay system, output feedback control
+Email: pradosh.sahoo@vitap.ac.in
+--------------------------------------------------
+196. Name: Dr. Pradip.R.Patle
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Nonlinear Analysis and Fractional Differential Equations
+Email: pradip.patle@vitap.ac.in
+--------------------------------------------------
+197. Name: Dr. Prabha Selvaraj
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Machine Learning and DEEP Learning, Recommendation System, Image Processing, IoT, Security, Block Chain
+Email: prabha.s@vitap.ac.in
+--------------------------------------------------
+198. Name: Dr. Posham Uppamma
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Machine Learning, Deep Learning, Blockchain
+Email: uppamma.posham@vitap.ac.in
+--------------------------------------------------
+199. Name: Dr. Pokuri Srinivasa Rao
+Designation: Assistant professor senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Network Security
+Email: pokuri.srinivasarao@vitap.ac.in
+--------------------------------------------------
+200. Name: Dr. Phani Kumar M
+Designation: Associate Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Fluid Dynamics
+Email: phani.m@vitap.ac.in
+--------------------------------------------------
+201. Name: Dr. Pema Choden Bhutia
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Tourism, Ecotourism, Environmental Valuation Techniques, Environmental Economics and Gender Issues
+Email: pemachoden.bhutia@vitap.ac.in
+--------------------------------------------------
+202. Name: Dr. Paramasivam R
+Designation: Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: paramasivam.r@vitap.ac.in
+--------------------------------------------------
+203. Name: Dr. Pankaj Balkrishna Tambe
+Designation: Professor HAG
+School: School of Mechanical Engineering (SMEC)
+Specialization: Polymer processing, Polymer Nanocomposites, Polymer Blends, Nanofluids, Metal Matrix Nanocomposites
+Email: pankaj.tambe@vitap.ac.in
+--------------------------------------------------
+204. Name: Dr. Pamulapati Ashok Reddy
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Machine Learning, Data Science and Software Engineering
+Email: ashokreddy.p@vitap.ac.in
+--------------------------------------------------
+205. Name: Dr. Palacharla Ravi Kumar
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Natural Language Processing
+Email: ravikumar.p@vitap.ac.in
+--------------------------------------------------
+206. Name: Dr. P. Kuppusamy
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Machine Learning, Deep Learning, IoT
+Email: kuppusamy.p@vitap.ac.in
+--------------------------------------------------
+207. Name: Dr. P S Rama Sreekanth
+Designation: Professor HAG
+School: School of Mechanical Engineering (SMEC)
+Specialization: Composites, Biomaterials, Honeycomb structures, Additive Manufacturing
+Email: sreekanth.p@vitap.ac.in
+--------------------------------------------------
+208. Name: Dr. Nuthakki Venkata Rajasekhar
+Designation: Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: 1. Planar Antenna Design and Analysis. 2. Metamaterial based Antennas 3.Gian and Bandwidth enhancement of compact antennas. 4. MIMO antenna design and analysis of 5G Communications
+Email: rajasekhar.venkata@vitap.ac.in
+--------------------------------------------------
+209. Name: Dr. Nimai Sarkar
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Qualitative study on Integral and Integro differential Equations, FPT
+Email: nimai.s@vitap.ac.in
+--------------------------------------------------
+210. Name: Dr. Nihar Ranjan Pradhan
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Blockchain, Decentralized Application, Renewable Energy Trading Framework, IPFS, Healthcare Security
+Email: nihar.pradhan@vitap.ac.in
+--------------------------------------------------
+211. Name: Dr. Ngangbam Indrason
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Blockchain, Internet of Things, Software-Defined Networking, Network Security
+Email: indrason.n@vitap.ac.in
+--------------------------------------------------
+212. Name: Dr. Neha Kumari
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Economics of Wellbeing, Development Economics, Environmental Economics
+Email: neha.kumari@vitap.ac.in
+--------------------------------------------------
+213. Name: Dr. Neha Gupta
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Remote Sensing, Satellite Image Processing, Machine Learning, Deep Learning
+Email: neha.gupta@vitap.ac.in
+--------------------------------------------------
+214. Name: Dr. Neethu P Antony
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Indian Literature, Modern Indian Drama, Gender Studies, SubalternResistance Studies, Communication Studies
+Email: neethup.antony@vitap.ac.in
+--------------------------------------------------
+215. Name: Dr. Neeraj Kumar Misra
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Reversible and Quantum Computing, Beyond CMOS computing with an emphasis on QCA technology, Low Power VLSI Design, Magnetic and Nano-computing Circuits based on FinFET, Design for Testability and Fault-Tolerant digital design
+Email: neeraj.misra@vitap.ac.in
+--------------------------------------------------
+216. Name: Dr. Neelima Adapa
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Language Variation & Phonetic Analysis of Stuttering
+Email: neelima.adapa@vitap.ac.in
+--------------------------------------------------
+217. Name: Dr. Naveen Kumar Ranjan
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Foreign Language Learning and Teaching, Error Analysis, Psychology of Language Learning, Learning Strategies, ICT in Language Learning etc
+Email: naveen.ranjan@vitap.ac.in
+--------------------------------------------------
+218. Name: Dr. Naveen Kumar Ch
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Science, Technology and Societal Studies
+Email: naveen.cherupelly@vitap.ac.in
+--------------------------------------------------
+219. Name: Dr. Naresh Sammeta
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Cloud Computing, Blockchain, Cryptography, Data Structures and Algorithms, Java Programming, Web Technologies
+Email: naresh.s@vitap.ac.in
+--------------------------------------------------
+220. Name: Dr. Naresh Babu Muddhangala
+Designation: Assistant Professor Senior Grade 2
+School: School of Business (VSB)
+Specialization: Marketing and Human Resources Managment
+Email: nareshbabu.m@vitap.ac.in
+--------------------------------------------------
+221. Name: Dr. Narendra Nath Dutta
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: narendranath.d@vitap.ac.in
+--------------------------------------------------
+222. Name: Dr. Narendra Kumar
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Algebraic Coding Theory, DNA Data Based Storage
+Email: narendrakumar@vitap.ac.in
+--------------------------------------------------
+223. Name: Dr. Nandam Ashok
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Photonics, Plasmonics, Sensors, Supercontinuum generation
+Email: nandam.ashok@vitap.ac.in
+--------------------------------------------------
+224. Name: Dr. Nalluri Purnachand
+Designation: Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: FPGA and ASIC architectures of image & video processing, Hardware accelerators of convolution neural networks, Video Processing Algorithms
+Email: purnachand.n@vitap.ac.in
+--------------------------------------------------
+225. Name: Dr. Nallamuthu S
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Quantum materials, Frustrated magnetism, Quantum Computing, Quantum Devices
+Email: nallamuthu.s@vitap.ac.in
+--------------------------------------------------
+226. Name: Dr. Nagendra Panini Challa
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Machine Learning, Deep Learning, Artificial Intelligence, Metadata and Ontologies
+Email: nagendra.challa@vitap.ac.in
+--------------------------------------------------
+227. Name: Dr. Nagarjuna Neella
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: 1D & 2D Materials, Functional Nanocomposites, Thin films Technology, Solution-Processed Electronic Devices, Next-generation Flexible Smart Sensors and Wearable Body
+Email: nagarjuna.neela@vitap.ac.in
+--------------------------------------------------
+228. Name: Dr. Nagaraju Devarakonda
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Data Mining, Machine Learning, Soft Computing
+Email: nagaraju.devarakonda@vitap.ac.in
+--------------------------------------------------
+229. Name: Dr. Naga Prasad Puvvada
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Chemical Biology & Nanomedicine
+Email: nagaprasad.p@vitap.ac.in
+--------------------------------------------------
+230. Name: Dr. Naga Jagadesh Bommagani
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Digital Image Processing, Medical Imaging, Machine Learning, Soft Computing, Data Analytics
+Email: nagajagadesh.bommagani@vitap.ac.in
+--------------------------------------------------
+231. Name: Dr. Nadiminti Nagamani
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: nagamani.n@vitap.ac.in
+--------------------------------------------------
+232. Name: Dr. N Madhusudhana Rao
+Designation: Dean, Academics, Professor HAG
+School: School of Advanced Science (SAS)
+Specialization: Semiconductors and Nano Materials
+Email: madhusudhana.n@vitap.ac.in
+--------------------------------------------------
+233. Name: Dr. N Lakshmipathi Anantha
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Machine Learning, Deep learning, Computer Vision, Natural Language Processing, Artificial Intelligence and Large Language Models
+Email: nlakshmipathi.anantha@vitap.ac.in
+--------------------------------------------------
+234. Name: Dr. Muthu Prabhu S
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Adsorption of toxins - Photodegradation - Supercapacitor
+Email: muthuprabhu.s@vitap.ac.in
+--------------------------------------------------
+235. Name: Dr. Moumita Saha
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Nonlinear Optics, Power Electronics
+Email: moumita.saha@vitap.ac.in
+--------------------------------------------------
+236. Name: Dr. Moru Satyanarayana
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Point-of-Care Electrochemical Sensors & Electrocatalysts for Sustainable Energy Conversion
+Email: satyanarayana.moru@vitap.ac.in
+--------------------------------------------------
+237. Name: Dr. Monalisa Sahu
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Network Security, Steganography, Water marking, Image processing
+Email: monalisa.sahu@vitap.ac.in
+--------------------------------------------------
+238. Name: Dr. Monali Bordoloi
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, NLP, Machine Learning, Data Analysis, Information Retrieval
+Email: monali.b@vitap.ac.in
+--------------------------------------------------
+239. Name: Dr. Mohit Kumar
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Biomedical Signal Processing
+Email: mohitkumar@vitap.ac.in
+--------------------------------------------------
+240. Name: Dr. Mohinder Singh. B
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Data Security, Cyber Security
+Email: mohindersingh.b@vitap.ac.in
+--------------------------------------------------
+241. Name: Dr. Mohd Abdul Muqeet Maaz
+Designation: Assistant Professor Grade 2
+School: School of Business (VSB)
+Specialization: Consumer Behaviour, Marketing Management, Cross cultural Management, General Management, Strategic Management
+Email: muqeet.maaz@vitap.ac.in
+--------------------------------------------------
+242. Name: Dr. Mohan Allam
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Soft Computing
+Email: mohan.allam@vitap.ac.in
+--------------------------------------------------
+243. Name: Dr. Mo Faheem
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Numerical Analysis, Wavelets, Mathematical Biology
+Email: faheem.mo@vitap.ac.in
+--------------------------------------------------
+244. Name: Dr. Mary Chandini Stephens
+Designation: Emeritus Professor
+School: School of Social Science and Humanities (VISH)
+Specialization: English literature, Indian Writing In English
+Email: marychandini.y@vit.ac.in
+--------------------------------------------------
+245. Name: Dr. Manomita Chakraborty
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Data Mining, Machine Learning, Neural Network, Deep Learning
+Email: manomita.c@vitap.ac.in
+--------------------------------------------------
+246. Name: Dr. Manoj Kumar Mishra
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Fluid Dynamics
+Email: manoj.m@vitap.ac.in
+--------------------------------------------------
+247. Name: Dr. Manoj Kumar Gupta
+Designation: Professor Grade 1
+School: School of Mechanical Engineering (SMEC)
+Specialization: 1. Tribology 2. Composites (SBC, Sustainable) 3. Colloidal and Dispersions 4. Oils (EP, AW, FM) 5. Electro-Tribo-Chemistry
+Email: manoj.gupta@vitap.ac.in
+--------------------------------------------------
+248. Name: Dr. Manmadha Rao Banki
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Nanomaterials, Energy Conversion, Bio-medical Devices and Chemical Sensors
+Email: rao.manmadha@vitap.ac.in
+--------------------------------------------------
+249. Name: Dr. Manisha Maity
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Differential Equations and Theoretical Seismology
+Email: manisha.m@vitap.ac.in
+--------------------------------------------------
+250. Name: Dr. Manish Kumar Singh
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Organic/flexible Electronics, Electronic Materials and Devices for charge transport, Fabrication / simulation & modelling of thin film-based Devices, Semiconductor nanostructures/nanocomposites (synthesis, materials characterization) and nanotechnology, Micro/nanoelectronics & VLSI
+Email: mksingh@vitap.ac.in
+--------------------------------------------------
+251. Name: Dr. Manimaran
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Data Science, Machine Learning, Computer Vision, Deep Learning, Natural Language Processing
+Email: manimaran.a@vitap.ac.in
+--------------------------------------------------
+252. Name: Dr. Manikanta Ravindra Kumar Vakkalagadda
+Designation: Professor Grade 1
+School: School of Mechanical Engineering (SMEC)
+Specialization: (i) Manufacturing Science, (ii) Metal forming, (iii) Numerical modelling of Manufacturing Processes, (iv) Railway Engineering, (v) 4D printing
+Email: ravindra.v@vitap.ac.in
+--------------------------------------------------
+253. Name: Dr. Manas Kumar Pal
+Designation: Associate Professor Grade 1
+School: School of Mechanical Engineering (SMEC)
+Specialization: 1. Experimental and numerical investigations of droplet and spray processes 2. High speed imaging and image processing 3. Optical diagnostics in thermo-fluid systems 4. Development of the emission control techniques 5. Fuel surrogates for clean combustion
+Email: manas.pal@vitap.ac.in
+--------------------------------------------------
+254. Name: Dr. Mahi S Thavarathu
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Immigrant Narratives, Ecological Humanities, Contemporary Irish Literature
+Email: mahi.thavarathu@vitap.ac.in
+--------------------------------------------------
+255. Name: Dr. Maheshuni Sankush Krishna
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: 2D Materials for Nanoelectronics Devices
+Email: sankushkrishna.m@vitap.ac.in
+--------------------------------------------------
+256. Name: Dr. Madhusmita Mohanty
+Designation: Assistant Professor Senior Grade 2
+School: School of Business (VSB)
+Specialization: Security Analysis, Portfolio Management, Project Analysis and Control Systems, Financial Analytics, and Financial Modelling
+Email: madhusmita.m@vit.ac.in
+--------------------------------------------------
+257. Name: Dr. Maddikera Kalyan Chakravarthi
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Classical & Modern Control, Sensor-IoT & Embedded systems,Process Control, Nonlinear Control Systems,Automation & Data Acquisition
+Email: kalyanchakravarthi.m@vitap.ac.in
+--------------------------------------------------
+258. Name: Dr. Madala Guru Brahmam
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Cloud, ML, DL, AI, Quantum Computing, Blockchain, IoT
+Email: gurubrahmam.m@vitap.ac.in
+--------------------------------------------------
+259. Name: Dr. M.Muneeswaran
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Multiferroics, Ferroelectrics, Piezoelectrics, Magnetic Nanoparticles, and Energy storage applications
+Email: muneeswaran.m@vitap.ac.in
+--------------------------------------------------
+260. Name: Dr. M.Mahesh
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Wireless communication, Wireless networks, Communication Systems
+Email: mahesh.m@vitap.ac.in
+--------------------------------------------------
+261. Name: Dr. M. Sucharitha
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Digital Image Processing, Neural Networks, Machine Learning, Deep Learning, Internet of Things
+Email: sucharitha.jackson@vitap.ac.in
+--------------------------------------------------
+262. Name: Dr. M. Krishnasamy
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: MEMS Device, Renewable Energy, Microelectronics, Piezo-Magneto-Elastic Energy Harvester
+Email: krishnasamy@vitap.ac.in
+--------------------------------------------------
+263. Name: Dr. M Venkata Rajanikanth
+Designation: Associate Dean, SAS, Associate Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Excimer laser microfabrication, Fibre sensors, Fibre reinforced composites, Instrumentation
+Email: rajanikanth.machavaram@vitap.ac.in
+--------------------------------------------------
+264. Name: Dr. M M Venkata Chalapathi
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Ensemble Learning, Human Computer Interaction, Data Analytics, Operating Systems
+Email: mmv.chalapthi@vitap.ac.in
+--------------------------------------------------
+265. Name: Dr. Lisna PC
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Graph theory, b-coloring, Achromatic Coloring, Injective Coloring, Applications of b-coloring in network analysis
+Email: lisna.pc@vitap.ac.in
+--------------------------------------------------
+266. Name: Dr. Linet Thomas
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Comparative Literature, Malayalam Literatures in Translation, Gabriel GarcÃ­a MÃ¡rquez, Political Modernist Fictions of Kerala, Latin American Fictions
+Email: linet.thomas@vitap.ac.in
+--------------------------------------------------
+267. Name: Dr. Lalitha Kumari Pappala
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Machine Learning
+Email: lalitha.p@vitap.ac.in
+--------------------------------------------------
+268. Name: Dr. Lakshminarayana Janjanam
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Signal Processing, Soft Computing Techniques, Kalman Filtering, Deep Learning Models
+Email: Lakshminarayana.j@vitap.ac.in
+--------------------------------------------------
+269. Name: Dr. Lakhan Dev Sharma
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Signal Processing, Image Processing, Machine Learning, Deep Learning, Optimization Techniques
+Email: lakhan.sharma@vitap.ac.in
+--------------------------------------------------
+270. Name: Dr. Kumar Debasis
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Wireless Sensor Networks, Internet of Things, Computer Networks
+Email: kumar.debasis@vitap.ac.in
+--------------------------------------------------
+271. Name: Dr. Kritika Bansal
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Control System, Robotics, Cyber-physical Systems
+Email: kritika.b@vitap.ac.in
+--------------------------------------------------
+272. Name: Dr. Krishna Nair J
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Not Available
+Email: krishnanair.j@vitap.ac.in
+--------------------------------------------------
+273. Name: Dr. Kottu Durga Prasad
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Nonlinear Dynamics
+Email: durgaorasad.k@vitap.ac.in
+--------------------------------------------------
+274. Name: Dr. Kotnana Ganesh
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Condensed Matter Physics - Functional Materials
+Email: ganesh.kotnana@vitap.ac.in
+--------------------------------------------------
+275. Name: Dr. Kosuri Yellareswararao
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Li-Ion Batteries ,Cathodes ,Anodes and Electrolyte, Thin Film Solid state Batteries, Thin Film Gas Sensor, Electronic waste Recycling (PCB,LI-Ion Batteries ,PV Modules), Functional thin Films, Na-Ion Batteries
+Email: yellareswararao.k@vitap.ac.in
+--------------------------------------------------
+276. Name: Dr. Kommerla Siva Kumar
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Computer Vision and Digital Image Processing, Machine Learning , Deep Learning
+Email: sivakumar.k@vitap.ac.in
+--------------------------------------------------
+277. Name: Dr. Koduru Hajarathaiah
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Complex Networks, Social Networks
+Email: hajarathaiah.k@vitap.ac.in
+--------------------------------------------------
+278. Name: Dr. Kishor E
+Designation: Assistant Professor Senior Grade 2
+School: School of Mechanical Engineering (SMEC)
+Specialization: Molecular Dynamics simulations, Radiation damage properties, Thermal contact resistance
+Email: kishor.e@vitap.ac.in
+--------------------------------------------------
+279. Name: Dr. Kingshuk Sarkar
+Designation: Assistant Professor Garde 2
+School: School of Advanced Science (SAS)
+Specialization: Theoretical and Computational Quantum Condensed Matter Physics, Magnetic and Superconducting Systems, Monte Carlo Simulations, Boltzmann Transport theory, Dirac Materials, Machine Learning and Quantum Computation
+Email: kingshuk.sarkar@vitap.ac.in
+--------------------------------------------------
+280. Name: Dr. Khasim Syed
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Deep Learning and Machine Learning, Image Processing, Internet of Things, Cryptography & Network Security, Big Data Analytics
+Email: syed.khasim@vitap.ac.in
+--------------------------------------------------
+281. Name: Dr. Khairnar Vikas Vishnu
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: RF & Microwave Engineering, Metasurface based Antennas, Reconfigurable Antennas
+Email: vikas.vishnu@vitap.ac.in
+--------------------------------------------------
+282. Name: Dr. Khadheer Pasha Sk
+Designation: Associate Professor Senior
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: khadheerpasha.sk@vitap.ac.in
+--------------------------------------------------
+283. Name: Dr. Kavikumar. R
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Systems and Control Theory
+Email: kavikumar.r@vitap.ac.in
+--------------------------------------------------
+284. Name: Dr. Kashif Beg
+Designation: Assistant Professor Senior Grade 1
+School: School of Business (VSB)
+Specialization: Corporate Accounting, Financial Accounting, Financial Management, Tax and Investment
+Email: kashif.beg@vitap.ac.in
+--------------------------------------------------
+285. Name: Dr. Karthika Natarajan
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Machine Learning, Deep Learning, Information Retrieval and Extraction
+Email: karthika.n@vitap.ac.in
+--------------------------------------------------
+286. Name: Dr. Karrothu Aravind
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Information Security, Data Communication and Computer Networks
+Email: aravind.karrothu@vitap.ac.in
+--------------------------------------------------
+287. Name: Dr. Karishma Bisht
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Literature and Psychology, Indian Aesthetics, Literary Theory, World Literature, Disablity Studies
+Email: karishma.b@vitap.ac.in
+--------------------------------------------------
+288. Name: Dr. Kareemulla Shaik
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Computer Networks and Security
+Email: Kareemulla.shaik@vitap.ac.in
+--------------------------------------------------
+289. Name: Dr. Kankanala Srinivas
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Image processing, Soft computing, Compressive sensing, Machine learning, DOA estimation
+Email: srinivas.kankanala@vitap.ac.in
+--------------------------------------------------
+290. Name: Dr. Kalapraveen Bagadi
+Designation: Associate Professor Senior
+School: School of Electronics Engineering (SENSE)
+Specialization: Application of AI for Wireless Communication
+Email: kalapraveen.b@vitap.ac.in
+--------------------------------------------------
+291. Name: Dr. K.A. Asraar Ahmed
+Designation: Assistant Professor Senior Grade 1
+School: School of Business (VSB)
+Specialization: Marketing Analytics, Business Research Methods, Data Science, Operations Management and Machine Learning using R for Business
+Email: ka.asraarahmed@vitap.ac.in
+--------------------------------------------------
+292. Name: Dr. K. Panduranga
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Coastal Hydrodynamics, Boundary Element Analysis, and Machine Learning
+Email: panduranga.k@vitap.ac.in
+--------------------------------------------------
+293. Name: Dr. K Senthil
+Designation: Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Nanomaterials for energy and environmental applications
+Email: senthil.k@vitap.ac.in
+--------------------------------------------------
+294. Name: Dr. K N V P S Rajesh
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Biomedical Signal Processing, Biomedical Image Processing, Digital Signal Processing, Machine Learning
+Email: rajesh.k@vitap.ac.in
+--------------------------------------------------
+295. Name: Dr. K Kinjari
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Applied Cognitive Psychology, Counseling Psychology, Social Psychology, Educational Psychology
+Email: kinjari.k@vitap.ac.in
+--------------------------------------------------
+296. Name: Dr. K Aravind
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: aravind.k@vitap.ac.in
+--------------------------------------------------
+297. Name: Dr. Jyotsna Sharma
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Number Theory
+Email: jyotsna.sharma@vitap.ac.in
+--------------------------------------------------
+298. Name: Dr. Joseph Alugula
+Designation: Assistant Professor Senior Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Political Theory, International Relations (Indo-Israel Relations), Public Policy, Ageing, Social Security
+Email: joseph.a@vitap.ac.in
+--------------------------------------------------
+299. Name: Dr. John Pradeep D
+Designation: Associate Professor Senior
+School: School of Electronics Engineering (SENSE)
+Specialization: Nonlinear Control, Machine learning, Reinforcement learning, SAW sensors
+Email: john.darsy@vitap.ac.in
+--------------------------------------------------
+300. Name: Dr. Jayendra Kumar
+Designation: Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Microstrip and Graphene-based Antennas, 5G Antennas, Metamaterial, Reconfigurable Antennas, Machine and Deep Learning
+Email: kumar.jayendra@vitap.ac.in
+--------------------------------------------------
+301. Name: Dr. Jayashree Pradhan
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Optical wireless Communication, Visible Light Communication
+Email: jayashree.p@vitap.ac.in
+--------------------------------------------------
+302. Name: Dr. Jagadish Chandra Mudiganti
+Designation: Registrar, Professor HAG
+School: School of Electronics Engineering (SENSE)
+Specialization: Not Available
+Email: mudiganti.jc@vitap.ac.in
+--------------------------------------------------
+303. Name: Dr. Jabeen Yasmeen
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Trauma narratives, Oral Narratives, Literature on Citizenship and Identity, Partition Studies, Food and Trauma Narratives, Literature from Northeast India
+Email: jabeen.yasmeen@vitap.ac.in
+--------------------------------------------------
+304. Name: Dr. J Sudagar
+Designation: Associate Professor Senior
+School: School of Advanced Science (SAS)
+Specialization: High-Entropy materials; Eco-friendly Coatings; Corrosion science of engineering materials; Photovoltaics; Nanomaterials synthesis, and Nanocomposites
+Email: sudagar.jothi@vitap.ac.in
+--------------------------------------------------
+305. Name: Dr. Illa Ramakanth
+Designation: Head, Dept. of Chemistry, Associate Professor Senior
+School: School of Advanced Science (SAS)
+Specialization: Analytical Chemistry, Physical Chemistry, Colloids & Interface Chemistry, Energy Materials, Soft Materials, Supramolecular Gels, Nanomaterials, Thin Films
+Email: ramakanth.illa@vitap.ac.in
+--------------------------------------------------
+306. Name: Dr. Ikkurthi Bhanu Prasad
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: bhanuprasad.i@vitap.ac.in
+--------------------------------------------------
+307. Name: Dr. Hussain Syed
+Designation: Associate Professor Senior
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Software Engineering,Human-Interaction Design, Software Project management,Data Analytics,Business Intelligence, Data warehousing & Data-Mining
+Email: hussain.syed@vitap.ac.in
+--------------------------------------------------
+308. Name: Dr. Hemant Kumar Reddy
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Distributed System ( Cloud, Fog, IoT), Blockchain Technology
+Email: hemanth.reddy@vitap.ac.in
+--------------------------------------------------
+309. Name: Dr. Helen Sharmila A
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Wireless Body Area Network, Internet of Things, Blockchain and AI
+Email: helensharmila.a@vitap.ac.in
+--------------------------------------------------
+310. Name: Dr. Harikiran Jonnadula
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Image Processing
+Email: harikiran.j@vitap.ac.in
+--------------------------------------------------
+311. Name: Dr. Hari Seetha
+Designation: Professor HAG
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Not Available
+Email: seetha.hari@vitap.ac.in
+--------------------------------------------------
+312. Name: Dr. Hari Kishan Kondaveeti
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Image Processing, Machine Learning, Deep Learning, Data Analytics
+Email: kishan.kondaveeti@vitap.ac.in
+--------------------------------------------------
+313. Name: Dr. Hanumantharao Bitra
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Signal Processing & Wireless Communications
+Email: hanumantharao.bitra@vitap.ac.in
+--------------------------------------------------
+314. Name: Dr. Guruprakash Jayabalasamy
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Software Engineer & Blockchain
+Email: guruprakash.j@vitap.ac.in
+--------------------------------------------------
+315. Name: Dr. Gurumurthy Komanapalli
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Analog VLSI, Currnet mode circuits, Microelectronics, Semiconductor Devices
+Email: gurumurthy.k@vitap.ac.in
+--------------------------------------------------
+316. Name: Dr. Gokulnath
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Graph Theory
+Email: gokulnath@vitap.ac.in
+--------------------------------------------------
+317. Name: Dr. Gokul Yenduri
+Designation: Assistant Professor Sr Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Inclusive Education, Metaverse, Federated Learning, Blockchain, Explainable AI, Healthcare
+Email: gokul.yenduri@vitap.ac.in
+--------------------------------------------------
+318. Name: Dr. Girish Kumar Mekala
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: VLSI Interconnects, TSVs, Carbon Nanotube based devices, Machine learning
+Email: girishkumar.m@vitap.ac.in
+--------------------------------------------------
+319. Name: Dr. Gayathri Dhara
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Visual Saliency, Computer Vision, Deep Learning
+Email: gayathri.d@vitap.ac.in
+--------------------------------------------------
+320. Name: Dr. Gaurav Sonik
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: German Literature, Indian Philosophy, German Reception of Ancient Indian Philosophy and texts, Literary Theories and Translation Theories
+Email: gaurav.sonik@vitap.ac.in
+--------------------------------------------------
+321. Name: Dr. Ganesh Reddy Karri
+Designation: Associate Professor Senior
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Wireless Security, Cyber Security, Cloud Computing, Computer Networks, Machine Learning
+Email: ganesh.reddy@vitap.ac.in
+--------------------------------------------------
+322. Name: Dr. Ganesh M
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Archaeological Anthropology, Prehistory and Heritage studies
+Email: ganesh.m@vitap.ac.in
+--------------------------------------------------
+323. Name: Dr. Ganesh Kotagiri
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Experimental Condensed Matter Physics (Magnetic Materials)
+Email: ganesh.kotagiri@vitap.ac.in
+--------------------------------------------------
+324. Name: Dr. G.Siva
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Biostatistics - Classification Techniques and Sampling Theory
+Email: siva.g@vitap.ac.in
+--------------------------------------------------
+325. Name: Dr. G.Muneeswari
+Designation: Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Distributed Systems, Artificial intelligence, Machine learning, parallel architecture, computer security
+Email: muneeswari.g@vitap.ac.in
+--------------------------------------------------
+326. Name: Dr. G. Soma Sekhar
+Designation: Associate Professor Grade 1
+School: School of Business (VSB)
+Specialization: Operations and Supply Chain Management, Retail Management, Customer Analytics, Marketing Management and Digital Marketing
+Email: somasekhar.g@vitap.ac.in
+--------------------------------------------------
+327. Name: Dr. G. Bharath Reddy
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Antenna design, Microwave circuit design, Metamaterial design, Array synthesis, Machine learning applications to antenna design
+Email: bharathreddy.gudibandi@vitap.ac.in
+--------------------------------------------------
+328. Name: Dr. G D V Santhosh Kumar
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Digital VLSI Systems Design using FPGA/ASIC, Biomedical Micro Devices, GaN based Devices, Flexible Electronics, Electro Chemical Sensors
+Email: santhosh.gdv@vitap.ac.in
+--------------------------------------------------
+329. Name: Dr. Francis P
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Graph Coloring and Domination
+Email: francis@vitap.ac.in
+--------------------------------------------------
+330. Name: Dr. Farooq Ahmad Mir
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Neuro-Cognitive Linguistics; English Language Teaching; Language Documentation; Sociolinguistics; Phonetics & Phonology (English and Languages in India); Linguistics Research methodology
+Email: farooq.mir@vitap.ac.in
+--------------------------------------------------
+331. Name: Dr. Eswaraiah Rayachoti
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Deep Learning, Data Science
+Email: eswaraiah.rayachoti@vitap.ac.in
+--------------------------------------------------
+332. Name: Dr. Edara Sreenivasa Reddy
+Designation: Professor HAG
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Machine Learning, Deep Learning, Image processing, Pattern recognition
+Email: sreenivasareddy.e@vitap.ac.in
+--------------------------------------------------
+333. Name: Dr. E. Rajalakshmi
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Deep Learning, Machine Learning, Digital Image Processing, Gesture Recognition, Sentiment Analysis
+Email: rajalakshmi.e@vitap.ac.in
+--------------------------------------------------
+334. Name: Dr. E. Ajith Jubilson
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Software agents, Web security, Software Engineering
+Email: ajith.jubilson@vitap.ac.in
+--------------------------------------------------
+335. Name: Dr. Dwarasala Adilakshmi
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: adilakshmi.d@vitap.ac.in
+--------------------------------------------------
+336. Name: Dr. Dripta De Joarder
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Organic synthesis, Green catalysis
+Email: dripta.joarder@vitap.ac.in
+--------------------------------------------------
+337. Name: Dr. Dilipkumar Mohanty
+Designation: Dean, SMEC, Professor Grade 1
+School: School of Mechanical Engineering (SMEC)
+Specialization: Thermal Engineering, Experimental Heat Transfer, IC Engines, Biofuels
+Email: mohanty.dk@vitap.ac.in
+--------------------------------------------------
+338. Name: Dr. Dheeraj Kumar
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: French and Francophone Literature
+Email: dheeraj.kumar@vitap.ac.in
+--------------------------------------------------
+339. Name: Dr. Devulapalli Sudheer
+Designation: Assistant Professor senior grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Computer Vision
+Email: sudheer.d@vitap.ac.in
+--------------------------------------------------
+340. Name: Dr. Deepthi Godavarthi
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Natural Language Processing,Machine Learning,Deep Learning,Computer Vision,Block Chain Technology
+Email: deepthi.g@vitap.ac.in
+--------------------------------------------------
+341. Name: Dr. Deepjoy Katuwal
+Designation: Assistant Professor Senior Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Eastern Himalayan Language & Culture, Indian English Literature, South Asian Studies, English Language Teaching
+Email: deepjoy.katuwal@vitap.ac.in
+--------------------------------------------------
+342. Name: Dr. Deepasikha Mishra
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Image Processing, Machine Learning, Pattern Recognition, Deep Learning, Knowledge Engineering, Data Analytics
+Email: deepasikha.mishra@vitap.ac.in
+--------------------------------------------------
+343. Name: Dr. Deepanramkumar P
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: nternet of Vehicles, Cognitive Radio Network, Artificial Intelligence, IoT & 6G
+Email: deepanramkumar.p@vitap.ac.in
+--------------------------------------------------
+344. Name: Dr. Deepanjan. K
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Intellectual History of Modern India
+Email: deepanjan.k@vitap.ac.in
+--------------------------------------------------
+345. Name: Dr. Deepak Ch
+Designation: Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Digital Systems, VLSI Circuits, FPGA, ASIC Designs, Internet of Things
+Email: deepak.ch@vitap.ac.in
+--------------------------------------------------
+346. Name: Dr. Debosmita Biswas
+Designation: Assistant Professor Senior Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: History of Ideas, Thanatology, Moral Philosophy
+Email: debosmita.b@vitap.ac.in
+--------------------------------------------------
+347. Name: Dr. Debanjali Sarkar
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Ultra-wideband Antenna, Biomedical Antenna, Printed Microwave Components, RF Energy Harvesting, Machine Learning, Evolutionary Algorithms
+Email: debanjali.sarkar@vitap.ac.in
+--------------------------------------------------
+348. Name: Dr. Debakanta Tripathy
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: debakanta.tripathy@vitap.ac.in
+--------------------------------------------------
+349. Name: Dr. Debajit Goswami
+Designation: Associate Professor Senior
+School: School of Advanced Science (SAS)
+Specialization: Biophysics, Solid State Physics, Thermodynamics
+Email: debajit.g@vitap.ac.in
+--------------------------------------------------
+350. Name: Dr. Dasari Venkata Lakshmi
+Designation: Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Computing Models , Artificial Intelligence, Machine Learning, Natural Language Processing, Data Analytics
+Email: venkatalakshmi.d@vitap.ac.in
+--------------------------------------------------
+351. Name: Dr. D.Santha Devi
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: IoT- Edge Security (Netflow based Malware Detection and Classification)
+Email: santhadevi.d@vitap.ac.in
+--------------------------------------------------
+352. Name: Dr. D. Paul Joseph
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Cyber Security, Digital Forensics, NLP, Machine Learning, Information Extraction
+Email: pauljoseph.d@vitap.ac.in
+--------------------------------------------------
+353. Name: Dr. D. Kothandaraman
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: ML, DL and Data Mining
+Email: kothandaraman.d@vitap.ac.in
+--------------------------------------------------
+354. Name: Dr. Chirra Venkata Ramireddy
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Computer Vision, Image Processing, Machine Learning, Deep Learning, Data Analytics
+Email: venkataramireddy.chirra@vitap.ac.in
+--------------------------------------------------
+355. Name: Dr. Chiranjeev Kumar Shahu
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Differential Equations, Magnetization Dynamics
+Email: chiranjeev.s@vitap.ac.in
+--------------------------------------------------
+356. Name: Dr. Chandu D S
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Electromagnetics, Microwave Devices and Metasurfaces
+Email: chandu.ds@vitap.ac.in
+--------------------------------------------------
+357. Name: Dr. Chandan Vishwas
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: French Canadian language, literature and culture. French literature and culture
+Email: chandan.vishwas@vitap.ac.in
+--------------------------------------------------
+358. Name: Dr. Chandan Nayak
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Bio-medical Signal Processing, Internet of Medical Things, Artificial Intelligence, Wearable Healthcare Monitoring, Fractional Order Filter Design
+Email: chandan.nayak@vitap.ac.in
+--------------------------------------------------
+359. Name: Dr. Chandan Kumar Thakur
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Solute Transport Modeling, Contaminant Hydrology, Groundwater Hydrology, Analytical and Numerical Approach
+Email: chandan.thakur@vitap.ac.in
+--------------------------------------------------
+360. Name: Dr. Chandan Kumar Pandey
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Microelectronics and VLSI Design, Modeling and Simulation of advanced MOS devices, Materials characterization for Semiconductor Devices, Application of devices as Biosensors and Photosensors
+Email: chandan.pandey@vitap.ac.in
+--------------------------------------------------
+361. Name: Dr. Chalasani Rajesh
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: rajesh.c@vitap.ac.in
+--------------------------------------------------
+362. Name: Dr. Ch. Naresh
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Automation through PLC controllers, Nanoparticle synthesis and Chracterisation, diagnosis of electrical insulation systems, surface and bulk charge trap behaviour of nanocomposite materials, identification and classification of material degradation through machine learning algorithms
+Email: naresh.ch@vitap.ac.in
+--------------------------------------------------
+363. Name: Dr. C Siva Kumar Reddy
+Designation: Assistant Professor Senior Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Carbon nanotubes, Graphene, MXenes and Composites
+Email: sivakumar.reddy@vitap.ac.in
+--------------------------------------------------
+364. Name: Dr. Bommareddy Lokesh
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Software-defined Networking
+Email: lokesh.bommareddy@vitap.ac.in
+--------------------------------------------------
+365. Name: Dr. Bolem Sai Chandana
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Image Processing, Hyperspectral Image Analysis
+Email: saichandana.bolem@vitap.ac.in
+--------------------------------------------------
+366. Name: Dr. Boggarapu Vasavi
+Designation: Assistant Professor Research
+School: School of Mechanical Engineering (SMEC)
+Specialization: Functionally graded materials, Nano composites, Bio composites, Tribology, Shape memory polymers, Surface Texturing, Additive manufacturing, 3D Printing
+Email: vasavi.b@vitap.ac.in
+--------------------------------------------------
+367. Name: Dr. Bibhab Bandhu Majumdar
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Computational chemistry, molecular dynamics simulations, free energy calculations
+Email: bibhabbandhu.m@vitap.ac.in
+--------------------------------------------------
+368. Name: Dr. Bharathi V C
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Image and video processing, Pattern recognition, Document handling, Document retrieval, and Machine learning
+Email: bharathi.vc@vitap.ac.in
+--------------------------------------------------
+369. Name: Dr. Bensha C. Shaji
+Designation: Assistant Professor Senior Grade 1
+School: School of Law (VSL)
+Specialization: Taxation Law, Corporate and Commercial Law
+Email: bensha.shaji@vitap.ac.in
+--------------------------------------------------
+370. Name: Dr. Benarji Chakka
+Designation: Dean, VSL, Professor Grade 2
+School: School of Law (VSL)
+Specialization: International Law; Aviation and Space Law; International Humanitarian Law; International Refugee Law and International Criminal Law; Anti Money Laundering
+Email: benarji.chakka@vitap.ac.in
+--------------------------------------------------
+371. Name: Dr. Beebi Naseeba
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Machine Learning, Deep Learning,Image Processing
+Email: beebi.naseeba@vitap.ac.in
+--------------------------------------------------
+372. Name: Dr. Battula Venkata Satish Babu
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Blockchain, Network and Data Security, Data Science, Digital Image processing, Cloud and Virtualization, IOT
+Email: satishbabu.bv@vitap.ac.in
+--------------------------------------------------
+373. Name: Dr. Bappadittya Roy
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Wireless communication, Characterization of Dielectric Material, Microstrip Antenna, Microwave & Millimeter-wave communications
+Email: bappadittya.roy@vitap.ac.in
+--------------------------------------------------
+374. Name: Dr. Bandaru Ramakrishna
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Biomedical Engineering, Multidisciplinary Research: Plasmonic Biosensors, Microfluidics, Signal Processing, Sensory integration rooms
+Email: ramakrishna.bandaru@vitap.ac.in
+--------------------------------------------------
+375. Name: Dr. Balusa Bhanu Chander
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Multi Criteria Decision Making, Machine Learning
+Email: bhanuchander.b@vitap.ac.in
+--------------------------------------------------
+376. Name: Dr. Balasingh V
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Postcolonial literature, diaspora literature, british literature, literary theory and criticism
+Email: balasingh.v@vitap.ac.in
+--------------------------------------------------
+377. Name: Dr. B.V.Gokulnath
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: DEEP LEARNING and IMAGE PROCESSING
+Email: gokulnath.b@vitap.ac.in
+--------------------------------------------------
+378. Name: Dr. Avadhesh Kumar
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Impulsive differential equation, Mathematical control theory, Stability theory, Machine Learning
+Email: avadhesh.kumar@vitap.ac.in
+--------------------------------------------------
+379. Name: Dr. Atul Shankar Mani Tripathi
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Organic/Flexible Electronics, Low power VLSI Design, Semiconductor device modelling, Electrocaloric Devices
+Email: atul.tripathi@vitap.ac.in
+--------------------------------------------------
+380. Name: Dr. Aswathy R K
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Fractals and Fixed Point Theorem
+Email: aswathy.rk@vitap.ac.in
+--------------------------------------------------
+381. Name: Dr. Aswathy M
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Positive psychology, Character strengths, counselling, research
+Email: aswathy.m@vitap.ac.in
+--------------------------------------------------
+382. Name: Dr. Asish Kumar Dalai
+Designation: Associate Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Network Security, Device Authentication, Artificial Intelligence, Machine Learning, Deep Learning
+Email: asish.d@vitap.ac.in
+--------------------------------------------------
+383. Name: Dr. Ashraf Pulikkamath
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Gender Economics, Gender Budget, Fiscal Policy, Development Economics, Development Studies
+Email: ashraf.p@vitap.ac.in
+--------------------------------------------------
+384. Name: Dr. Ashish Gupta
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Digital Signal Processing; Digital Image Processing
+Email: ashish.gupta@vitap.ac.in
+--------------------------------------------------
+385. Name: Dr. Aruru Sai Kumar
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Not Available
+Email: saikumar.a@vitap.ac.in
+--------------------------------------------------
+386. Name: Dr. Arun Kumar Yadav
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Orbital Mechanics
+Email: arun.yadav@vitap.ac.in
+--------------------------------------------------
+387. Name: Dr. Arun Kumar Sinha
+Designation: Associate Professor Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Electronics, Intelligent Algorithm, Sensors, Design
+Email: arunkumar.s@vitap.ac.in
+--------------------------------------------------
+388. Name: Dr. Arpana Venu
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Travel Writing, South-Asian Travel Writing, Translation Studies, Queer Studies, Film Studies
+Email: arpana.venu@vitap.ac.in
+--------------------------------------------------
+389. Name: Dr. Arindam Dey
+Designation: Associate Professor Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Soft Computing, Graph Theory and Optimization Problem
+Email: arindam.dey@vitap.ac.in
+--------------------------------------------------
+390. Name: Dr. Arenkala Kichu
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Not Available
+Email: arenkala.k@vitap.ac.in
+--------------------------------------------------
+391. Name: Dr. Archana Tiwari
+Designation: Assistant Professor Grade I
+School: School of Advanced Science (SAS)
+Specialization: Mathematical Control Theory
+Email: archana.tiwari@vitap.ac.in
+--------------------------------------------------
+392. Name: Dr. Aravapalli Rama Satish
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Data Mining, Machine Learning, Big Data, Deep Learning
+Email: rama.satish@vitap.ac.in
+--------------------------------------------------
+393. Name: Dr. Anurag De
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Activity recognition for ambient intelligence, Human fall detection, Cyber-physical Systems, Software Engineering, Microprocessors
+Email: anurag.de@vitap.ac.in
+--------------------------------------------------
+394. Name: Dr. Anupama A. P
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Film Studies, Spectatorship Studies, Spatial studies in film, Semiotics, Cyberpunk
+Email: anupama.ap@vitap.ac.in
+--------------------------------------------------
+395. Name: Dr. Anshul Gopal
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: anshul.gopal@vitap.ac.in
+--------------------------------------------------
+396. Name: Dr. Anoop Kumar Mishra
+Designation: Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Cooperative Transmission over Fading Channels, Physical layer security and privacy, Cognitive Multi-hop Networks, Computational Offloading for MEC System, and NOMA-aided MEC system
+Email: anoop.m@vitap.ac.in
+--------------------------------------------------
+397. Name: Dr. Annapureddy V N Reddy
+Designation: Assistant Professor Senior Grade 2
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Image Processing, Machine Learning, Deep Learning
+Email: vnreddy.a@vitap.ac.in
+--------------------------------------------------
+398. Name: Dr. Ann Mary George
+Designation: Assitant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Film Studies, Star Studies, Malayalam Cinema, Popular Culture, and Ecocriticism
+Email: annmary.g@vitap.ac.in
+--------------------------------------------------
+399. Name: Dr. Ankur Pandey
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Dielectric Properties, Biomaterials, Medical Implant, Biosensors
+Email: ankur.p@vitap.ac.in
+--------------------------------------------------
+400. Name: Dr. Ankita Swetaparna
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Discourse Analysis, Pragmatics, Phonetics, Sociolinguistics, Second Language Acquisition
+Email: ankita.swetaparna@vitap.ac.in
+--------------------------------------------------
+401. Name: Dr. Anjitha Gopi
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Native American Literature, Native American Ethnohistory, Tribalography, Spatial Study, Chronotopes
+Email: anjitha.g@vitap.ac.in
+--------------------------------------------------
+402. Name: Dr. Anindita Shome
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Diaspora studies, South Asian literatures, Migration studies
+Email: anindita.shome@vitap.ac.in
+--------------------------------------------------
+403. Name: Dr. Anindita Roy
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Not Available
+Email: anindita.roy@vitap.ac.in
+--------------------------------------------------
+404. Name: Dr. Anil Kumar Nayak
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: " RF and Microwave Engineering: SIW transitions, composite right–left hand (CRLH) material for future communication, frequency-reconfigurable, ultrawide-band, and computational electromagnetic, in-band and out-band full duplex antenna, implantable antenna for biomedical application, and on-chip antennas."
+Email: anilkumar.nayak@vitap.ac.in
+--------------------------------------------------
+405. Name: Dr. Ananthu S Hari
+Designation: Assistant Professor Senior Grade 1
+School: School of Law (VSL)
+Specialization: Intellectual Property Law
+Email: ananthu.s.hari@vitap.ac.in
+--------------------------------------------------
+406. Name: Dr. Anamika Lata
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Transducer Design, Instrumentation System Design, Smart Sensing System ,MEMS, Artificial neural network and Machine learning, Sensor Interface Electronics, Sensor Systems, Biomedical Instrumentation
+Email: anamika.lata@vitap.ac.in
+--------------------------------------------------
+407. Name: Dr. Amrita Purakayastha
+Designation: Assistant Professor Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Economics of Human Resources/ Health Economics
+Email: amrita.p@vitap.ac.in
+--------------------------------------------------
+408. Name: Dr. Amrendra Singh Gill
+Designation: Assistant Professor Grade 2
+School: School of Advanced Science (SAS)
+Specialization: Knot Theory
+Email: amrendra.gill@vitap.ac.in
+--------------------------------------------------
+409. Name: Dr. Amgothu Shanthi
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: IoT, Artificial Intelligent, Deep learning, Soft Computing and Networking
+Email: shanthi.a@vitap.ac.in
+--------------------------------------------------
+410. Name: Dr. Ameet Chavan
+Designation: Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Radiation hardening, IoT, Reconfigurable Computing
+Email: ameetchavan@vitap.ac.in
+--------------------------------------------------
+411. Name: Dr. Ambuj Sharma
+Designation: Professor Grade 1
+School: School of Mechanical Engineering (SMEC)
+Specialization: Computational Mechanics, Wavelet Analysis, Nanocomposite, Numerical Modelling, Friction Stir Additive Manufacturing
+Email: sharma.ambuj@vitap.ac.in
+--------------------------------------------------
+412. Name: Dr. Amar Ramesh Wayal
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: North American Native Studies, American Indian Rhetoric, First Nations cultural Politics, Comparative Literature, Translation Studies, Television Studies, Posthuman Studies, and Alternative Humanities
+Email: amar.w@vitap.ac.in
+--------------------------------------------------
+413. Name: Dr. Allapati Rajya Lakshmi
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Deep learning with IoT
+Email: rajyalakshmi.a@vitap.ac.in
+--------------------------------------------------
+414. Name: Dr. Akshay Kumar
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: akshay.kumar@vitap.ac.in
+--------------------------------------------------
+415. Name: Dr. Ajay Dagar
+Designation: Assistant Professor Senior Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Personal Sound Reproduction, Audio Signal Processing, Multi-modal Information Retrieval, Audio-Visual Signal Processing in Mixed Reality, Artificial Intelligence and Machine Learning
+Email: ajay.dagar@vitap.ac.in
+--------------------------------------------------
+416. Name: Dr. Agam Das Goswami
+Designation: Associate Professor Grade 1
+School: School of Electronics Engineering (SENSE)
+Specialization: Multi-Point Stochastic Simulation, Signal Processing, Image Processing & Machine Learning
+Email: agam.goswami@vitap.ac.in
+--------------------------------------------------
+417. Name: Dr. Afzal Hussain Shahid
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Artificial Intelligence, Machine Learning, Soft Computing, Deep Learning, Healthcare Analytics
+Email: afzal.hussain@vitap.ac.in
+--------------------------------------------------
+418. Name: Dr. Adla Padma
+Designation: Assistant Professor Senior Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Blockchain, IoT, Machine Learning
+Email: padma.a@vitap.ac.in
+--------------------------------------------------
+419. Name: Dr. Aby Abraham
+Designation: Assistant Professor Grade 2
+School: School of Social Science and Humanities (VISH)
+Specialization: Visual Culture, Cultural Studies, Photography, Popular Culture, Literary Criticism
+Email: a.abraham@vitap.ac.in
+--------------------------------------------------
+420. Name: Dr. Abdul Raffie Naik
+Designation: Assistant Professor Senior Grade 1
+School: School of Social Science and Humanities (VISH)
+Specialization: Clinical, Counselling and Positive Psychology, Research, Intervention Studies
+Email: abdulraffie.naik@vitap.ac.in
+--------------------------------------------------
+421. Name: Dr. Abdul Kayom Md Khairuzzaman
+Designation: Assistant Professor Senior Grade 2
+School: School of Electronics Engineering (SENSE)
+Specialization: Image Processing, Multi-level Thresholding based Image Segmentation, Soft Computing, Swarm Intelligence, Particle Swarm Optimization
+Email: kayomabdul@vitap.ac.in
+--------------------------------------------------
+422. Name: Dr. Aastha Madonna Sathe
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Computational Statistics, Time Series, Data science
+Email: aastha.m@vitap.ac.in
+--------------------------------------------------
+423. Name: Dr Shalini Thakur
+Designation: Assistant Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: shalini.thakur@vitap.ac.in
+--------------------------------------------------
+424. Name: Dr Senthamizhselvi A
+Designation: Assistant Professor Grade 1
+School: School of Business (VSB)
+Specialization: Finance, Investment Management, Financial Markets, Financial Management, Managerial Economics and Business Research Methods
+Email: senthamizhselvi.a@vitap.ac.in
+--------------------------------------------------
+425. Name: Dr Santanu Mandal
+Designation: Associate Professor Senior
+School: School of Advanced Science (SAS)
+Specialization: Control Systems, Nonlinear Dynamics, Neural Networks, Robotics, Image Encryption
+Email: santanu.mandal@vitap.ac.in
+--------------------------------------------------
+426. Name: Dr Sachi Nandan Mohanty
+Designation: Professor Grade 1
+School: School of Computer Science and Engineering (SCOPE)
+Specialization: Fuzzy Decision making, Emotion, Cognition, Machine learning in Health care, Social Network analysis, MCDM, Brain Computer Interface
+Email: sachinandan.m@vitap.ac.in
+--------------------------------------------------
+427. Name: Dr Navaneethakrishnan K
+Designation: Assistant Professor Grade 1
+School: School of Business (VSB)
+Specialization: Consumer Behaviour, Brand Management, Marketing Management, Organizational Behavior and Communication
+Email: navaneethakrishnan.k@vitap.ac.in
+--------------------------------------------------
+428. Name: Dr Lakshmi Sowjanya Pali
+Designation: Assistant Professor Senior Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Not Available
+Email: lakshmi.sowjanya@vitap.ac.in
+--------------------------------------------------
+429. Name: Dr .Prabhakaran Thandapani
+Designation: Associate Professor Grade 1
+School: School of Advanced Science (SAS)
+Specialization: Magnetoelectric polymer nanocomposites, Magnetic refrigeration, Magnetic hyperthermia, Functional materials and composites for i-caloric effect, Metal oxide nanostructures for optical and gas sensing applications
+Email: prabhakaran.thandapani@vitap.ac.in
+--------------------------------------------------

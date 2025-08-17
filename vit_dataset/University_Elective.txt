@@ -1,0 +1,420 @@
+=== Courses offered for BTech CSE(core) ===
+
+
+## University Elective
+
+| Sl.No. | Basket Title | Course Code | Course Title | Course Type | Credits |
+|--------|--------------|-------------|--------------|-------------|---------|
+| 1 | University Elective Basket of B.Tech. CSE - 2021 | CHY1005 | Industrial Chemistry for Engineers | TH | 3.0 |
+| 2 | University Elective Basket of B.Tech. CSE - 2021 | CHY1006 | Corrosion Science and Engineering | TH | 3.0 |
+| 3 | University Elective Basket of B.Tech. CSE - 2021 | CHY1007 | Energy Materials and Their Applications | TH | 3.0 |
+| 4 | University Elective Basket of B.Tech. CSE - 2021 | CHY2001 | Chemical and Biosensors | TH | 3.0 |
+| 5 | University Elective Basket of B.Tech. CSE - 2021 | CHY2002 | Organic Electronics | TH | 3.0 |
+| 6 | University Elective Basket of B.Tech. CSE - 2021 | CSE1006 | Foundations for Data Analytics | ETL | 3.0 |
+| 7 | University Elective Basket of B.Tech. CSE - 2021 | CSE1007 | Introduction to Cryptography | ETL | 4.0 |
+| 8 | University Elective Basket of B.Tech. CSE - 2021 | CSE1018 | Cyber Physical System Security | ETP | 4.0 |
+| 9 | University Elective Basket of B.Tech. CSE - 2021 | CSE2003 | Requirements Engineering Management | ETP | 4.0 |
+| 10 | University Elective Basket of B.Tech. CSE - 2021 | CSE2009 | Soft Computing | ETP | 4.0 |
+| 11 | University Elective Basket of B.Tech. CSE - 2021 | CSE2010 | Secure Coding | ETL | 4.0 |
+| 12 | University Elective Basket of B.Tech. CSE - 2021 | CSE2011 | Cyber Security and Digital Forensics | ETL | 4.0 |
+| 13 | University Elective Basket of B.Tech. CSE - 2021 | CSE2012 | Knowledge Representation and Reasoning | TH | 3.0 |
+| 14 | University Elective Basket of B.Tech. CSE - 2021 | CSE2013 | Information Theory and Coding | TH | 4.0 |
+| 15 | University Elective Basket of B.Tech. CSE - 2021 | CSE2025 | AWS Solution Architecture | TH | 3.0 |
+| 16 | University Elective Basket of B.Tech. CSE - 2021 | CSE3002 | Artificial Intelligence | ETL | 4.0 |
+| 17 | University Elective Basket of B.Tech. CSE - 2021 | CSE3011 | Network Programming | ETL | 4.0 |
+| 18 | University Elective Basket of B.Tech. CSE - 2021 | CSE3018 | Software Configuration Management | TH | 3.0 |
+| 19 | University Elective Basket of B.Tech. CSE - 2021 | CSE3019 | Software Quality and Reliability | TH | 3.0 |
+| 20 | University Elective Basket of B.Tech. CSE - 2021 | CSE3020 | Product Definition and Validation | TH | 3.0 |
+| 21 | University Elective Basket of B.Tech. CSE - 2021 | CSE4001 | Cloud Computing | TH | 3.0 |
+| 22 | University Elective Basket of B.Tech. CSE - 2021 | CSE4002 | Mobile Application Development | ETL | 4.0 |
+| 23 | University Elective Basket of B.Tech. CSE - 2021 | CSE4004 | Web Technologies | ETL | 4.0 |
+| 24 | University Elective Basket of B.Tech. CSE - 2021 | CSE4005 | Data Warehousing and Data Mining | ETL | 4.0 |
+| 25 | University Elective Basket of B.Tech. CSE - 2021 | CSE4007 | Digital Image Processing | ETL | 4.0 |
+| 26 | University Elective Basket of B.Tech. CSE - 2021 | CSE4008 | Social Network Analysis | ETL | 4.0 |
+| 27 | University Elective Basket of B.Tech. CSE - 2021 | CSE4011 | Internet of Things | ETP | 4.0 |
+| 28 | University Elective Basket of B.Tech. CSE - 2021 | CSE4012 | UI UX User Experience Design | ETL | 4.0 |
+| 29 | University Elective Basket of B.Tech. CSE - 2021 | CSE4016 | Database Administration | ETL | 4.0 |
+| 30 | University Elective Basket of B.Tech. CSE - 2021 | CSE4019 | Applications of Artificial Intelligence | TH | 3.0 |
+| 31 | University Elective Basket of B.Tech. CSE - 2021 | ECE1008 | Sensors and Control Systems | ETL | 4.0 |
+| 32 | University Elective Basket of B.Tech. CSE - 2021 | ECE1010 | Probability and Random Processes | TH | 4.0 |
+| 33 | University Elective Basket of B.Tech. CSE - 2021 | ECE2001 | Analog Devices and Circuits | ETL | 4.0 |
+| 34 | University Elective Basket of B.Tech. CSE - 2021 | ECE2003 | Control Systems Engineering | ETL | 4.0 |
+| 35 | University Elective Basket of B.Tech. CSE - 2021 | ECE2005 | Signals and Systems | TH | 4.0 |
+| 36 | University Elective Basket of B.Tech. CSE - 2021 | ECE2007 | Digital Signal Processing | ETL | 4.0 |
+| 37 | University Elective Basket of B.Tech. CSE - 2021 | ECE2009 | Data Acquisition and Transmission Systems | ETL | 4.0 |
+| 38 | University Elective Basket of B.Tech. CSE - 2021 | ECE2014 | Microprocessors and Microcontrollers | ETL | 4.0 |
+| 39 | University Elective Basket of B.Tech. CSE - 2021 | ECE3001 | Linear Integrated Circuits and Applications | ETL | 4.0 |
+| 40 | University Elective Basket of B.Tech. CSE - 2021 | ECE3006 | HDL Verification and Methodology | ETL | 4.0 |
+| 41 | University Elective Basket of B.Tech. CSE - 2021 | ECE3007 | Electrical Machines Modeling and Control | ETL | 4.0 |
+| 42 | University Elective Basket of B.Tech. CSE - 2021 | ECE3018 | IoT Fundamentals | ETLP | 4.0 |
+| 43 | University Elective Basket of B.Tech. CSE - 2021 | ECE4004 | Automotive Electrical and Electronic Systems | TH | 4.0 |
+| 44 | University Elective Basket of B.Tech. CSE - 2021 | ECE4018 | Image Analysis and Computer Vision | ETL | 4.0 |
+| 45 | University Elective Basket of B.Tech. CSE - 2021 | ENG1015 | Introduction to 20th Century European Literature in Translation | TH | 3.0 |
+| 46 | University Elective Basket of B.Tech. CSE - 2021 | ENG1016 | Climate Fiction- Narratives to Save the World! | TH | 3.0 |
+| 47 | University Elective Basket of B.Tech. CSE - 2021 | ENG1017 | Film Appreciation | TH | 3.0 |
+| 48 | University Elective Basket of B.Tech. CSE - 2021 | ENG1018 | Introduction to Fashion and Technology | TH | 3.0 |
+| 49 | University Elective Basket of B.Tech. CSE - 2021 | ENG1019 | Introduction to Storytelling in Business & Entrepreneurship | TH | 3.0 |
+| 50 | University Elective Basket of B.Tech. CSE - 2021 | ENG2011 | Revisiting Shakespearean Dramas | TH | 3.0 |
+| 51 | University Elective Basket of B.Tech. CSE - 2021 | ENG2012 | Stories Retold: Reading Cinema | TH | 3.0 |
+| 52 | University Elective Basket of B.Tech. CSE - 2021 | ENG2013 | Cross-Cultural Communication Skills for Global Interaction | TH | 3.0 |
+| 53 | University Elective Basket of B.Tech. CSE - 2021 | ENG2014 | Decoding Television in the Digital Age | TH | 3.0 |
+| 54 | University Elective Basket of B.Tech. CSE - 2021 | ENG3001 | Introduction to Translation Studies | TH | 3.0 |
+| 55 | University Elective Basket of B.Tech. CSE - 2021 | ENG3003 | Literature and Psychology | TH | 2.0 |
+| 56 | University Elective Basket of B.Tech. CSE - 2021 | ENG3008 | Strategic Communication for Entrepreneurs | TH | 3.0 |
+| 57 | University Elective Basket of B.Tech. CSE - 2021 | FRL1001 | Basic French | TH | 2.0 |
+| 58 | University Elective Basket of B.Tech. CSE - 2021 | FRL1004 | Basic Spanish | TH | 2.0 |
+| 59 | University Elective Basket of B.Tech. CSE - 2021 | FRL1005 | German for Beginners | TH | 2.0 |
+| 60 | University Elective Basket of B.Tech. CSE - 2021 | FRL2003 | French for Engineers | TH | 3.0 |
+| 61 | University Elective Basket of B.Tech. CSE - 2021 | FRL2004 | Korean for Beginners | TH | 2.0 |
+| 62 | University Elective Basket of B.Tech. CSE - 2021 | FRL2005 | German for Advanced Learners | TH | 3.0 |
+| 63 | University Elective Basket of B.Tech. CSE - 2021 | HUM1007 | Introduction to Digital Humanities : Doing Digital History | TH | 4.0 |
+| 64 | University Elective Basket of B.Tech. CSE - 2021 | HUM1012 | Engineering Economics | TH | 3.0 |
+| 65 | University Elective Basket of B.Tech. CSE - 2021 | HUM2001 | Banking and Financial Services | TH | 2.0 |
+| 66 | University Elective Basket of B.Tech. CSE - 2021 | HUM2009 | Basic Econometrics | TH | 4.0 |
+| 67 | University Elective Basket of B.Tech. CSE - 2021 | HUM2010 | Gender Economics | TH | 3.0 |
+| 68 | University Elective Basket of B.Tech. CSE - 2021 | HUM2104 | Indian Economy : Problems and Policies | TH | 4.0 |
+| 69 | University Elective Basket of B.Tech. CSE - 2021 | HUM3001 | Applied Econometrics | TH | 4.0 |
+| 70 | University Elective Basket of B.Tech. CSE - 2021 | INC1001 | Juniper Networks - Introduction to the Junos Operating System | PJT | 2.0 |
+| 71 | University Elective Basket of B.Tech. CSE - 2021 | INC1002 | Juniper Networks - Introduction to Juniper Security | PJT | 2.0 |
+| 72 | University Elective Basket of B.Tech. CSE - 2021 | INC1003 | Juniper Networks - Introduction to Junos Platform Automation and DevOps | PJT | 2.0 |
+| 73 | University Elective Basket of B.Tech. CSE - 2021 | INC1004 | Juniper Networks - Juniper Cloud Fundamentals | PJT | 2.0 |
+| 74 | University Elective Basket of B.Tech. CSE - 2021 | INC1005 | Juniper Networks - Juniper Networks Design Fundamentals | PJT | 2.0 |
+| 75 | University Elective Basket of B.Tech. CSE - 2021 | INC1006 | Juniper Networks - Juniper's Mist AI Networks | PJT | 2.0 |
+| 76 | University Elective Basket of B.Tech. CSE - 2021 | INC1007 | Entuple - Synthesis and Static Timing Analysis | PJT | 2.0 |
+| 77 | University Elective Basket of B.Tech. CSE - 2021 | INC1008 | Entuple - Physical Design | PJT | 2.0 |
+| 78 | University Elective Basket of B.Tech. CSE - 2021 | INC1009 | GoDaddy Academy - Web Development | PJT | 2.0 |
+| 79 | University Elective Basket of B.Tech. CSE - 2021 | INC1010 | Smart Bridge - Internet of Things | PJT | 2.0 |
+| 80 | University Elective Basket of B.Tech. CSE - 2021 | INC1011 | Pharma Genie - Life Sciences Sector Skill Development Council | PJT | 2.0 |
+| 81 | University Elective Basket of B.Tech. CSE - 2021 | INC1012 | Smart Bridge - Artificial Intelligence | PJT | 2.0 |
+| 82 | University Elective Basket of B.Tech. CSE - 2021 | INC1013 | Microsoft - Azure Fundamentals | PJT | 2.0 |
+| 83 | University Elective Basket of B.Tech. CSE - 2021 | INC1014 | Smart Bridge - Data Analytics | PJT | 2.0 |
+| 84 | University Elective Basket of B.Tech. CSE - 2021 | INC1015 | Smart Bridge - Applied Data Science | PJT | 2.0 |
+| 85 | University Elective Basket of B.Tech. CSE - 2021 | INC1016 | RH124 Red Hat System Administration | PJT | 2.0 |
+| 86 | University Elective Basket of B.Tech. CSE - 2021 | INC1017 | RH134 Red Hat System Administration II | PJT | 2.0 |
+| 87 | University Elective Basket of B.Tech. CSE - 2021 | INC1018 | RH294 Red Hat Enterprise Linux Automation with Ansible | PJT | 2.0 |
+| 88 | University Elective Basket of B.Tech. CSE - 2021 | INC1019 | AD183 Red Hat Application Development I: Programming in Java EE | PJT | 2.0 |
+| 89 | University Elective Basket of B.Tech. CSE - 2021 | INC1020 | CL110 Red Hat OpenStack Administration I: Core Operations for Domain Operators | PJT | 2.0 |
+| 90 | University Elective Basket of B.Tech. CSE - 2021 | INC1021 | ISRO Space Science and Technology Awareness Training (START) | PJT | 2.0 |
+| 91 | University Elective Basket of B.Tech. CSE - 2021 | INC1022 | AWS Certified Solutions Architect - Associate | PJT | 2.0 |
+| 92 | University Elective Basket of B.Tech. CSE - 2021 | INC1023 | Microsoft Power Platform App Maker (PL-100) | PJT | 2.0 |
+| 93 | University Elective Basket of B.Tech. CSE - 2021 | INC1024 | Microsoft - Azure Administrator (AZ-104) | PJT | 2.0 |
+| 94 | University Elective Basket of B.Tech. CSE - 2021 | INC1025 | Certificated Ethical Hacker (CEH) | PJT | 2.0 |
+| 95 | University Elective Basket of B.Tech. CSE - 2021 | INC1026 | MERN Full StackQ | PJT | 2.0 |
+| 96 | University Elective Basket of B.Tech. CSE - 2021 | INC1027 | Cloud Digital Leader | PJT | 2.0 |
+| 97 | University Elective Basket of B.Tech. CSE - 2021 | INC1028 | Certificate in Mechanical Services Engineering | PJT | 2.0 |
+| 98 | University Elective Basket of B.Tech. CSE - 2021 | INC1029 | VLSI Design Internship | PJT | 2.0 |
+| 99 | University Elective Basket of B.Tech. CSE - 2021 | INC1030 | Java Development on Oracle Cloud (Java SE11) | PJT | 2.0 |
+| 100 | University Elective Basket of B.Tech. CSE - 2021 | INC1031 | Certificate in Concrete Techniques and Practices | PJT | 2.0 |
+| 101 | University Elective Basket of B.Tech. CSE - 2021 | INC1032 | Practitioners Approach to Power System Protection and Switchgear | PJT | 2.0 |
+| 102 | University Elective Basket of B.Tech. CSE - 2021 | INC1033 | Certificate in Microcontroller and Application | PJT | 2.0 |
+| 103 | University Elective Basket of B.Tech. CSE - 2021 | INC1034 | Database Developer on Oracle Cloud | PJT | 2.0 |
+| 104 | University Elective Basket of B.Tech. CSE - 2021 | INC1035 | Application Development on Oracle Cloud | PJT | 2.0 |
+| 105 | University Elective Basket of B.Tech. CSE - 2021 | INC1036 | Life Sciences - Quality Control Chemist | PJT | 2.0 |
+| 106 | University Elective Basket of B.Tech. CSE - 2021 | INC1037 | Introduction to 3D Printing & CAD Modeling | PJT | 2.0 |
+| 107 | University Elective Basket of B.Tech. CSE - 2021 | INC1038 | JAVA Full stack | PJT | 2.0 |
+| 108 | University Elective Basket of B.Tech. CSE - 2021 | INC1039 | Certificate In Mechanized Construction Techniques | PJT | 2.0 |
+| 109 | University Elective Basket of B.Tech. CSE - 2021 | INC1040 | Certificate In Transportation Infrastructure Engineering | PJT | 2.0 |
+| 110 | University Elective Basket of B.Tech. CSE - 2021 | INC1041 | Electrical Design for Modern Building Infrastructure | PJT | 2.0 |
+| 111 | University Elective Basket of B.Tech. CSE - 2021 | INC1042 | Foundation Course- VLSI Design Methodologies | PJT | 2.0 |
+| 112 | University Elective Basket of B.Tech. CSE - 2021 | INC1043 | Oracle Java Foundation Associate | PJT | 2.0 |
+| 113 | University Elective Basket of B.Tech. CSE - 2021 | INC1044 | Android App Development | PJT | 2.0 |
+| 114 | University Elective Basket of B.Tech. CSE - 2021 | INC1045 | Automation Anywhere University Certified Essentials RPA Professional | PJT | 2.0 |
+| 115 | University Elective Basket of B.Tech. CSE - 2021 | INC1046 | Google Cloud Computing Foundations | PJT | 2.0 |
+| 116 | University Elective Basket of B.Tech. CSE - 2021 | INC1047 | Hands-On Training Analytical Drug Testing- Greentree Laboratories | PJT | 2.0 |
+| 117 | University Elective Basket of B.Tech. CSE - 2021 | INC1048 | Salesforce Administrator | PJT | 2.0 |
+| 118 | University Elective Basket of B.Tech. CSE - 2021 | INC1049 | Artificial Intelligence & Machine Learning in collaboration with Google (Applied Data Science) | PJT | 2.0 |
+| 119 | University Elective Basket of B.Tech. CSE - 2021 | INC1050 | Data Analytics with IBM Cognos Analytics | PJT | 2.0 |
+| 120 | University Elective Basket of B.Tech. CSE - 2021 | INC1051 | AI for Cyber Security With IBM Qrador (AI for Web Security) | PJT | 2.0 |
+| 121 | University Elective Basket of B.Tech. CSE - 2021 | INC1052 | IOT - Vision Technologies | PJT | 2.0 |
+| 122 | University Elective Basket of B.Tech. CSE - 2021 | INC1053 | Foundation Course - Embedded System Design | PJT | 2.0 |
+| 123 | University Elective Basket of B.Tech. CSE - 2021 | INC2001 | IDS Inc. - Certified Blockchain Developer | PJT | 2.0 |
+| 124 | University Elective Basket of B.Tech. CSE - 2021 | INC2002 | NASSCOM - Artificial Intelligence Foundation | PJT | 2.0 |
+| 125 | University Elective Basket of B.Tech. CSE - 2021 | INC2003 | NASSCOM - Big Data Foundation | PJT | 2.0 |
+| 126 | University Elective Basket of B.Tech. CSE - 2021 | INC2004 | NASSCOM - Cloud Computing Foundation | PJT | 2.0 |
+| 127 | University Elective Basket of B.Tech. CSE - 2021 | INC2005 | NASSCOM - UX Foundation | PJT | 2.0 |
+| 128 | University Elective Basket of B.Tech. CSE - 2021 | INC2006 | NASSCOM - IOT Foundation | PJT | 2.0 |
+| 129 | University Elective Basket of B.Tech. CSE - 2021 | INC2007 | NASSCOM - Vulnerability Assessment for AppSec | PJT | 2.0 |
+| 130 | University Elective Basket of B.Tech. CSE - 2021 | INC2008 | NASSCOM - Fundamentals of Data Analytics | PJT | 2.0 |
+| 131 | University Elective Basket of B.Tech. CSE - 2021 | INC2009 | NASSCOM - Security Analyst | PJT | 2.0 |
+| 132 | University Elective Basket of B.Tech. CSE - 2021 | INC2010 | NASSCOM - Associate Analytics | PJT | 2.0 |
+| 133 | University Elective Basket of B.Tech. CSE - 2021 | INC2011 | Automation Anywhere - Robotics Process Automation | PJT | 2.0 |
+| 134 | University Elective Basket of B.Tech. CSE - 2021 | INC2012 | Oracle Autonomous Database Cloud Specialist | PJT | 2.0 |
+| 135 | University Elective Basket of B.Tech. CSE - 2021 | INC2013 | Oracle Application Express: Developing Web Applications | PJT | 2.0 |
+| 136 | University Elective Basket of B.Tech. CSE - 2021 | INC2014 | Oracle Cloud Infrastructure Foundations Associate | PJT | 2.0 |
+| 137 | University Elective Basket of B.Tech. CSE - 2021 | INC2015 | Oracle Machine Learning Data Scientist | PJT | 2.0 |
+| 138 | University Elective Basket of B.Tech. CSE - 2021 | INC2016 | Oracle - Java SE Developer | PJT | 2.0 |
+| 139 | University Elective Basket of B.Tech. CSE - 2021 | INC2017 | AWS - Cloud Practitioner - Foundation | PJT | 2.0 |
+| 140 | University Elective Basket of B.Tech. CSE - 2021 | INC2018 | AWS - Solution Architect - Associate | PJT | 2.0 |
+| 141 | University Elective Basket of B.Tech. CSE - 2021 | INC2019 | AWS SysOps Administrator - Associate | PJT | 2.0 |
+| 142 | University Elective Basket of B.Tech. CSE - 2021 | INC2020 | AWS Developer - Associate | PJT | 2.0 |
+| 143 | University Elective Basket of B.Tech. CSE - 2021 | INC2021 | Microsoft - Azure AI Fundamentals | PJT | 2.0 |
+| 144 | University Elective Basket of B.Tech. CSE - 2021 | INC2022 | Microsoft - Azure AI Engineer | PJT | 2.0 |
+| 145 | University Elective Basket of B.Tech. CSE - 2021 | INC2023 | Microsoft - Azure Data Scientist | PJT | 2.0 |
+| 146 | University Elective Basket of B.Tech. CSE - 2021 | INC2024 | Microsoft - Azure Data Engineer - 1 | PJT | 2.0 |
+| 147 | University Elective Basket of B.Tech. CSE - 2021 | INC2025 | Microsoft - Azure Data Engineer - 2 | PJT | 2.0 |
+| 148 | University Elective Basket of B.Tech. CSE - 2021 | INC2026 | Microsoft - Azure Developer - 1 | PJT | 2.0 |
+| 149 | University Elective Basket of B.Tech. CSE - 2021 | INC2027 | Microsoft - Azure Developer - 2 | PJT | 2.0 |
+| 150 | University Elective Basket of B.Tech. CSE - 2021 | INC2028 | Microsoft - Azure DevOps Engineer - 4 | PJT | 2.0 |
+| 151 | University Elective Basket of B.Tech. CSE - 2021 | INC2029 | Microsoft - Azure Security Engineer - 5 | PJT | 2.0 |
+| 152 | University Elective Basket of B.Tech. CSE - 2021 | INC2030 | Microsoft - Azure Solutions Architect | PJT | 2.0 |
+| 153 | University Elective Basket of B.Tech. CSE - 2021 | INC2031 | Maven Silicon - VLSI | PJT | 2.0 |
+| 154 | University Elective Basket of B.Tech. CSE - 2021 | INC2032 | VMWare IT Academy - Java Spring Boot | PJT | 2.0 |
+| 155 | University Elective Basket of B.Tech. CSE - 2021 | INC2033 | IBM Developers Skills Network - IBM Cloud | PJT | 2.0 |
+| 156 | University Elective Basket of B.Tech. CSE - 2021 | INC2034 | AWS - DevOps | PJT | 2.0 |
+| 157 | University Elective Basket of B.Tech. CSE - 2021 | INC2035 | IBM - Artificial Intelligence | PJT | 2.0 |
+| 158 | University Elective Basket of B.Tech. CSE - 2021 | INC2036 | IBM - Applied Data Science | PJT | 2.0 |
+| 159 | University Elective Basket of B.Tech. CSE - 2021 | INC2037 | IBM - Internet of Things | PJT | 2.0 |
+| 160 | University Elective Basket of B.Tech. CSE - 2021 | INC2038 | IBM Developers Skills Network - IBM Cloud | PJT | 2.0 |
+| 161 | University Elective Basket of B.Tech. CSE - 2021 | INC2039 | APSSDC-IES - Data Science | PJT | 2.0 |
+| 162 | University Elective Basket of B.Tech. CSE - 2021 | INC2040 | Boston IT Solutions - Deep Learning | PJT | 2.0 |
+| 163 | University Elective Basket of B.Tech. CSE - 2021 | INC2041 | Boston IT Solutions - Machine Learning | PJT | 2.0 |
+| 164 | University Elective Basket of B.Tech. CSE - 2021 | INC2042 | Boston IT Solutions - Python for Artificial Intelligence | PJT | 2.0 |
+| 165 | University Elective Basket of B.Tech. CSE - 2021 | INC2043 | Boston IT Solutions - Data Analysis with SQL | PJT | 2.0 |
+| 166 | University Elective Basket of B.Tech. CSE - 2021 | INC2044 | Boston IT Solutions - Fundamentals of Computer Vision | PJT | 2.0 |
+| 167 | University Elective Basket of B.Tech. CSE - 2021 | INC2045 | Boston IT Solutions - Fundamentals of Natural Language Processing | PJT | 2.0 |
+| 168 | University Elective Basket of B.Tech. CSE - 2021 | INC2046 | INC2046 | PJT | 2.0 |
+| 169 | University Elective Basket of B.Tech. CSE - 2021 | INC2047 | PAANCA - Cybersecurity Foundation | PJT | 2.0 |
+| 170 | University Elective Basket of B.Tech. CSE - 2021 | INC2048 | PAANCA - Network Security Fundamentals | PJT | 2.0 |
+| 171 | University Elective Basket of B.Tech. CSE - 2021 | INC2049 | PAANCA - Cloud Security Fundamentals | PJT | 2.0 |
+| 172 | University Elective Basket of B.Tech. CSE - 2021 | INC2050 | PAANCA - Security Operations Fundamentals | PJT | 2.0 |
+| 173 | University Elective Basket of B.Tech. CSE - 2021 | INC2051 | PAANCA - Enterprise Security Deployment | PJT | 2.0 |
+| 174 | University Elective Basket of B.Tech. CSE - 2021 | INC2052 | PAANCA - Enterprise Security Management | PJT | 2.0 |
+| 175 | University Elective Basket of B.Tech. CSE - 2021 | INC2053 | PAANCA - Cloud Security Deployment | PJT | 2.0 |
+| 176 | University Elective Basket of B.Tech. CSE - 2021 | INC2054 | PAANCA - Security Operations | PJT | 2.0 |
+| 177 | University Elective Basket of B.Tech. CSE - 2021 | INC2055 | PAANCA - Data Science | PJT | 2.0 |
+| 178 | University Elective Basket of B.Tech. CSE - 2021 | INC2056 | Ethical Hacking Essentials | PJT | 2.0 |
+| 179 | University Elective Basket of B.Tech. CSE - 2021 | INC2057 | Digital Forensics Essentials | PJT | 2.0 |
+| 180 | University Elective Basket of B.Tech. CSE - 2021 | INC2058 | Network Defense Essentials | PJT | 2.0 |
+| 181 | University Elective Basket of B.Tech. CSE - 2021 | INC2059 | Salesforce Developer | PJT | 2.0 |
+| 182 | University Elective Basket of B.Tech. CSE - 2021 | INC2060 | Adobe UX & UI | PJT | 2.0 |
+| 183 | University Elective Basket of B.Tech. CSE - 2021 | INC2061 | MongoDB Associate Database Administrator | PJT | 2.0 |
+| 184 | University Elective Basket of B.Tech. CSE - 2021 | INC2062 | High Performance Coding - Advanced Data Structures & Algorithms using Java | PJT | 2.0 |
+| 185 | University Elective Basket of B.Tech. CSE - 2021 | INC2063 | Design of Process Plant Equipment and Industrial Piping Systems | PJT | 2.0 |
+| 186 | University Elective Basket of B.Tech. CSE - 2021 | INC2064 | Distributed CoughDB - CoughBase | PJT | 2.0 |
+| 187 | University Elective Basket of B.Tech. CSE - 2021 | INC2065 | Embedded System Design Internship | PJT | 2.0 |
+| 188 | University Elective Basket of B.Tech. CSE - 2021 | INC2066 | DP 900 - Microsoft Azure Data Fundamentals Exam | PJT | 2.0 |
+| 189 | University Elective Basket of B.Tech. CSE - 2021 | INC2067 | Oracle Database Foundation | PJT | 2.0 |
+| 190 | University Elective Basket of B.Tech. CSE - 2021 | INC2068 | Selenium Certiﬁcation Training Course in collab with PWC | PJT | 2.0 |
+| 191 | University Elective Basket of B.Tech. CSE - 2021 | INC2069 | Artificial Intelligence using Google TensorFlow in collab with Google | PJT | 2.0 |
+| 192 | University Elective Basket of B.Tech. CSE - 2021 | INC2070 | Generative AI Applications using Vertex AI in Collaboration with Google | PJT | 2.0 |
+| 193 | University Elective Basket of B.Tech. CSE - 2021 | INC2071 | Full Stack Developer (MERN) with MongoDB Associate Developer Certification | PJT | 2.0 |
+| 194 | University Elective Basket of B.Tech. CSE - 2021 | INC2072 | AI 900- Microsoft Azure AI Fundamentals Exam | PJT | 2.0 |
+| 195 | University Elective Basket of B.Tech. CSE - 2021 | INC2073 | NASSCOM - Pragmatic Approach to Cyber Security | PJT | 2.0 |
+| 196 | University Elective Basket of B.Tech. CSE - 2021 | INC2074 | Cyber Security & Ethical Hacking-SmartBridge | PJT | 2.0 |
+| 197 | University Elective Basket of B.Tech. CSE - 2021 | INC3001 | Full stack Development with MERN | PJT | 2.0 |
+| 198 | University Elective Basket of B.Tech. CSE - 2021 | INC3002 | Data Science & Business Analytics | PJT | 2.0 |
+| 199 | University Elective Basket of B.Tech. CSE - 2021 | INC3003 | Embedded Systems and IoT | PJT | 2.0 |
+| 200 | University Elective Basket of B.Tech. CSE - 2021 | INC3004 | Data Analytics & Big Data Fundamentals | PJT | 2.0 |
+| 201 | University Elective Basket of B.Tech. CSE - 2021 | INC3005 | Cyber Security and Ethical Hacking | PJT | 2.0 |
+| 202 | University Elective Basket of B.Tech. CSE - 2021 | INC3006 | UI/UX Developer | PJT | 2.0 |
+| 203 | University Elective Basket of B.Tech. CSE - 2021 | INC3007 | Devops | PJT | 2.0 |
+| 204 | University Elective Basket of B.Tech. CSE - 2021 | INC3008 | Gen AI and Chat GPT | PJT | 2.0 |
+| 205 | University Elective Basket of B.Tech. CSE - 2021 | INC3009 | Blockchain Specialization | PJT | 2.0 |
+| 206 | University Elective Basket of B.Tech. CSE - 2021 | INC3010 | Robotics Process Automation | PJT | 2.0 |
+| 207 | University Elective Basket of B.Tech. CSE - 2021 | INC3011 | Cloud Computing | PJT | 2.0 |
+| 208 | University Elective Basket of B.Tech. CSE - 2021 | INC3012 | Digital Marketing, Performance Optimization & CRM Tools | PJT | 2.0 |
+| 209 | University Elective Basket of B.Tech. CSE - 2021 | INC3013 | AI for Management Graduates: Leveraging Artificial Intelligence in Business | PJT | 2.0 |
+| 210 | University Elective Basket of B.Tech. CSE - 2021 | INC3014 | Project Management and Collaboration | PJT | 2.0 |
+| 211 | University Elective Basket of B.Tech. CSE - 2021 | INC3015 | Product Management | PJT | 2.0 |
+| 212 | University Elective Basket of B.Tech. CSE - 2021 | INC3016 | The Art of Storytelling for Beginners | PJT | 2.0 |
+| 213 | University Elective Basket of B.Tech. CSE - 2021 | INC3017 | Supply Chain Management | PJT | 2.0 |
+| 214 | University Elective Basket of B.Tech. CSE - 2021 | INC3018 | Brand Management | PJT | 2.0 |
+| 215 | University Elective Basket of B.Tech. CSE - 2021 | INC3019 | Business Valuation Techniques | PJT | 2.0 |
+| 216 | University Elective Basket of B.Tech. CSE - 2021 | INC3020 | Investment Banking Operations and Management | PJT | 2.0 |
+| 217 | University Elective Basket of B.Tech. CSE - 2021 | INC3021 | Prompt Engineering | PJT | 2.0 |
+| 218 | University Elective Basket of B.Tech. CSE - 2021 | INC3022 | Generative AI | PJT | 2.0 |
+| 219 | University Elective Basket of B.Tech. CSE - 2021 | INC3023 | Quantum computing | PJT | 2.0 |
+| 220 | University Elective Basket of B.Tech. CSE - 2021 | INC3024 | AutoML | PJT | 2.0 |
+| 221 | University Elective Basket of B.Tech. CSE - 2021 | INL1001 | Functional Hindi for non-Hindi Speakers | TH | 2.0 |
+| 222 | University Elective Basket of B.Tech. CSE - 2021 | INL1002 | Introduction to Hindi Language and Literature | TH | 2.0 |
+| 223 | University Elective Basket of B.Tech. CSE - 2021 | LAW1001 | Law, Internet and Society | TH | 3.0 |
+| 224 | University Elective Basket of B.Tech. CSE - 2021 | LAW1002 | Competition Law for Engineers | TH | 3.0 |
+| 225 | University Elective Basket of B.Tech. CSE - 2021 | LAW1003 | Human Rights and Criminal Justice System | TH | 3.0 |
+| 226 | University Elective Basket of B.Tech. CSE - 2021 | LAW1005 | Introduction to Indian Constitution | TH | 3.0 |
+| 227 | University Elective Basket of B.Tech. CSE - 2021 | LAW1008 | Intellectual Property Law for Engineers | TH | 4.0 |
+| 228 | University Elective Basket of B.Tech. CSE - 2021 | LAW1012 | Critical Legal Philosophy | TH | 4.0 |
+| 229 | University Elective Basket of B.Tech. CSE - 2021 | LAW1108 | Business Law | TH | 3.0 |
+| 230 | University Elective Basket of B.Tech. CSE - 2021 | LAW2001 | Business and Human Rights | TH | 3.0 |
+| 231 | University Elective Basket of B.Tech. CSE - 2021 | LIB1001 | Anthropology - An Introduction | TH | 3.0 |
+| 232 | University Elective Basket of B.Tech. CSE - 2021 | LIB1007 | Gender Studies - An Introduction | TH | 2.0 |
+| 233 | University Elective Basket of B.Tech. CSE - 2021 | LIB1012 | Campus Fiction in India : An Introduction | TH | 3.0 |
+| 234 | University Elective Basket of B.Tech. CSE - 2021 | LIB1013 | Introduction to Comics and Graphic Narratives | TH | 3.0 |
+| 235 | University Elective Basket of B.Tech. CSE - 2021 | LIB1014 | Pursuit of Happiness | TH | 3.0 |
+| 236 | University Elective Basket of B.Tech. CSE - 2021 | LIB1016 | Theory of Performance and Practice | TH | 4.0 |
+| 237 | University Elective Basket of B.Tech. CSE - 2021 | LIB1019 | Dynamics of Gender Psychology | TH | 3.0 |
+| 238 | University Elective Basket of B.Tech. CSE - 2021 | LIB1020 | Basic Psychology for Engineers | TH | 3.0 |
+| 239 | University Elective Basket of B.Tech. CSE - 2021 | LIB2003 | Geography of Asia and Sub-Saharan Africa | TH | 3.0 |
+| 240 | University Elective Basket of B.Tech. CSE - 2021 | LIB2004 | Ancient Indian History | TH | 4.0 |
+| 241 | University Elective Basket of B.Tech. CSE - 2021 | LIB2005 | Digital Storytelling | TH | 4.0 |
+| 242 | University Elective Basket of B.Tech. CSE - 2021 | LIB2006 | Critical Thinking and Formal Logic | TH | 3.0 |
+| 243 | University Elective Basket of B.Tech. CSE - 2021 | LIB2007 | The Aesthetics of Performing Arts | TH | 4.0 |
+| 244 | University Elective Basket of B.Tech. CSE - 2021 | LIB2010 | Food & Literature | TH | 3.0 |
+| 245 | University Elective Basket of B.Tech. CSE - 2021 | LIB2015 | Design Psychology | TH | 3.0 |
+| 246 | University Elective Basket of B.Tech. CSE - 2021 | LIB3001 | Applications of Moral Philosophy | TH | 3.0 |
+| 247 | University Elective Basket of B.Tech. CSE - 2021 | MAT1018 | Computational Linear Algebra: Learning from Data | ETP | 4.0 |
+| 248 | University Elective Basket of B.Tech. CSE - 2021 | MAT1021 | Statistics for Economists | TH | 4.0 |
+| 249 | University Elective Basket of B.Tech. CSE - 2021 | MAT2001 | Numerical Methods for Engineers | ETL | 3.0 |
+| 250 | University Elective Basket of B.Tech. CSE - 2021 | MAT2002 | Complex Variables and Partial Differential Equations | TH | 3.0 |
+| 251 | University Elective Basket of B.Tech. CSE - 2021 | MAT2003 | Optimization Techniques | ETL | 4.0 |
+| 252 | University Elective Basket of B.Tech. CSE - 2021 | MAT2005 | Linear Algebra | TH | 3.0 |
+| 253 | University Elective Basket of B.Tech. CSE - 2021 | MAT2011 | Graph Theory and Applications | TH | 3.0 |
+| 254 | University Elective Basket of B.Tech. CSE - 2021 | MAT2013 | Financial Mathematics | TH | 4.0 |
+| 255 | University Elective Basket of B.Tech. CSE - 2021 | MAT2014 | Nonlinear Dynamics and Chaos | TH | 4.0 |
+| 256 | University Elective Basket of B.Tech. CSE - 2021 | MAT2016 | Transforms and Wavelets | TH | 4.0 |
+| 257 | University Elective Basket of B.Tech. CSE - 2021 | MEC1006 | Introduction to Robotics | TH | 3.0 |
+| 258 | University Elective Basket of B.Tech. CSE - 2021 | MEC1008 | Engineering Mechanics | TH | 4.0 |
+| 259 | University Elective Basket of B.Tech. CSE - 2021 | MEC2002 | Thermodynamics | TH | 4.0 |
+| 260 | University Elective Basket of B.Tech. CSE - 2021 | MEC2021 | Mechatronics | TH | 4.0 |
+| 261 | University Elective Basket of B.Tech. CSE - 2021 | MEC3002 | Theory of Machines | ETL | 4.0 |
+| 262 | University Elective Basket of B.Tech. CSE - 2021 | MEC3026 | Robot Kinematics | TH | 4.0 |
+| 263 | University Elective Basket of B.Tech. CSE - 2021 | MEC3029 | Machining Processes and Workshop Technology | ETL | 4.0 |
+| 264 | University Elective Basket of B.Tech. CSE - 2021 | MEC4003 | Internal Combustion Engines | ETL | 4.0 |
+| 265 | University Elective Basket of B.Tech. CSE - 2021 | MGT1002 | Lean Start-up Management | TH | 3.0 |
+| 266 | University Elective Basket of B.Tech. CSE - 2021 | MGT1007 | Economics for Engineers | TH | 3.0 |
+| 267 | University Elective Basket of B.Tech. CSE - 2021 | MGT1014 | Fundamentals of Brand Management | TH | 3.0 |
+| 268 | University Elective Basket of B.Tech. CSE - 2021 | MGT1015 | Fundamentals of Consumer Behaviour | TH | 3.0 |
+| 269 | University Elective Basket of B.Tech. CSE - 2021 | MGT1026 | Basics of Investment Analysis and Portfolio Management | TH | 3.0 |
+| 270 | University Elective Basket of B.Tech. CSE - 2021 | MGT1029 | Basic Law for Engineers | TH | 3.0 |
+| 271 | University Elective Basket of B.Tech. CSE - 2021 | MGT1036 | Introduction to Macroeconomics | TH | 3.0 |
+| 272 | University Elective Basket of B.Tech. CSE - 2021 | MGT1042 | Financial and Management Accounting | ETP | 4.0 |
+| 273 | University Elective Basket of B.Tech. CSE - 2021 | MGT1103 | Microeconomics | ETP | 4.0 |
+| 274 | University Elective Basket of B.Tech. CSE - 2021 | MGT1109 | Management Accounting | TH | 3.0 |
+| 275 | University Elective Basket of B.Tech. CSE - 2021 | MGT2006 | Fundamentals of Financial Management | ETP | 4.0 |
+| 276 | University Elective Basket of B.Tech. CSE - 2021 | MGT2014 | Fundamentals of Marketing Management | TH | 3.0 |
+| 277 | University Elective Basket of B.Tech. CSE - 2021 | MGT2016 | Essentials of Marketing Management | TH | 4.0 |
+| 278 | University Elective Basket of B.Tech. CSE - 2021 | MGT2023 | Impact Evaluation | TH | 4.0 |
+| 279 | University Elective Basket of B.Tech. CSE - 2021 | MGT3004 | Fundamentals of Operations and Supply Chain Management | ETP | 4.0 |
+| 280 | University Elective Basket of B.Tech. CSE - 2021 | ONL1001 | Problem Solving Through Programming in C | OC | 2.0 |
+| 281 | University Elective Basket of B.Tech. CSE - 2021 | ONL1002 | Introduction to Soft Computing | OC | 2.0 |
+| 282 | University Elective Basket of B.Tech. CSE - 2021 | ONL1003 | Introduction to Computer Application | TH | 4.0 |
+| 283 | University Elective Basket of B.Tech. CSE - 2021 | ONL1004 | Programming in R | TH | 4.0 |
+| 284 | University Elective Basket of B.Tech. CSE - 2021 | ONL1005 | Principles of Programming | TH | 4.0 |
+| 285 | University Elective Basket of B.Tech. CSE - 2021 | ONL1006 | Legal Aspects of Business | TH | 4.0 |
+| 286 | University Elective Basket of B.Tech. CSE - 2021 | ONL1007 | Knowledge Management | TH | 4.0 |
+| 287 | University Elective Basket of B.Tech. CSE - 2021 | ONL1008 | The Joy of Computing using Python | OC | 2.0 |
+| 288 | University Elective Basket of B.Tech. CSE - 2021 | ONL1009 | Innovation by Design | OC | 1.0 |
+| 289 | University Elective Basket of B.Tech. CSE - 2021 | ONL1010 | Understanding Design | OC | 1.0 |
+| 290 | University Elective Basket of B.Tech. CSE - 2021 | ONL1011 | Decision-Making Under Uncertainity | OC | 1.0 |
+| 291 | University Elective Basket of B.Tech. CSE - 2021 | ONL1012 | Body Language: Key to Professional Success | OC | 1.0 |
+| 292 | University Elective Basket of B.Tech. CSE - 2021 | ONL1013 | Algebra - I | OC | 3.0 |
+| 293 | University Elective Basket of B.Tech. CSE - 2021 | ONL1014 | A Basic Course in Number Theory | OC | 3.0 |
+| 294 | University Elective Basket of B.Tech. CSE - 2021 | ONL1015 | Solid State Physics | OC | 3.0 |
+| 295 | University Elective Basket of B.Tech. CSE - 2021 | ONL1016 | Short Fiction in Indian Literature | OC | 3.0 |
+| 296 | University Elective Basket of B.Tech. CSE - 2021 | ONL1017 | Feminist Writings | OC | 3.0 |
+| 297 | University Elective Basket of B.Tech. CSE - 2021 | ONL1018 | Principles of Management | OC | 3.0 |
+| 298 | University Elective Basket of B.Tech. CSE - 2021 | ONL1019 | Entrepreneurship and IP Strategy | OC | 2.0 |
+| 299 | University Elective Basket of B.Tech. CSE - 2021 | ONL1020 | Developing Soft Skills and Personality | OC | 2.0 |
+| 300 | University Elective Basket of B.Tech. CSE - 2021 | ONL1021 | Film Appreciation | OC | 2.0 |
+| 301 | University Elective Basket of B.Tech. CSE - 2021 | ONL1022 | Ecology and Society | OC | 3.0 |
+| 302 | University Elective Basket of B.Tech. CSE - 2021 | ONL1023 | Cognition, Transformation and Lives | OC | 1.0 |
+| 303 | University Elective Basket of B.Tech. CSE - 2021 | ONL1024 | Design Thinking - A Primer | OC | 1.0 |
+| 304 | University Elective Basket of B.Tech. CSE - 2021 | ONL1025 | Knowledge Management | OC | 3.0 |
+| 305 | University Elective Basket of B.Tech. CSE - 2021 | ONL1026 | Gender Justice and Workplace Security | OC | 1.0 |
+| 306 | University Elective Basket of B.Tech. CSE - 2021 | ONL1028 | Managerial Economics | OC | 3.0 |
+| 307 | University Elective Basket of B.Tech. CSE - 2021 | ONL1029 | Stress Management | OC | 1.0 |
+| 308 | University Elective Basket of B.Tech. CSE - 2021 | ONL1031 | Workshop - Decision Making Under Uncertainity | OC | 1.0 |
+| 309 | University Elective Basket of B.Tech. CSE - 2021 | ONL1038 | Data Analytics with Python | OC | 3.0 |
+| 310 | University Elective Basket of B.Tech. CSE - 2021 | ONL2001 | Introduction to Internet of Things | OC | 2.0 |
+| 311 | University Elective Basket of B.Tech. CSE - 2021 | ONL2002 | Blockchain Architecture, Design and Use Cases | OC | 2.0 |
+| 312 | University Elective Basket of B.Tech. CSE - 2021 | ONL2003 | Introduction to Machine Learning | OC | 2.0 |
+| 313 | University Elective Basket of B.Tech. CSE - 2021 | ONL2004 | Modern Digital Communication Techniques | OC | 2.0 |
+| 314 | University Elective Basket of B.Tech. CSE - 2021 | ONL2005 | Statistical Data Analytics for Business Research | TH | 4.0 |
+| 315 | University Elective Basket of B.Tech. CSE - 2021 | ONL2006 | Accounting and Financial Management | TH | 4.0 |
+| 316 | University Elective Basket of B.Tech. CSE - 2021 | ONL2007 | Essentials of Machine Learning | TH | 4.0 |
+| 317 | University Elective Basket of B.Tech. CSE - 2021 | ONL2008 | Operating Systems | TH | 3.0 |
+| 318 | University Elective Basket of B.Tech. CSE - 2021 | ONL2009 | Logistics and Supply Chain Management | TH | 4.0 |
+| 319 | University Elective Basket of B.Tech. CSE - 2021 | ONL2010 | Introduction to Bio-Inspired Design | OC | 1.0 |
+| 320 | University Elective Basket of B.Tech. CSE - 2021 | ONL2011 | Machine Learning using Python | TH | 3.0 |
+| 321 | University Elective Basket of B.Tech. CSE - 2021 | ONL2012 | Marketing Management | OC | 4.0 |
+| 322 | University Elective Basket of B.Tech. CSE - 2021 | ONL2013 | Social Networks | OC | 2.0 |
+| 323 | University Elective Basket of B.Tech. CSE - 2021 | ONL2014 | Mathematical Portfolio Theory | OC | 3.0 |
+| 324 | University Elective Basket of B.Tech. CSE - 2021 | ONL2015 | Integral Transforms and their Applications | OC | 3.0 |
+| 325 | University Elective Basket of B.Tech. CSE - 2021 | ONL2016 | Computational Number Theory and Algebra | OC | 3.0 |
+| 326 | University Elective Basket of B.Tech. CSE - 2021 | ONL2017 | Mathematical Finance | OC | 3.0 |
+| 327 | University Elective Basket of B.Tech. CSE - 2021 | ONL2018 | Co-ordination Chemistry (Chemistry of Transition Elements) | OC | 3.0 |
+| 328 | University Elective Basket of B.Tech. CSE - 2021 | ONL2019 | Introduction to Chemical Thermodynamics and Kinetics | OC | 3.0 |
+| 329 | University Elective Basket of B.Tech. CSE - 2021 | ONL2020 | Computational Physics | OC | 3.0 |
+| 330 | University Elective Basket of B.Tech. CSE - 2021 | ONL2021 | Text, Textuality and Digital Media | OC | 3.0 |
+| 331 | University Elective Basket of B.Tech. CSE - 2021 | ONL2022 | Regression Analysis | OC | 3.0 |
+| 332 | University Elective Basket of B.Tech. CSE - 2021 | ONL2023 | Consumer Psychology | OC | 2.0 |
+| 333 | University Elective Basket of B.Tech. CSE - 2021 | ONL2024 | Gender and Literature | OC | 2.0 |
+| 334 | University Elective Basket of B.Tech. CSE - 2021 | ONL2025 | Introduction to Western Political Thought | OC | 3.0 |
+| 335 | University Elective Basket of B.Tech. CSE - 2021 | ONL2026 | Classical Sociological Theory | OC | 3.0 |
+| 336 | University Elective Basket of B.Tech. CSE - 2021 | ONL2027 | Elements of Visual Representation | OC | 2.0 |
+| 337 | University Elective Basket of B.Tech. CSE - 2021 | ONL2028 | Science, Technology and Society | OC | 3.0 |
+| 338 | University Elective Basket of B.Tech. CSE - 2021 | ONL2029 | Sociological Perspectives on Modernity | OC | 3.0 |
+| 339 | University Elective Basket of B.Tech. CSE - 2021 | ONL2030 | Constitutional Studies | OC | 3.0 |
+| 340 | University Elective Basket of B.Tech. CSE - 2021 | ONL2031 | Marketing Research and Analysis | OC | 2.0 |
+| 341 | University Elective Basket of B.Tech. CSE - 2021 | ONL2032 | Linear System Theory | OC | 3.0 |
+| 342 | University Elective Basket of B.Tech. CSE - 2021 | ONL2037 | Getting Started with Competitive Programming | OC | 3.0 |
+| 343 | University Elective Basket of B.Tech. CSE - 2021 | ONL2038 | Programming in Modern C++ | OC | 3.0 |
+| 344 | University Elective Basket of B.Tech. CSE - 2021 | ONL2040 | Cyber Security and Privacy | OC | 3.0 |
+| 345 | University Elective Basket of B.Tech. CSE - 2021 | ONL2041 | Design & Implementation of Human-Computer Interfaces | OC | 3.0 |
+| 346 | University Elective Basket of B.Tech. CSE - 2021 | ONL2042 | Ethical Hacking | OC | 3.0 |
+| 347 | University Elective Basket of B.Tech. CSE - 2021 | ONL2043 | Responsible & Safe AI Systems | OC | 3.0 |
+| 348 | University Elective Basket of B.Tech. CSE - 2021 | ONL2044 | Secure Computation: Part II | OC | 3.0 |
+| 349 | University Elective Basket of B.Tech. CSE - 2021 | ONL2045 | Statistical Learning for Reliability Analysis | OC | 3.0 |
+| 350 | University Elective Basket of B.Tech. CSE - 2021 | ONL2046 | Google Cloud Computing Foundations | OC | 2.0 |
+| 351 | University Elective Basket of B.Tech. CSE - 2021 | ONL2047 | Big Data Computing | OC | 2.0 |
+| 352 | University Elective Basket of B.Tech. CSE - 2021 | ONL2048 | Data Science for Engineers | OC | 2.0 |
+| 353 | University Elective Basket of B.Tech. CSE - 2021 | ONL2049 | Introduction to Quantum Computing: Quantum Algorithms and Qiskit | OC | 1.0 |
+| 354 | University Elective Basket of B.Tech. CSE - 2021 | ONL2050 | Artificial Intelligence: Knowledge Representation And Reasoning | OC | 3.0 |
+| 355 | University Elective Basket of B.Tech. CSE - 2021 | ONL3001 | Mathematical Methods and Techniques in Signal Processing | OC | 2.0 |
+| 356 | University Elective Basket of B.Tech. CSE - 2021 | ONL3002 | Industrial Automation and Control | OC | 2.0 |
+| 357 | University Elective Basket of B.Tech. CSE - 2021 | ONL3003 | Computer Networks | TH | 3.0 |
+| 358 | University Elective Basket of B.Tech. CSE - 2021 | ONL3004 | Data Warehousing and Data Mining | TH | 3.0 |
+| 359 | University Elective Basket of B.Tech. CSE - 2021 | ONL3005 | Artificial Intelligence for Beginners | OC | 3.0 |
+| 360 | University Elective Basket of B.Tech. CSE - 2021 | ONL3006 | Elements of Network Simulation | OC | 2.0 |
+| 361 | University Elective Basket of B.Tech. CSE - 2021 | ONL3007 | IoT Design and Applications | OC | 3.0 |
+| 362 | University Elective Basket of B.Tech. CSE - 2021 | ONL3008 | International Business | OC | 3.0 |
+| 363 | University Elective Basket of B.Tech. CSE - 2021 | ONL3009 | Project Management for Managers | OC | 3.0 |
+| 364 | University Elective Basket of B.Tech. CSE - 2021 | ONL3010 | Quantum Chemistry of Atoms and Molecules | OC | 3.0 |
+| 365 | University Elective Basket of B.Tech. CSE - 2021 | ONL3011 | Solar Photovoltaics : Fundamentals, Technology and Applications | OC | 2.0 |
+| 366 | University Elective Basket of B.Tech. CSE - 2021 | ONL3012 | Semiconductor Optoelectronics | OC | 3.0 |
+| 367 | University Elective Basket of B.Tech. CSE - 2021 | ONL3013 | Dynamical System and Control | OC | 3.0 |
+| 368 | University Elective Basket of B.Tech. CSE - 2021 | ONL3014 | Introduction to Fuzzy Set Theory, Arithmetic and Logic | OC | 3.0 |
+| 369 | University Elective Basket of B.Tech. CSE - 2021 | ONL3020 | Privacy and Security in Online Social Media | OC | 3.0 |
+| 370 | University Elective Basket of B.Tech. CSE - 2021 | ONL3021 | Affective Computing | OC | 3.0 |
+| 371 | University Elective Basket of B.Tech. CSE - 2021 | ONL3022 | Advanced R Programming for Data Analytics in Business | OC | 3.0 |
+| 372 | University Elective Basket of B.Tech. CSE - 2021 | ONL3023 | Advanced Distributed Systems | OC | 3.0 |
+| 373 | University Elective Basket of B.Tech. CSE - 2021 | ONL3024 | Artificial Intelligence : Search Methods For Problem solving | OC | 3.0 |
+| 374 | University Elective Basket of B.Tech. CSE - 2021 | ONL3025 | Getting Started with Competitive Programming | OC | 3.0 |
+| 375 | University Elective Basket of B.Tech. CSE - 2021 | ONL3026 | Distributed Optimization and Machine Learning | OC | 3.0 |
+| 376 | University Elective Basket of B.Tech. CSE - 2021 | ONL3027 | Introduction to Industry 4.0 and Industrial Internet of Things | OC | 3.0 |
+| 377 | University Elective Basket of B.Tech. CSE - 2021 | ONL3028 | Practical Cyber Security for Cyber Security Practitioners | OC | 3.0 |
+| 378 | University Elective Basket of B.Tech. CSE - 2021 | ONL3029 | Demystifying Networking | OC | 1.0 |
+| 379 | University Elective Basket of B.Tech. CSE - 2021 | ONL3030 | Software Conceptual Design | OC | 1.0 |
+| 380 | University Elective Basket of B.Tech. CSE - 2021 | ONL3032 | Deep Learning | OC | 3.0 |
+| 381 | University Elective Basket of B.Tech. CSE - 2021 | ONL3033 | Foundation of Cloud IoT Edge ML | OC | 2.0 |
+| 382 | University Elective Basket of B.Tech. CSE - 2021 | ONL3034 | Machine Learning | OC | 2.0 |
+| 383 | University Elective Basket of B.Tech. CSE - 2021 | ONL3035 | Machine Learning for Engineering and Science Applications | OC | 3.0 |
+| 384 | University Elective Basket of B.Tech. CSE - 2021 | ONL3039 | GPU Architectures and Programming | OC | 3.0 |
+| 385 | University Elective Basket of B.Tech. CSE - 2021 | ONL3041 | Artificial Intelligence and Machine Learning in Materials Engineering | OC | 3.0 |
+| 386 | University Elective Basket of B.Tech. CSE - 2021 | ONL4001 | Optimization Techniques for Digital VLSI Design | OC | 2.0 |
+| 387 | University Elective Basket of B.Tech. CSE - 2021 | ONL4002 | Randomized Algorithms | OC | 2.0 |
+| 388 | University Elective Basket of B.Tech. CSE - 2021 | ONL4003 | Compiler Design | OC | 2.0 |
+| 389 | University Elective Basket of B.Tech. CSE - 2021 | ONL4004 | Engineering Metrology | OC | 3.0 |
+| 390 | University Elective Basket of B.Tech. CSE - 2021 | ONL4005 | DC Microgrid and Control System | OC | 2.0 |
+| 391 | University Elective Basket of B.Tech. CSE - 2021 | ONL4008 | Applied Accelerated Artificial Intelligence | OC | 3.0 |
+| 392 | University Elective Basket of B.Tech. CSE - 2021 | ONL4009 | Deep Learning for Computer Vision | OC | 3.0 |
+| 393 | University Elective Basket of B.Tech. CSE - 2021 | ONL4010 | Artificial Intelligence for Economics | OC | 2.0 |
+| 394 | University Elective Basket of B.Tech. CSE - 2021 | ONL4011 | AI:Constraint Satisfaction | OC | 2.0 |
+| 395 | University Elective Basket of B.Tech. CSE - 2021 | ONL4012 | Deep Learning for Natural Language Processing | OC | 3.0 |
+| 396 | University Elective Basket of B.Tech. CSE - 2021 | ONL4013 | Reinforcement Learning | OC | 3.0 |
+| 397 | University Elective Basket of B.Tech. CSE - 2021 | ONL4014 | Blockchain and its Applications | OC | 3.0 |
+| 398 | University Elective Basket of B.Tech. CSE - 2021 | ONL4015 | Design and Engineering of Computer Systems | OC | 2.0 |
+| 399 | University Elective Basket of B.Tech. CSE - 2021 | ONL4018 | Cryptography and Network Security | OC | 3.0 |
+| 400 | University Elective Basket of B.Tech. CSE - 2021 | ONL4020 | User-Centric Computing for Human-Computer Interaction | OC | 2.0 |
+| 401 | University Elective Basket of B.Tech. CSE - 2021 | ONL4021 | Introduction to Large Language Models (LLMs) | OC | 3.0 |
+| 402 | University Elective Basket of B.Tech. CSE - 2021 | PHY1002 | Semiconductor Device Physics | TH | 4.0 |
+| 403 | University Elective Basket of B.Tech. CSE - 2021 | PHY1006 | Physics of Materials | ETL | 4.0 |
+| 404 | University Elective Basket of B.Tech. CSE - 2021 | PHY2003 | Condensed Matter Physics | TH | 3.0 |
+| 405 | University Elective Basket of B.Tech. CSE - 2021 | PHY2004 | Optoelectronics | TH | 3.0 |
+| 406 | University Elective Basket of B.Tech. CSE - 2021 | PHY2005 | Introduction to Nanotechnology | TH | 3.0 |
+| 407 | University Elective Basket of B.Tech. CSE - 2021 | PHY2006 | Solar Photovoltaics : Fundamentals and Technologies | TH | 3.0 |
+| 408 | University Elective Basket of B.Tech. CSE - 2021 | STS3006 | Basic Competitive Coding - I | TH | 3.0 |
+| 409 | University Elective Basket of B.Tech. CSE - 2021 | STS3007 | Advanced Competitive Coding - I | TH | 3.0 |
+| 410 | University Elective Basket of B.Tech. CSE - 2021 | STS4005 | Basic Competitive Coding - II | TH | 3.0 |
+| 411 | University Elective Basket of B.Tech. CSE - 2021 | STS4006 | Advanced Competitive Coding - II | TH | 3.0 |
+| 412 | University Elective Basket of B.Tech. CSE - 2021 | SWE2008 | Object Oriented Analysis and Design | ETL | 4.0 |
+| 413 | University Elective Basket of B.Tech. CSE - 2021 | TEC4001 | Technical Writing and Presentation | PJT | 1.0 |

@@ -1,0 +1,37 @@
+=== CREDIT INFORMATION (UNDERGRADUATE PROGRAMS) ===
+
+The following **credit distribution** applies to **Undergraduate Programs at VIT-AP University**  
+(*excluding Minor and Dual Degree options*).  
+This structure ensures **balanced academic learning**, combining **core domain knowledge** with **interdisciplinary exposure**.
+
+---
+
+### **Credit Distribution**
+
+| **Sl.No.** | **Category**            | **Credits** |
+|-----------:|------------------------|-----------:|
+| 1          | Programme Core          | 36         |
+| 2          | Programme Elective      | 20         |
+| 3          | University Core         | 92         |
+| 4          | University Elective     | 12         |
+| **Total**  | **Overall Credits**     | **160**    |
+
+---
+
+### **Category Details**
+- **Programme Core:** Builds strong **foundational and advanced knowledge** in the chosen discipline.  
+- **Programme Electives:** Enables **specialization and domain-focused learning**.  
+- **University Core:** Provides **essential skills and interdisciplinary learning opportunities**.  
+- **University Electives:** Encourages **exploration beyond the core program**.
+
+---
+
+**Note:**  
+- This structure is **for undergraduate programs without Minor/Dual Degree**.  
+- Credits may vary for **programs with minors, honors, or dual degrees** as per curriculum guidelines.  
+
+---
+
+**Quote**  
+“A balanced credit framework nurtures **academic excellence, interdisciplinary knowledge, and holistic student growth**.”  
+– *VIT-AP Academic Council*  
