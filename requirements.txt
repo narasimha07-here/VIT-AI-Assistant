@@ -1,4 +1,4 @@
-langchain 
+langchain==0.0.310
 langchain_openai 
 langchain_core
 langchain_community
