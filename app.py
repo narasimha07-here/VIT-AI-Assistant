@@ -9,15 +9,10 @@ import time
 import hashlib
 from datetime import datetime, timedelta
 
-# -----------------------------
-# Load environment variables
-# -----------------------------
 load_dotenv()
 
-# -----------------------------
-# Enhanced Caching with TTL and Query Hashing
-# -----------------------------
-@st.cache_data(ttl=3600, show_spinner=False)  # Cache for 1 hour
+
+@st.cache_data(ttl=3600, show_spinner=False)  
 def cache_query_response(query_hash, response_data):
     """Cache query responses with TTL"""
     return response_data
@@ -27,7 +22,7 @@ def get_query_hash(query, memory_context=""):
     combined = f"{query.lower().strip()}{memory_context}"
     return hashlib.md5(combined.encode()).hexdigest()
 
-@st.cache_resource(show_spinner=False, ttl=7200)  # Cache for 2 hours
+@st.cache_resource(show_spinner=False, ttl=7200)  
 def load_assets():
     """Load and cache retriever + embeddings with enhanced error handling"""
     from data_loader import load_documents
@@ -44,9 +39,9 @@ def load_assets():
                 "university",
                 "./vectordb"
             )
-            # Enhanced retrieval parameters for better performance
+
             retriever.search_kwargs = {
-                "k": 6,  # Reduced from 8 for faster retrieval
+                "k": 6,  
             }
             return retriever
     except Exception as e:
@@ -58,16 +53,13 @@ def get_llm():
     """Load and cache the LLM with connection pooling"""
     from llm_model import initialize_llm
     with st.spinner("⚡ Initializing AI model..."):
-        # Add connection pooling if using API-based LLM
+        
         llm = initialize_llm()
-        # Configure for faster responses
         if hasattr(llm, 'temperature'):
-            llm.temperature = 0.3  # Lower temperature for faster, more consistent responses
+            llm.temperature = 0.3  
         return llm
 
-# -----------------------------
-# Enhanced UI Components
-# -----------------------------
+
 def inject_advanced_css():
     """Inject advanced CSS with animations and modern design"""
     st.markdown("""
@@ -459,7 +451,6 @@ def render_enhanced_sidebar():
             help="Display response time and caching statistics"
         )
         
-        # Response settings
         st.subheader("💬 Response Style")
         response_style = st.selectbox(
             "Response Detail Level",
@@ -528,9 +519,6 @@ def show_enhanced_typing_indicator():
     </div>
     """, unsafe_allow_html=True)
 
-# -----------------------------
-# Enhanced Processing Functions
-# -----------------------------
 def get_optimized_prompt(response_style):
     """Get optimized prompt based on response style"""
     
@@ -598,7 +586,6 @@ async def process_query_with_caching(query, retrieval_chain, settings):
             "chat_history": st.session_state.chat_history[-settings['memory_window']:]
         })
         
-        # Cache the response if enabled
         if settings['use_cache']:
             st.session_state[f"cache_{query_hash}"] = {
                 'data': response,
@@ -644,11 +631,9 @@ def display_enhanced_context(docs, show_context):
     elif show_context:
         st.info("💡 No specific source documents were used for this general response.")
 
-# -----------------------------
-# Main Enhanced Application
-# -----------------------------
+
 def main():
-    # Enhanced page configuration
+
     st.set_page_config(
         page_title="VIT AI Assistant - Enhanced",
         page_icon="🏫",
@@ -661,30 +646,25 @@ def main():
         }
     )
     
-    # Inject advanced CSS
+
     inject_advanced_css()
-    
-    # Render enhanced header
+
     render_enhanced_header()
     
-    # Initialize enhanced session state
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = []
         st.session_state.total_queries = 0
         st.session_state.cache_hits = 0
     
-    # Enhanced sidebar
     settings = render_enhanced_sidebar()
     
-    # Clear chat if requested
     if settings['clear_chat']:
         st.session_state.chat_history = []
         st.session_state.total_queries = 0
         st.session_state.cache_hits = 0
         st.rerun()
     
-    
-    # Load resources with enhanced error handling
+
     try:
         with st.spinner("🚀 Initializing your enhanced AI assistant..."):
             retriever = load_assets()
@@ -697,13 +677,11 @@ def main():
     if retriever is None or llm is None:
         st.error("⚠️ Failed to initialize AI components. Please contact support.")
         st.stop()
-    
-    # Create optimized chains
+
     qa_prompt = get_optimized_prompt(settings['response_style'])
     document_chain = create_stuff_documents_chain(llm, qa_prompt)
     retrieval_chain = create_retrieval_chain(retriever, document_chain)
     
-    # Display enhanced chat history
     for msg in st.session_state.chat_history:
         if isinstance(msg, HumanMessage):
             with st.chat_message("user", avatar="🧑‍🎓"):
@@ -711,24 +689,21 @@ def main():
         else:
             with st.chat_message("assistant", avatar="🏫"):
                 st.markdown(f"**VIT Assistant**  \n{msg.content}")
-    
-    # Enhanced chat input with suggestions
+
     placeholder_text = "Ask about VIT courses, admissions, campus life, or anything else..."
     
     if prompt := st.chat_input(placeholder_text):
-        # Add user message
+
         st.session_state.chat_history.append(HumanMessage(content=prompt))
         st.session_state.total_queries += 1
         
         with st.chat_message("user", avatar="🧑‍🎓"):
             st.markdown(f"**You**  \n{prompt}")
-        
-        # Process with enhanced typing indicator
+
         with st.chat_message("assistant", avatar="🏫"):
             with st.empty():
                 show_enhanced_typing_indicator()
                 
-                # Process query with caching and optimization
                 try:
                     response = retrieval_chain.invoke({
                         "input": prompt,
@@ -736,12 +711,10 @@ def main():
                     })
                     
                     answer = response.get("answer", "I couldn't generate a response. Please try again.")
-                    
-                    # Display response
+
                     st.markdown(f"**VIT Assistant**  \n{answer}")
                     st.session_state.chat_history.append(AIMessage(content=answer))
-                    
-                    # Display enhanced context
+
                     display_enhanced_context(response.get("context", []), settings['show_context'])
                     
                 except Exception as e:
