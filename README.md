@@ -1,6 +1,6 @@
 # VIT AI Assistant
 
-VIT AI Assistant is a chatbot designed specifically for VIT students to assist with common queries and support related to their academic and campus life.
+VIT AI Assistant is a chatbot designed specifically for VIT-AP students to assist with common queries and support related to their academic and campus life.
 
 ## Features
 
