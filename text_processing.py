@@ -54,16 +54,13 @@ def create_vector_store(
         raise TypeError("Input must be a list of LangChain Document objects")
 
     try:
-        # -------------------------------
-        # 1. Semantic Chunking with configurable parameters
-        # -------------------------------
+ 
         text_splitter = SemanticChunker(
             embedding_model,
             breakpoint_threshold_type=chunking_method,
             breakpoint_threshold_amount=chunking_threshold
         )
         
-        # Process documents in batches for large collections
         batch_size = 100
         chunked_docs = []
         for i in range(0, len(documents), batch_size):
@@ -71,20 +68,16 @@ def create_vector_store(
             chunked_docs.extend(text_splitter.split_documents(batch))
             logging.info(f"Processed {min(i + batch_size, len(documents))}/{len(documents)} documents")
 
-        # -------------------------------
-        # 2. Create Chroma Vector Store with metadata handling
-        # -------------------------------
+
         vector_store = Chroma.from_documents(
             documents=chunked_docs,
             embedding=embedding_model,
             collection_name=collection_name,
             persist_directory=persist_directory,
-            collection_metadata={"hnsw:space": "cosine"}  # Optimize for cosine similarity
+            collection_metadata={"hnsw:space": "cosine"}  
         )
 
-        # -------------------------------
-        # 3. Create configurable retriever
-        # -------------------------------
+
         retriever = vector_store.as_retriever(
             search_type="similarity",
             search_kwargs={
