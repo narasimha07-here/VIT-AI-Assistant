@@ -1,13 +1,12 @@
 import os
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
+import streamlit as st
 
 def initialize_llm():
-    # Load .env first
     load_dotenv()
-    
-    # Use the OpenRouter key
-    api_key = os.getenv("OPENROUTER_KEY")
+
+    api_key = st.secrets["openrouter"]["api_key"]
     if not api_key:
         raise ValueError("OPENROUTER_KEY not found in environment variables!")
     
